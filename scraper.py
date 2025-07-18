@@ -2,11 +2,11 @@ import requests, time
 from bs4 import BeautifulSoup
 import pandas as pd
 from io import StringIO
+import os
 
 
 class PremierLeagueScraper:
     def __init__(self):
-        self.all_matches = []
         self.standings_url = "https://fbref.com/en/comps/9/Premier-League-Stats"
 
     def send_request(self,url,penalty):
@@ -43,6 +43,11 @@ class PremierLeagueScraper:
             for team_url in team_urls:
                 team_name = team_url.split('/')[-1].replace('-Stats', '').replace('-', ' ').title()
 
+                csv_filename = f'datasets/{team_name.replace(" ", "_")}_{year}_matches.csv'
+                if os.path.exists(csv_filename):
+                    print(f"{csv_filename} already exists. Skipping...")
+                    continue
+                time.sleep(penalty)
                 response, penalty = self.send_request(team_url, penalty)
                 matches = pd.read_html(StringIO(response.text), match='Scores & Fixtures')[0]
 
@@ -61,14 +66,23 @@ class PremierLeagueScraper:
                 team_data = team_data[team_data['Comp'] == 'Premier League']
                 team_data['Team'] = team_name
                 team_data['Season'] = year
-                self.all_matches.append(team_data)
+                team_data.to_csv(f'datasets/{team_name.replace(" ", "_")}_{year}_matches.csv', index=False)
+                print(f"Data for {team_name} ({year}) saved to {csv_filename}.")
+                time.sleep(30)
                 
 
 
-        match_df = pd.concat(self.all_matches)
-        match_df.columns = [c.lower() for c in match_df.columns]
+        all_files = [os.path.join('datasets', f) for f in os.listdir('datasets') if f.endswith('.csv')]
+        df_list = [pd.read_csv(f) for f in all_files]
+        if df_list:
+            final_df = pd.concat(df_list, ignore_index=True)
+            final_df.columns = [c.lower() for c in final_df.columns]
+            final_df.to_csv('datasets/final_matches.csv', index=False)
+            print("Final dataset saved to 'datasets/final_matches.csv'.")
+        else:
+            print("No CSV files found in 'datasets' folder.")
 
-        match_df.to_csv('matches.csv', index=False)
+        
         
         
 
