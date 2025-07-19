@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2021-08-15,14:00,Premier League,Matchweek 1,Sun,Home,L,2,4,West Ham,1.8,2.7,46,50673,Federico Fernández,5-3-2,4-2-3-1,Martin Atkinson,Match Report,,17,3,16.3,0.0,0,0,Newcastle United,2022
+2021-08-21,15:00,Premier League,Matchweek 2,Sat,Away,L,0,2,Aston Villa,0.7,1.2,53,41964,Jamaal Lascelles,5-3-2,4-3-3,David Coote,Match Report,,9,1,16.1,0.0,0,0,Newcastle United,2022
+2021-08-28,15:00,Premier League,Matchweek 3,Sat,Home,D,2,2,Southampton,1.0,3.6,37,44017,Jamaal Lascelles,3-5-2,4-4-2,Paul Tierney,Match Report,,10,4,16.5,1.0,0,0,Newcastle United,2022
+2021-09-11,15:00,Premier League,Matchweek 4,Sat,Away,L,1,4,Manchester Utd,0.4,2.5,37,72732,Jamaal Lascelles,5-4-1,4-2-3-1,Anthony Taylor,Match Report,,12,3,22.5,0.0,0,0,Newcastle United,2022
+2021-09-17,20:00,Premier League,Matchweek 5,Fri,Home,D,1,1,Leeds United,1.3,1.5,35,50407,Jamaal Lascelles,5-4-1,4-1-4-1,Mike Dean,Match Report,,17,7,19.2,0.0,0,0,Newcastle United,2022
+2021-09-25,15:00,Premier League,Matchweek 6,Sat,Away,D,1,1,Watford,1.9,0.9,47,20650,Federico Fernández,4-1-4-1,4-2-3-1,Jarred Gillett,Match Report,,20,6,17.9,1.0,0,0,Newcastle United,2022
+2021-10-02,15:00,Premier League,Matchweek 7,Sat,Away,L,1,2,Wolves,0.6,1.0,48,30483,Federico Fernández,4-1-4-1,3-4-3,Graham Scott,Match Report,,8,2,16.5,1.0,0,0,Newcastle United,2022
+2021-10-17,16:30,Premier League,Matchweek 8,Sun,Home,L,2,3,Tottenham,0.4,1.7,36,52214,Jamaal Lascelles,4-1-4-1,4-2-3-1,Andre Marriner,Match Report,,7,1,17.4,0.0,0,0,Newcastle United,2022
+2021-10-23,15:00,Premier League,Matchweek 9,Sat,Away,D,1,1,Crystal Palace,0.3,1.9,26,24609,Jamaal Lascelles,5-3-2,4-3-3,Darren England,Match Report,,6,1,14.2,0.0,0,0,Newcastle United,2022
+2021-10-30,15:00,Premier League,Matchweek 10,Sat,Home,L,0,3,Chelsea,0.2,2.2,21,52208,Jamaal Lascelles,5-3-2,3-4-3,Paul Tierney,Match Report,,6,1,19.7,0.0,0,0,Newcastle United,2022
+2021-11-06,17:30,Premier League,Matchweek 11,Sat,Away,D,1,1,Brighton,0.3,1.5,35,31267,Jamaal Lascelles,5-4-1,4-2-3-1,David Coote,Match Report,,6,1,18.1,0.0,0,0,Newcastle United,2022
+2021-11-20,15:00,Premier League,Matchweek 12,Sat,Home,D,3,3,Brentford,1.5,0.9,53,52131,Jamaal Lascelles,3-4-3,3-5-2,Robert Jones,Match Report,,23,8,16.1,0.0,0,0,Newcastle United,2022
+2021-11-27,12:30,Premier League,Matchweek 13,Sat,Away,L,0,2,Arsenal,0.3,2.5,34,59886,Jamaal Lascelles,4-4-2,4-4-1-1,Stuart Attwell,Match Report,,9,5,24.5,0.0,0,0,Newcastle United,2022
+2021-11-30,19:30,Premier League,Matchweek 14,Tue,Home,D,1,1,Norwich City,1.1,1.2,32,50757,Callum Wilson,4-4-2,4-1-4-1,Andy Madley,Match Report,,8,0,22.6,0.0,1,1,Newcastle United,2022
+2021-12-04,15:00,Premier League,Matchweek 15,Sat,Home,W,1,0,Burnley,1.0,0.6,48,51948,Jamaal Lascelles,4-4-2,4-4-2,Paul Tierney,Match Report,,19,4,17.9,0.0,0,0,Newcastle United,2022
+2021-12-12,14:00,Premier League,Matchweek 16,Sun,Away,L,0,4,Leicester City,1.0,2.6,53,31959,Jamaal Lascelles,4-4-2,4-2-3-1,Peter Bankes,Match Report,,12,3,18.1,0.0,0,0,Newcastle United,2022
+2021-12-16,20:00,Premier League,Matchweek 17,Thu,Away,L,1,3,Liverpool,0.3,2.7,26,52951,Jamaal Lascelles,4-5-1,4-3-3,Mike Dean,Match Report,,5,3,31.4,2.0,0,0,Newcastle United,2022
+2021-12-19,14:15,Premier League,Matchweek 18,Sun,Home,L,0,4,Manchester City,0.3,2.9,29,52127,Jamaal Lascelles,4-5-1,4-2-3-1,Martin Atkinson,Match Report,,5,1,19.9,0.0,0,0,Newcastle United,2022
+2021-12-27,20:00,Premier League,Matchweek 19,Mon,Home,D,1,1,Manchester Utd,1.3,1.6,32,52178,Jamaal Lascelles,4-5-1,4-2-2-2,Craig Pawson,Match Report,,13,8,22.6,0.0,0,0,Newcastle United,2022
+2022-01-15,15:00,Premier League,Matchweek 22,Sat,Home,D,1,1,Watford,1.2,1.4,52,52223,Jamaal Lascelles,4-3-3,4-3-3,Paul Tierney,Match Report,,12,1,14.6,0.0,0,0,Newcastle United,2022
+2022-01-22,15:00,Premier League,Matchweek 23,Sat,Away,W,1,0,Leeds United,0.9,0.7,38,36405,Jamaal Lascelles,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,15,3,19.7,1.0,0,0,Newcastle United,2022
+2022-02-08,19:45,Premier League,Matchweek 24,Tue,Home,W,3,1,Everton,1.9,0.7,40,52186,Jamaal Lascelles,4-3-3,3-4-3,Anthony Taylor,Match Report,,20,9,14.0,1.0,0,0,Newcastle United,2022
+2022-02-13,14:00,Premier League,Matchweek 25,Sun,Home,W,1,0,Aston Villa,0.5,0.6,38,52207,Kieran Trippier,4-3-3,4-3-3,Craig Pawson,Match Report,,10,2,21.5,1.0,0,0,Newcastle United,2022
+2022-02-19,12:30,Premier League,Matchweek 26,Sat,Away,D,1,1,West Ham,0.8,0.6,53,59949,Jonjo Shelvey,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,14,3,16.0,0.0,0,0,Newcastle United,2022
+2022-02-26,15:00,Premier League,Matchweek 27,Sat,Away,W,2,0,Brentford,2.7,0.4,63,17039,Jonjo Shelvey,4-3-3,4-3-3,Mike Dean,Match Report,,26,11,15.7,2.0,0,0,Newcastle United,2022
+2022-03-05,15:00,Premier League,Matchweek 28,Sat,Home,W,2,1,Brighton,1.7,1.5,32,52214,Jonjo Shelvey,4-3-3,4-1-2-1-2,Martin Atkinson,Match Report,,10,4,12.2,0.0,0,0,Newcastle United,2022
+2022-03-10,19:30,Premier League,Matchweek 21,Thu,Away,W,2,1,Southampton,0.6,1.1,33,30056,Jonjo Shelvey,4-3-3,4-4-2,Kevin Friend,Match Report,,8,3,16.4,0.0,0,0,Newcastle United,2022
+2022-03-13,14:00,Premier League,Matchweek 29,Sun,Away,L,0,1,Chelsea,0.3,1.1,29,40026,Jamaal Lascelles,5-4-1,4-3-3,David Coote,Match Report,,7,2,18.2,0.0,0,0,Newcastle United,2022
+2022-03-17,19:45,Premier League,Matchweek 20,Thu,Away,L,0,1,Everton,0.9,0.7,61,39068,Fabian Schär,4-3-3,4-2-3-1,Craig Pawson,Match Report,,17,6,20.7,1.0,0,0,Newcastle United,2022
+2022-04-03,16:30,Premier League,Matchweek 31,Sun,Away,L,1,5,Tottenham,0.5,3.1,40,57553,Jonjo Shelvey,4-3-3,3-4-3,Martin Atkinson,Match Report,,8,1,18.0,1.0,0,0,Newcastle United,2022
+2022-04-08,20:00,Premier League,Matchweek 32,Fri,Home,W,1,0,Wolves,1.5,0.4,42,52164,Jonjo Shelvey,4-3-3,3-4-3,Peter Bankes,Match Report,,11,3,19.7,1.0,1,1,Newcastle United,2022
+2022-04-17,14:15,Premier League,Matchweek 33,Sun,Home,W,2,1,Leicester City,1.8,0.6,32,52104,Jonjo Shelvey,4-3-3,4-1-4-1,Jarred Gillett,Match Report,,16,7,15.4,1.0,0,0,Newcastle United,2022
+2022-04-20,19:45,Premier League,Matchweek 30,Wed,Home,W,1,0,Crystal Palace,0.9,0.5,37,51938,Jonjo Shelvey,4-3-3,4-2-3-1,Tony Harrington,Match Report,,13,4,18.1,0.0,0,0,Newcastle United,2022
+2022-04-23,15:00,Premier League,Matchweek 34,Sat,Away,W,3,0,Norwich City,1.9,0.6,54,26910,Jamaal Lascelles,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,13,7,15.6,0.0,0,0,Newcastle United,2022
+2022-04-30,12:30,Premier League,Matchweek 35,Sat,Home,L,0,1,Liverpool,0.2,2.3,36,52281,Jonjo Shelvey,4-3-3,4-3-3,Andre Marriner,Match Report,,4,2,28.3,1.0,0,0,Newcastle United,2022
+2022-05-08,16:30,Premier League,Matchweek 36,Sun,Away,L,0,5,Manchester City,0.8,3.1,29,53336,Jamaal Lascelles,4-3-3,4-2-3-1,Stuart Attwell,Match Report,,7,3,16.5,0.0,0,0,Newcastle United,2022
+2022-05-16,20:00,Premier League,Matchweek 37,Mon,Home,W,2,0,Arsenal,1.6,0.6,51,52274,Callum Wilson,4-3-3,4-2-3-1,Darren England,Match Report,,16,4,19.1,0.0,0,0,Newcastle United,2022
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Away,W,2,1,Burnley,1.8,1.6,48,21361,Jamaal Lascelles,4-3-3,4-4-2,Craig Pawson,Match Report,,7,5,23.0,0.0,1,1,Newcastle United,2022

@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2021-08-14,15:00,Premier League,Matchweek 1,Sat,Home,W,3,2,Aston Villa,1.2,1.2,38,20051,Tom Cleverley,4-1-4-1,4-2-3-1,Mike Dean,Match Report,,13,7,17.9,0.0,0,0,Watford,2022
+2021-08-21,17:30,Premier League,Matchweek 2,Sat,Away,L,0,2,Brighton,0.5,1.3,44,29485,Tom Cleverley,4-1-4-1,4-4-1-1,Anthony Taylor,Match Report,,10,1,19.3,0.0,0,0,Watford,2022
+2021-08-29,14:00,Premier League,Matchweek 3,Sun,Away,L,0,1,Tottenham,0.8,1.0,43,57672,Craig Cathcart,4-1-4-1,4-3-3,Andre Marriner,Match Report,,9,2,16.3,1.0,0,0,Watford,2022
+2021-09-11,15:00,Premier League,Matchweek 4,Sat,Home,L,0,2,Wolves,0.2,2.2,45,20019,William Troost-Ekong,4-1-4-1,3-4-3,Peter Bankes,Match Report,,6,2,23.1,0.0,0,0,Watford,2022
+2021-09-18,15:00,Premier League,Matchweek 5,Sat,Away,W,3,1,Norwich City,2.4,1.0,51,26649,Tom Cleverley,4-2-3-1,4-3-3,Robert Jones,Match Report,,12,8,13.5,0.0,0,0,Watford,2022
+2021-09-25,15:00,Premier League,Matchweek 6,Sat,Home,D,1,1,Newcastle Utd,0.9,1.9,53,20650,Tom Cleverley,4-2-3-1,4-1-4-1,Jarred Gillett,Match Report,,15,4,21.2,1.0,0,0,Watford,2022
+2021-10-02,15:00,Premier League,Matchweek 7,Sat,Away,L,0,1,Leeds United,0.2,1.3,34,36261,Ben Foster,4-2-3-1,4-1-4-1,Simon Hooper,Match Report,,5,1,19.4,0.0,0,0,Watford,2022
+2021-10-16,12:30,Premier League,Matchweek 8,Sat,Home,L,0,5,Liverpool,0.5,3.3,25,21085,Moussa Sissoko,5-4-1,4-3-3,Jonathan Moss,Match Report,,6,2,18.2,0.0,0,0,Watford,2022
+2021-10-23,15:00,Premier League,Matchweek 9,Sat,Away,W,5,2,Everton,3.7,1.5,51,38834,Moussa Sissoko,4-1-4-1,4-4-1-1,Graham Scott,Match Report,,20,8,19.2,0.0,0,0,Watford,2022
+2021-10-30,15:00,Premier League,Matchweek 10,Sat,Home,L,0,1,Southampton,1.0,1.8,40,20869,Moussa Sissoko,4-4-1-1,4-4-2,Peter Bankes,Match Report,,10,3,20.2,1.0,0,0,Watford,2022
+2021-11-07,14:00,Premier League,Matchweek 11,Sun,Away,L,0,1,Arsenal,0.5,1.6,40,59833,Moussa Sissoko,4-1-4-1,4-4-1-1,Kevin Friend,Match Report,,7,1,19.7,0.0,0,0,Watford,2022
+2021-11-20,15:00,Premier League,Matchweek 12,Sat,Home,W,4,1,Manchester Utd,2.7,1.4,39,21087,Moussa Sissoko,4-1-4-1,4-2-3-1,Jonathan Moss,Match Report,,19,6,15.9,2.0,0,1,Watford,2022
+2021-11-28,14:00,Premier League,Matchweek 13,Sun,Away,L,2,4,Leicester City,2.8,2.1,44,32020,Moussa Sissoko,4-1-4-1,4-2-3-1,Andy Madley,Match Report,,16,4,16.4,1.0,1,1,Watford,2022
+2021-12-01,19:30,Premier League,Matchweek 14,Wed,Home,L,1,2,Chelsea,1.0,0.9,51,20388,Moussa Sissoko,4-1-4-1,3-4-3,David Coote,Match Report,,14,6,21.4,2.0,0,0,Watford,2022
+2021-12-04,17:30,Premier League,Matchweek 15,Sat,Home,L,1,3,Manchester City,0.8,3.1,23,20673,Moussa Sissoko,4-1-4-1,4-3-3,Simon Hooper,Match Report,,11,4,19.6,1.0,0,0,Watford,2022
+2021-12-10,20:00,Premier League,Matchweek 16,Fri,Away,L,1,2,Brentford,0.5,1.6,37,16861,Moussa Sissoko,4-2-3-1,3-5-2,Michael Oliver,Match Report,,6,2,14.9,1.0,0,0,Watford,2022
+2021-12-28,15:00,Premier League,Matchweek 20,Tue,Home,L,1,4,West Ham,1.6,3.6,43,20073,Moussa Sissoko,4-1-4-1,4-2-3-1,Darren England,Match Report,,14,5,15.2,0.0,0,0,Watford,2022
+2022-01-01,15:00,Premier League,Matchweek 21,Sat,Home,L,0,1,Tottenham,0.3,2.2,26,20391,Moussa Sissoko,4-4-2,3-4-3,Robert Jones,Match Report,,6,4,19.0,1.0,0,0,Watford,2022
+2022-01-15,15:00,Premier League,Matchweek 22,Sat,Away,D,1,1,Newcastle Utd,1.4,1.2,48,52223,Moussa Sissoko,4-3-3,4-3-3,Paul Tierney,Match Report,,18,5,19.3,2.0,0,0,Watford,2022
+2022-01-21,20:00,Premier League,Matchweek 23,Fri,Home,L,0,3,Norwich City,1.2,1.1,67,20782,Moussa Sissoko,4-3-3,4-4-2,Mike Dean,Match Report,,15,3,19.1,0.0,0,0,Watford,2022
+2022-02-05,18:00,Premier League,Matchweek 17,Sat,Away,D,0,0,Burnley,0.8,0.6,47,19527,Moussa Sissoko,4-4-2,4-4-2,Craig Pawson,Match Report,,11,5,16.3,0.0,0,0,Watford,2022
+2022-02-08,19:45,Premier League,Matchweek 24,Tue,Away,L,0,1,West Ham,0.3,0.8,36,59581,Moussa Sissoko,4-4-2,4-2-3-1,Martin Atkinson,Match Report,,6,1,22.6,0.0,0,0,Watford,2022
+2022-02-12,15:00,Premier League,Matchweek 25,Sat,Home,L,0,2,Brighton,0.5,1.6,36,20795,Moussa Sissoko,4-4-2,3-1-4-2,Jonathan Moss,Match Report,,9,1,17.4,1.0,0,0,Watford,2022
+2022-02-19,15:00,Premier League,Matchweek 26,Sat,Away,W,1,0,Aston Villa,1.2,1.3,41,41936,Moussa Sissoko,4-3-3,4-3-3,Robert Jones,Match Report,,8,4,18.1,0.0,0,0,Watford,2022
+2022-02-23,19:30,Premier League,Matchweek 18,Wed,Home,L,1,4,Crystal Palace,1.4,1.1,46,20012,Moussa Sissoko,4-3-3,4-3-3,Andre Marriner,Match Report,,8,1,13.3,0.0,0,0,Watford,2022
+2022-02-26,15:00,Premier League,Matchweek 27,Sat,Away,D,0,0,Manchester Utd,0.6,2.8,33,73152,Moussa Sissoko,4-3-3,4-2-3-1,Kevin Friend,Match Report,,10,2,21.7,0.0,0,0,Watford,2022
+2022-03-06,14:00,Premier League,Matchweek 28,Sun,Home,L,2,3,Arsenal,1.0,1.0,44,21142,Moussa Sissoko,4-3-3,4-2-3-1,Craig Pawson,Match Report,,13,7,19.0,2.0,0,0,Watford,2022
+2022-03-10,19:30,Premier League,Matchweek 19,Thu,Away,L,0,4,Wolves,0.6,0.7,34,29658,Moussa Sissoko,4-3-3,3-4-3,Darren England,Match Report,,9,0,21.8,2.0,0,0,Watford,2022
+2022-03-13,14:00,Premier League,Matchweek 29,Sun,Away,W,2,1,Southampton,1.7,1.4,37,28863,Moussa Sissoko,4-3-3,4-4-2,Graham Scott,Match Report,,9,5,16.9,0.0,0,0,Watford,2022
+2022-04-02,12:30,Premier League,Matchweek 31,Sat,Away,L,0,2,Liverpool,0.6,2.2,27,53104,Moussa Sissoko,4-1-4-1,4-3-3,Stuart Attwell,Match Report,,5,2,15.3,0.0,0,0,Watford,2022
+2022-04-09,15:00,Premier League,Matchweek 32,Sat,Home,L,0,3,Leeds United,1.1,0.7,49,20957,Moussa Sissoko,4-3-3,4-2-3-1,Andre Marriner,Match Report,,8,1,26.0,1.0,0,0,Watford,2022
+2022-04-16,15:00,Premier League,Matchweek 33,Sat,Home,L,1,2,Brentford,1.7,1.9,50,21045,Moussa Sissoko,4-3-3,4-3-3,Simon Hooper,Match Report,,18,4,16.3,2.0,0,0,Watford,2022
+2022-04-23,15:00,Premier League,Matchweek 34,Sat,Away,L,1,5,Manchester City,0.5,3.6,27,53013,Moussa Sissoko,4-3-3,4-2-3-1,Kevin Friend,Match Report,,5,2,14.5,0.0,0,0,Watford,2022
+2022-04-30,15:00,Premier League,Matchweek 35,Sat,Home,L,1,2,Burnley,1.0,1.6,47,20738,Moussa Sissoko,4-3-3,4-4-2,Craig Pawson,Match Report,,13,1,15.5,1.0,0,0,Watford,2022
+2022-05-07,15:00,Premier League,Matchweek 36,Sat,Away,L,0,1,Crystal Palace,0.4,2.2,33,24622,Moussa Sissoko,4-3-3,4-3-3,Graham Scott,Match Report,,6,1,17.7,0.0,0,0,Watford,2022
+2022-05-11,19:45,Premier League,Matchweek 30,Wed,Home,D,0,0,Everton,0.3,0.7,48,20653,Moussa Sissoko,4-3-3,5-4-1,Mike Dean,Match Report,,6,0,20.0,1.0,0,0,Watford,2022
+2022-05-15,14:00,Premier League,Matchweek 37,Sun,Home,L,1,5,Leicester City,1.4,2.5,41,20257,Moussa Sissoko,4-3-3,4-1-4-1,Jarred Gillett,Match Report,,13,5,12.4,0.0,0,0,Watford,2022
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Away,L,1,2,Chelsea,0.6,2.2,29,32089,Moussa Sissoko,4-3-3,3-4-3,Mike Dean,Match Report,,8,3,21.9,1.0,0,0,Watford,2022

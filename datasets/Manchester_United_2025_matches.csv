@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2024-08-16,20:00,Premier League,Matchweek 1,Fri,Home,W,1,0,Fulham,2.4,0.4,55.0,73297,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,14.0,5.0,17.6,0.0,0,0,Manchester United,2025
+2024-08-24,12:30,Premier League,Matchweek 2,Sat,Away,L,1,2,Brighton,1.4,2.1,52.0,31537,Bruno Fernandes,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,11.0,3.0,16.3,0.0,0,0,Manchester United,2025
+2024-09-01,16:00,Premier League,Matchweek 3,Sun,Home,L,0,3,Liverpool,1.4,1.8,53.0,73738,Bruno Fernandes,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,8.0,3.0,15.6,0.0,0,0,Manchester United,2025
+2024-09-14,12:30,Premier League,Matchweek 4,Sat,Away,W,3,0,Southampton,2.6,1.1,56.0,31144,Bruno Fernandes,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,20.0,10.0,17.4,0.0,0,0,Manchester United,2025
+2024-09-21,17:30,Premier League,Matchweek 5,Sat,Away,D,0,0,Crystal Palace,1.6,1.0,67.0,25172,Bruno Fernandes,4-2-3-1,3-4-3,David Coote,Match Report,,15.0,6.0,13.9,0.0,0,0,Manchester United,2025
+2024-09-29,16:30,Premier League,Matchweek 6,Sun,Home,L,0,3,Tottenham,1.0,4.4,39.0,73587,Bruno Fernandes,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,11.0,2.0,15.1,0.0,0,0,Manchester United,2025
+2024-10-06,14:00,Premier League,Matchweek 7,Sun,Away,D,0,0,Aston Villa,0.6,0.5,47.0,42682,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,10.0,4.0,21.5,1.0,0,0,Manchester United,2025
+2024-10-19,15:00,Premier League,Matchweek 8,Sat,Home,W,2,1,Brentford,1.3,0.9,50.0,73738,Bruno Fernandes,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,,23.0,11.0,18.7,0.0,0,0,Manchester United,2025
+2024-10-27,14:00,Premier League,Matchweek 9,Sun,Away,L,1,2,West Ham,2.3,2.8,58.0,62474,Bruno Fernandes,4-2-3-1,4-2-3-1,David Coote,Match Report,,18.0,5.0,18.0,1.0,0,0,Manchester United,2025
+2024-11-03,16:30,Premier League,Matchweek 10,Sun,Home,D,1,1,Chelsea,2.0,1.1,46.0,73813,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,10.0,3.0,18.3,1.0,1,1,Manchester United,2025
+2024-11-10,14:00,Premier League,Matchweek 11,Sun,Home,W,3,0,Leicester City,0.8,0.6,51.0,73829,Bruno Fernandes,4-2-3-1,4-3-3,Peter Bankes,Match Report,,13.0,3.0,19.3,0.0,0,0,Manchester United,2025
+2024-11-24,16:30,Premier League,Matchweek 12,Sun,Away,D,1,1,Ipswich Town,0.8,1.6,60.0,30017,Bruno Fernandes,3-4-3,4-2-3-1,Anthony Taylor,Match Report,,11.0,4.0,17.6,1.0,0,0,Manchester United,2025
+2024-12-01,13:30,Premier League,Matchweek 13,Sun,Home,W,4,0,Everton,1.1,0.6,60.0,73817,Bruno Fernandes,3-4-3,4-2-3-1,John Brooks,Match Report,,11.0,5.0,15.1,0.0,0,0,Manchester United,2025
+2024-12-04,20:15,Premier League,Matchweek 14,Wed,Away,L,0,2,Arsenal,0.2,2.1,49.0,60256,Bruno Fernandes,3-4-3,4-3-3,Samuel Barrott,Match Report,,5.0,2.0,17.7,0.0,0,0,Manchester United,2025
+2024-12-07,17:30,Premier League,Matchweek 15,Sat,Home,L,2,3,Nott'ham Forest,1.6,0.8,71.0,73778,Bruno Fernandes,3-4-3,4-2-3-1,Darren England,Match Report,,17.0,7.0,18.7,1.0,0,0,Manchester United,2025
+2024-12-15,16:30,Premier League,Matchweek 16,Sun,Away,W,2,1,Manchester City,2.1,0.9,48.0,53184,Bruno Fernandes,3-4-3,4-1-4-1,Anthony Taylor,Match Report,,9.0,2.0,17.9,0.0,1,1,Manchester United,2025
+2024-12-22,14:00,Premier League,Matchweek 17,Sun,Home,L,0,3,Bournemouth,2.2,1.6,60.0,73720,Bruno Fernandes,3-4-3,4-2-3-1,Craig Pawson,Match Report,,23.0,7.0,17.7,1.0,0,0,Manchester United,2025
+2024-12-26,17:30,Premier League,Matchweek 18,Thu,Away,L,0,2,Wolves,0.4,0.9,49.0,31407,Bruno Fernandes,3-4-3,3-4-3,Tony Harrington,Match Report,,11.0,4.0,19.2,0.0,0,0,Manchester United,2025
+2024-12-30,20:00,Premier League,Matchweek 19,Mon,Home,L,0,2,Newcastle Utd,0.8,1.9,52.0,73809,Lisandro Martínez,3-4-3,4-3-3,Simon Hooper,Match Report,,10.0,0.0,16.6,0.0,0,0,Manchester United,2025
+2025-01-05,16:30,Premier League,Matchweek 20,Sun,Away,D,2,2,Liverpool,1.0,2.7,47.0,60275,Bruno Fernandes,3-4-3,4-2-3-1,Michael Oliver,Match Report,,13.0,4.0,15.4,0.0,0,0,Manchester United,2025
+2025-01-16,20:00,Premier League,Matchweek 21,Thu,Home,W,3,1,Southampton,3.4,1.4,60.0,73722,Bruno Fernandes,3-4-3,3-4-1-2,John Brooks,Match Report,,23.0,9.0,15.0,0.0,0,0,Manchester United,2025
+2025-01-19,14:00,Premier League,Matchweek 22,Sun,Home,L,1,3,Brighton,1.5,1.9,51.0,73758,Bruno Fernandes,3-4-3,4-4-2,Peter Bankes,Match Report,,9.0,0.0,16.4,0.0,1,1,Manchester United,2025
+2025-01-26,19:00,Premier League,Matchweek 23,Sun,Away,W,1,0,Fulham,0.3,0.7,49.0,27288,Bruno Fernandes,3-4-3,4-2-3-1,Anthony Taylor,Match Report,,4.0,1.0,19.9,1.0,0,0,Manchester United,2025
+2025-02-02,14:00,Premier League,Matchweek 24,Sun,Home,L,0,2,Crystal Palace,1.1,2.6,66.0,73751,Bruno Fernandes,3-4-3,3-4-3,John Brooks,Match Report,,17.0,2.0,15.3,0.0,0,0,Manchester United,2025
+2025-02-16,16:30,Premier League,Matchweek 25,Sun,Away,L,0,1,Tottenham,1.5,2.2,45.0,61383,Bruno Fernandes,3-4-3,4-3-3,Peter Bankes,Match Report,,16.0,6.0,14.6,0.0,0,0,Manchester United,2025
+2025-02-22,12:30,Premier League,Matchweek 26,Sat,Away,D,2,2,Everton,0.4,1.6,62.0,39290,Bruno Fernandes,3-4-3,4-2-3-1,Andy Madley,Match Report,,9.0,3.0,20.0,2.0,0,0,Manchester United,2025
+2025-02-26,19:30,Premier League,Matchweek 27,Wed,Home,W,3,2,Ipswich Town,0.7,1.4,45.0,73827,Bruno Fernandes,3-4-3,3-4-3,Darren England,Match Report,,10.0,6.0,12.9,0.0,0,0,Manchester United,2025
+2025-03-09,16:30,Premier League,Matchweek 28,Sun,Home,D,1,1,Arsenal,1.5,1.6,32.0,73812,Bruno Fernandes,3-4-3,4-3-3,Anthony Taylor,Match Report,,10.0,6.0,15.9,1.0,0,0,Manchester United,2025
+2025-03-16,19:00,Premier League,Matchweek 29,Sun,Away,W,3,0,Leicester City,0.9,1.0,47.0,31773,Bruno Fernandes,3-4-3,3-4-3,Thomas Bramall,Match Report,,18.0,5.0,21.3,0.0,0,0,Manchester United,2025
+2025-04-01,20:00,Premier League,Matchweek 30,Tue,Away,L,0,1,Nott'ham Forest,1.6,0.5,68.0,30249,Bruno Fernandes,3-4-3,4-2-3-1,Jarred Gillett,Match Report,,23.0,5.0,15.2,0.0,0,0,Manchester United,2025
+2025-04-06,16:30,Premier League,Matchweek 31,Sun,Home,D,0,0,Manchester City,0.9,0.5,42.0,73738,Bruno Fernandes,3-4-3,4-1-2-1-2,John Brooks,Match Report,,13.0,2.0,17.9,1.0,0,0,Manchester United,2025
+2025-04-13,16:30,Premier League,Matchweek 32,Sun,Away,L,1,4,Newcastle Utd,0.7,2.2,52.0,52252,Bruno Fernandes,3-4-3,4-3-3,Chris Kavanagh,Match Report,,9.0,5.0,20.4,0.0,0,0,Manchester United,2025
+2025-04-20,14:00,Premier League,Matchweek 33,Sun,Home,L,0,1,Wolves,1.3,0.2,59.0,73819,Victor Lindelöf,3-4-3,3-4-3,Robert Jones,Match Report,,12.0,2.0,19.6,3.0,0,0,Manchester United,2025
+2025-04-27,14:00,Premier League,Matchweek 34,Sun,Away,D,1,1,Bournemouth,2.3,0.5,61.0,11241,Bruno Fernandes,3-4-3,4-2-3-1,Peter Bankes,Match Report,,25.0,6.0,17.7,0.0,0,0,Manchester United,2025
+2025-05-04,14:00,Premier League,Matchweek 35,Sun,Away,L,3,4,Brentford,1.5,2.8,53.0,18915,Luke Shaw,3-4-3,4-2-3-1,Anthony Taylor,Match Report,,14.0,5.0,18.2,0.0,0,0,Manchester United,2025
+2025-05-11,14:15,Premier League,Matchweek 36,Sun,Home,L,0,2,West Ham,2.1,1.7,52.0,73804,Bruno Fernandes,3-4-3,3-4-1-2,Jarred Gillett,Match Report,,20.0,5.0,18.1,0.0,0,0,Manchester United,2025
+2025-05-16,20:15,Premier League,Matchweek 37,Fri,Away,L,0,1,Chelsea,0.3,0.8,53.0,39849,Bruno Fernandes,3-4-3,4-2-3-1,Chris Kavanagh,Match Report,,4.0,1.0,15.3,0.0,0,0,Manchester United,2025
+2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,W,2,0,Aston Villa,2.9,0.4,67.0,73839,Bruno Fernandes,3-4-3,4-2-3-1,Thomas Bramall,Match Report,,25.0,9.0,19.7,1.0,1,1,Manchester United,2025

@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2023-08-12,17:30,Premier League,Matchweek 1,Sat,Home,W,5,1,Aston Villa,3.3,1.8,52,52207,Kieran Trippier,4-3-3,4-2-3-1,Andy Madley,Match Report,,17,12,13.2,0.0,0,0,Newcastle United,2024
+2023-08-19,20:00,Premier League,Matchweek 2,Sat,Away,L,0,1,Manchester City,0.3,1.0,41,53419,Kieran Trippier,4-3-3,4-2-3-1,Robert Jones,Match Report,,7,1,20.3,0.0,0,0,Newcastle United,2024
+2023-08-27,16:30,Premier League,Matchweek 3,Sun,Home,L,1,2,Liverpool,2.0,0.9,59,52214,Kieran Trippier,4-3-3,4-3-3,John Brooks,Match Report,,23,8,18.3,1.0,0,0,Newcastle United,2024
+2023-09-02,17:30,Premier League,Matchweek 4,Sat,Away,L,1,3,Brighton,1.2,1.3,44,31620,Kieran Trippier,4-3-3,4-2-3-1,Stuart Attwell,Match Report,,9,2,14.6,0.0,0,0,Newcastle United,2024
+2023-09-16,17:30,Premier League,Matchweek 5,Sat,Home,W,1,0,Brentford,1.4,0.5,56,51670,Kieran Trippier,4-3-3,5-3-2,Craig Pawson,Match Report,,8,1,20.2,0.0,1,1,Newcastle United,2024
+2023-09-24,16:30,Premier League,Matchweek 6,Sun,Away,W,8,0,Sheffield Utd,3.9,0.9,58,31127,Kieran Trippier,4-3-3,3-4-3,Stuart Attwell,Match Report,,22,15,14.2,0.0,0,0,Newcastle United,2024
+2023-09-30,15:00,Premier League,Matchweek 7,Sat,Home,W,2,0,Burnley,3.1,0.6,53,51687,Jamaal Lascelles,4-3-3,4-2-3-1,Thomas Bramall,Match Report,,19,6,15.8,0.0,1,1,Newcastle United,2024
+2023-10-08,14:00,Premier League,Matchweek 8,Sun,Away,D,2,2,West Ham,2.0,1.2,64,62473,Jamaal Lascelles,4-3-3,4-2-3-1,Peter Bankes,Match Report,,10,3,12.1,0.0,0,0,Newcastle United,2024
+2023-10-21,15:00,Premier League,Matchweek 9,Sat,Home,W,4,0,Crystal Palace,2.4,1.2,59,52189,Jamaal Lascelles,4-3-3,4-3-3,Tim Robinson,Match Report,,10,7,10.2,0.0,0,0,Newcastle United,2024
+2023-10-28,17:30,Premier League,Matchweek 10,Sat,Away,D,2,2,Wolves,2.2,0.9,57,31584,Jamaal Lascelles,4-3-3,4-4-2,Anthony Taylor,Match Report,,12,3,14.2,0.0,1,1,Newcastle United,2024
+2023-11-04,17:30,Premier League,Matchweek 11,Sat,Home,W,1,0,Arsenal,1.0,0.6,42,52194,Jamaal Lascelles,4-3-3,4-3-3,Stuart Attwell,Match Report,,9,1,18.6,0.0,0,0,Newcastle United,2024
+2023-11-11,17:30,Premier League,Matchweek 12,Sat,Away,L,0,2,Bournemouth,0.5,2.4,52,11201,Jamaal Lascelles,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,8,5,19.5,0.0,0,0,Newcastle United,2024
+2023-11-25,15:00,Premier League,Matchweek 13,Sat,Home,W,4,1,Chelsea,2.4,0.5,54,52227,Jamaal Lascelles,4-3-3,4-2-3-1,Simon Hooper,Match Report,,14,5,17.0,1.0,0,0,Newcastle United,2024
+2023-12-02,20:00,Premier League,Matchweek 14,Sat,Home,W,1,0,Manchester Utd,2.4,0.5,58,52214,Jamaal Lascelles,4-3-3,4-2-3-1,Robert Jones,Match Report,,22,4,16.4,1.0,0,0,Newcastle United,2024
+2023-12-07,19:30,Premier League,Matchweek 15,Thu,Away,L,0,3,Everton,1.5,3.3,62,38198,Jamaal Lascelles,4-3-3,4-4-1-1,Tim Robinson,Match Report,,13,3,19.3,1.0,0,0,Newcastle United,2024
+2023-12-10,16:30,Premier League,Matchweek 16,Sun,Away,L,1,4,Tottenham,1.7,3.8,44,61171,Jamaal Lascelles,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,9,3,14.4,0.0,0,0,Newcastle United,2024
+2023-12-16,15:00,Premier League,Matchweek 17,Sat,Home,W,3,0,Fulham,3.5,0.3,70,52055,Jamaal Lascelles,4-3-3,4-2-3-1,Samuel Barrott,Match Report,,27,10,14.4,0.0,0,0,Newcastle United,2024
+2023-12-23,15:00,Premier League,Matchweek 18,Sat,Away,L,0,1,Luton Town,1.4,1.4,65,11042,Jamaal Lascelles,4-3-3,3-4-3,Darren England,Match Report,,15,2,12.2,0.0,0,0,Newcastle United,2024
+2023-12-26,12:30,Premier League,Matchweek 19,Tue,Home,L,1,3,Nott'ham Forest,2.4,3.5,62,52207,Kieran Trippier,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,18,5,15.1,1.0,1,1,Newcastle United,2024
+2024-01-01,20:00,Premier League,Matchweek 20,Mon,Away,L,2,4,Liverpool,0.6,7.0,39,57471,Dan Burn,4-3-3,4-3-3,Anthony Taylor,Match Report,,5,3,16.1,0.0,0,0,Newcastle United,2024
+2024-01-13,17:30,Premier League,Matchweek 21,Sat,Home,L,2,3,Manchester City,1.3,3.0,28,52190,Kieran Trippier,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,12,5,14.7,0.0,0,0,Newcastle United,2024
+2024-01-30,20:15,Premier League,Matchweek 22,Tue,Away,W,3,1,Aston Villa,2.6,1.4,39,42191,Kieran Trippier,4-3-3,4-4-2,John Brooks,Match Report,,14,5,11.9,0.0,0,0,Newcastle United,2024
+2024-02-03,15:00,Premier League,Matchweek 23,Sat,Home,D,4,4,Luton Town,2.3,2.4,55,52211,Kieran Trippier,4-3-3,3-4-3,Thomas Bramall,Match Report,,19,6,16.3,0.0,0,0,Newcastle United,2024
+2024-02-10,17:30,Premier League,Matchweek 24,Sat,Away,W,3,2,Nott'ham Forest,0.5,1.5,61,29451,Kieran Trippier,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,7,5,19.2,0.0,0,0,Newcastle United,2024
+2024-02-17,15:00,Premier League,Matchweek 25,Sat,Home,D,2,2,Bournemouth,2.2,2.2,62,52224,Kieran Trippier,4-3-3,4-2-3-1,Michael Salisbury,Match Report,,16,4,19.4,0.0,1,1,Newcastle United,2024
+2024-02-24,20:00,Premier League,Matchweek 26,Sat,Away,L,1,4,Arsenal,0.2,2.8,45,60298,Kieran Trippier,4-3-3,4-3-3,Paul Tierney,Match Report,,3,2,14.5,0.0,0,0,Newcastle United,2024
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Home,W,3,0,Wolves,2.1,0.8,44,52206,Kieran Trippier,4-3-3,3-4-3,Tim Robinson,Match Report,,14,6,16.3,1.0,0,0,Newcastle United,2024
+2024-03-11,20:00,Premier League,Matchweek 28,Mon,Away,L,2,3,Chelsea,0.7,1.6,56,37753,Dan Burn,4-3-3,4-2-3-1,John Brooks,Match Report,,11,3,16.0,0.0,0,0,Newcastle United,2024
+2024-03-30,12:30,Premier League,Matchweek 30,Sat,Home,W,4,3,West Ham,4.1,1.4,60,52199,Jamaal Lascelles,4-3-3,4-2-3-1,Robert Jones,Match Report,,22,7,17.6,0.0,2,2,Newcastle United,2024
+2024-04-02,19:30,Premier League,Matchweek 31,Tue,Home,D,1,1,Everton,2.4,1.4,57,52135,Dan Burn,4-3-3,4-4-1-1,Tony Harrington,Match Report,,18,5,15.7,0.0,0,0,Newcastle United,2024
+2024-04-06,15:00,Premier League,Matchweek 32,Sat,Away,W,1,0,Fulham,1.0,1.2,34,24418,Dan Burn,4-3-3,4-2-3-1,Samuel Allison,Match Report,,12,5,16.8,0.0,0,0,Newcastle United,2024
+2024-04-13,12:30,Premier League,Matchweek 33,Sat,Home,W,4,0,Tottenham,2.8,0.8,28,52147,Dan Burn,4-3-3,4-2-3-1,Tim Robinson,Match Report,,18,5,11.1,0.0,0,0,Newcastle United,2024
+2024-04-24,20:00,Premier League,Matchweek 29,Wed,Away,L,0,2,Crystal Palace,0.4,0.9,53,25002,Dan Burn,3-4-3,3-4-3,Thomas Bramall,Match Report,,7,2,14.2,0.0,0,0,Newcastle United,2024
+2024-04-27,15:00,Premier League,Matchweek 35,Sat,Home,W,5,1,Sheffield Utd,3.1,1.5,60,52196,Dan Burn,4-3-3,3-5-2,Tony Harrington,Match Report,,19,6,16.0,0.0,1,1,Newcastle United,2024
+2024-05-04,15:00,Premier League,Matchweek 36,Sat,Away,W,4,1,Burnley,3.4,1.0,53,21781,Dan Burn,4-4-2,4-2-3-1,Anthony Taylor,Match Report,,22,10,17.6,1.0,0,1,Newcastle United,2024
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Home,D,1,1,Brighton,2.2,1.4,57,51997,Dan Burn,4-3-3,4-2-3-1,Darren England,Match Report,,18,7,15.8,0.0,0,0,Newcastle United,2024
+2024-05-15,20:00,Premier League,Matchweek 34,Wed,Away,L,2,3,Manchester Utd,2.2,1.5,55,73582,Kieran Trippier,4-3-3,4-2-2-2,Robert Jones,Match Report,,21,7,14.6,0.0,0,0,Newcastle United,2024
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Away,W,4,2,Brentford,3.4,1.1,46,17124,Dan Burn,4-3-3,4-3-3,Simon Hooper,Match Report,,12,7,15.4,2.0,0,0,Newcastle United,2024

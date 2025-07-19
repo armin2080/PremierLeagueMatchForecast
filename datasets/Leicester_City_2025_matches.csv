@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2024-08-19,20:00,Premier League,Matchweek 1,Mon,Home,D,1,1,Tottenham,1.0,1.2,30.0,31977,Jamie Vardy,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,7.0,3.0,16.4,0.0,0,0,Leicester City,2025
+2024-08-24,15:00,Premier League,Matchweek 2,Sat,Away,L,1,2,Fulham,0.6,1.8,46.0,25401,Jamie Vardy,4-2-3-1,4-2-3-1,Darren Bond,Match Report,,10.0,4.0,22.5,1.0,0,0,Leicester City,2025
+2024-08-31,15:00,Premier League,Matchweek 3,Sat,Home,L,1,2,Aston Villa,0.4,1.4,57.0,31725,Jamie Vardy,4-2-3-1,4-4-2,David Coote,Match Report,,9.0,3.0,20.6,0.0,0,0,Leicester City,2025
+2024-09-14,15:00,Premier League,Matchweek 4,Sat,Away,D,2,2,Crystal Palace,1.2,2.5,34.0,25147,Jamie Vardy,4-2-3-1,3-4-3,Tony Harrington,Match Report,,9.0,4.0,19.2,0.0,0,0,Leicester City,2025
+2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,D,1,1,Everton,0.7,1.1,58.0,31765,Jamie Vardy,4-2-3-1,4-2-3-1,Darren England,Match Report,,12.0,2.0,16.0,0.0,0,0,Leicester City,2025
+2024-09-28,15:00,Premier League,Matchweek 6,Sat,Away,L,2,4,Arsenal,0.3,4.4,26.0,60323,Jamie Vardy,4-2-3-1,4-4-2,Samuel Barrott,Match Report,,5.0,3.0,14.5,0.0,0,0,Leicester City,2025
+2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,W,1,0,Bournemouth,0.8,2.1,45.0,31706,Jamie Vardy,4-2-3-1,4-2-3-1,Darren Bond,Match Report,,6.0,2.0,18.8,0.0,0,0,Leicester City,2025
+2024-10-19,15:00,Premier League,Matchweek 8,Sat,Away,W,3,2,Southampton,3.1,2.1,58.0,31145,Jamie Vardy,4-2-3-1,4-5-1,Anthony Taylor,Match Report,,17.0,3.0,16.5,0.0,1,1,Leicester City,2025
+2024-10-25,20:00,Premier League,Matchweek 9,Fri,Home,L,1,3,Nott'ham Forest,0.8,1.7,65.0,31879,Jamie Vardy,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,11.0,1.0,21.5,0.0,0,0,Leicester City,2025
+2024-11-02,15:00,Premier League,Matchweek 10,Sat,Away,D,1,1,Ipswich Town,1.5,1.0,57.0,29874,Jamie Vardy,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,,20.0,5.0,16.7,0.0,0,0,Leicester City,2025
+2024-11-10,14:00,Premier League,Matchweek 11,Sun,Away,L,0,3,Manchester Utd,0.6,0.8,49.0,73829,Harry Winks,4-3-3,4-2-3-1,Peter Bankes,Match Report,,6.0,5.0,23.7,0.0,0,0,Leicester City,2025
+2024-11-23,12:30,Premier League,Matchweek 12,Sat,Home,L,1,2,Chelsea,1.1,2.7,37.0,31880,Jamie Vardy,4-4-1-1,4-2-3-1,Andy Madley,Match Report,,3.0,0.0,18.8,0.0,1,1,Leicester City,2025
+2024-11-30,15:00,Premier League,Matchweek 13,Sat,Away,L,1,4,Brentford,1.1,2.4,40.0,17084,Jamie Vardy,3-4-3,4-2-3-1,Michael Oliver,Match Report,,7.0,3.0,16.9,0.0,0,0,Leicester City,2025
+2024-12-03,20:15,Premier League,Matchweek 14,Tue,Home,W,3,1,West Ham,1.7,3.0,39.0,30947,Jamie Vardy,4-2-3-1,4-2-3-1,Joshua Smith,Match Report,,8.0,6.0,12.7,0.0,0,0,Leicester City,2025
+2024-12-08,14:00,Premier League,Matchweek 15,Sun,Home,D,2,2,Brighton,1.3,1.5,56.0,31647,Jamie Vardy,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,10.0,3.0,14.5,1.0,0,0,Leicester City,2025
+2024-12-14,15:00,Premier League,Matchweek 16,Sat,Away,L,0,4,Newcastle Utd,0.2,3.8,41.0,52235,Jamie Vardy,4-2-3-1,4-3-3,Thomas Bramall,Match Report,,4.0,1.0,16.6,0.0,0,0,Leicester City,2025
+2024-12-22,14:00,Premier League,Matchweek 17,Sun,Home,L,0,3,Wolves,0.8,1.1,54.0,31818,Jamie Vardy,4-2-3-1,3-4-3,Anthony Taylor,Match Report,,9.0,4.0,15.7,0.0,0,0,Leicester City,2025
+2024-12-26,20:00,Premier League,Matchweek 18,Thu,Away,L,1,3,Liverpool,0.3,2.0,32.0,60300,Conor Coady,4-2-3-1,4-2-3-1,Darren Bond,Match Report,,4.0,1.0,16.2,0.0,0,0,Leicester City,2025
+2024-12-29,14:30,Premier League,Matchweek 19,Sun,Home,L,0,2,Manchester City,1.3,1.3,53.0,32057,Jamie Vardy,4-2-3-1,4-1-4-1,Michael Oliver,Match Report,,11.0,3.0,12.9,0.0,0,0,Leicester City,2025
+2025-01-04,15:00,Premier League,Matchweek 20,Sat,Away,L,1,2,Aston Villa,0.4,1.4,40.0,42386,Jamie Vardy,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,,4.0,2.0,12.5,0.0,0,0,Leicester City,2025
+2025-01-15,19:30,Premier League,Matchweek 21,Wed,Home,L,0,2,Crystal Palace,1.7,1.8,57.0,29766,Jamie Vardy,4-2-3-1,3-4-3,Andy Madley,Match Report,,21.0,4.0,18.4,2.0,0,0,Leicester City,2025
+2025-01-18,15:00,Premier League,Matchweek 22,Sat,Home,L,0,2,Fulham,0.6,2.0,40.0,31500,Jamie Vardy,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,,8.0,4.0,16.3,0.0,0,0,Leicester City,2025
+2025-01-26,14:00,Premier League,Matchweek 23,Sun,Away,W,2,1,Tottenham,1.6,1.0,39.0,61295,Jamie Vardy,4-2-3-1,4-3-3,Robert Jones,Match Report,,12.0,3.0,19.4,0.0,0,0,Leicester City,2025
+2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,L,0,4,Everton,0.3,2.5,52.0,39376,Jamie Vardy,4-2-3-1,4-2-3-1,Darren Bond,Match Report,,9.0,1.0,18.1,1.0,0,0,Leicester City,2025
+2025-02-15,12:30,Premier League,Matchweek 25,Sat,Home,L,0,2,Arsenal,0.2,1.4,40.0,31968,Jamie Vardy,4-2-3-1,4-3-3,Samuel Barrott,Match Report,,6.0,2.0,19.8,0.0,0,0,Leicester City,2025
+2025-02-21,20:00,Premier League,Matchweek 26,Fri,Home,L,0,4,Brentford,0.5,1.5,48.0,31077,Jamie Vardy,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,,8.0,3.0,17.1,0.0,0,0,Leicester City,2025
+2025-02-27,20:00,Premier League,Matchweek 27,Thu,Away,L,0,2,West Ham,0.4,1.3,42.0,62455,Jamie Vardy,4-2-3-1,3-5-2,Anthony Taylor,Match Report,,10.0,2.0,21.1,1.0,0,0,Leicester City,2025
+2025-03-09,14:00,Premier League,Matchweek 28,Sun,Away,L,0,1,Chelsea,0.1,1.7,44.0,39750,Jamie Vardy,3-4-3,4-2-3-1,Tim Robinson,Match Report,,3.0,3.0,21.3,0.0,0,0,Leicester City,2025
+2025-03-16,19:00,Premier League,Matchweek 29,Sun,Home,L,0,3,Manchester Utd,1.0,0.9,53.0,31773,Jamie Vardy,3-4-3,3-4-3,Thomas Bramall,Match Report,,11.0,3.0,18.3,0.0,0,0,Leicester City,2025
+2025-04-02,19:45,Premier League,Matchweek 30,Wed,Away,L,0,2,Manchester City,0.1,2.2,28.0,52148,Jamie Vardy,3-4-3,4-2-3-1,Darren England,Match Report,,2.0,0.0,16.8,0.0,0,0,Leicester City,2025
+2025-04-07,20:00,Premier League,Matchweek 31,Mon,Home,L,0,3,Newcastle Utd,0.5,3.2,58.0,30403,Jamie Vardy,3-4-3,4-3-3,Robert Jones,Match Report,,7.0,2.0,14.1,0.0,0,0,Leicester City,2025
+2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,D,2,2,Brighton,1.5,3.8,41.0,31150,Jamie Vardy,4-2-3-1,4-1-4-1,Darren Bond,Match Report,,15.0,6.0,13.7,0.0,0,0,Leicester City,2025
+2025-04-20,16:30,Premier League,Matchweek 33,Sun,Home,L,0,1,Liverpool,0.3,2.5,42.0,30402,Jamie Vardy,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,5.0,0.0,18.7,0.0,0,0,Leicester City,2025
+2025-04-26,15:00,Premier League,Matchweek 34,Sat,Away,L,0,3,Wolves,1.1,2.0,44.0,31518,Jamie Vardy,4-2-3-1,3-4-3,Samuel Barrott,Match Report,,7.0,1.0,20.4,0.0,0,1,Leicester City,2025
+2025-05-03,15:00,Premier League,Matchweek 35,Sat,Home,W,2,0,Southampton,1.4,0.5,49.0,31240,Jamie Vardy,4-2-3-1,3-4-3,David Webb,Match Report,,14.0,4.0,17.4,2.0,0,0,Leicester City,2025
+2025-05-11,14:15,Premier League,Matchweek 36,Sun,Away,D,2,2,Nott'ham Forest,1.1,1.3,45.0,30245,Jamie Vardy,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,,10.0,6.0,13.7,0.0,0,0,Leicester City,2025
+2025-05-18,15:00,Premier League,Matchweek 37,Sun,Home,W,2,0,Ipswich Town,0.8,1.4,50.0,31986,Jamie Vardy,4-2-3-1,4-2-3-1,Andrew Kitchen,Match Report,,9.0,3.0,14.4,0.0,0,0,Leicester City,2025
+2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,L,0,2,Bournemouth,0.3,1.6,37.0,11238,Conor Coady,4-2-3-1,4-2-3-1,Lewis Smith,Match Report,,3.0,0.0,18.9,0.0,0,0,Leicester City,2025

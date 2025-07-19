@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2021-08-14,15:00,Premier League,Matchweek 1,Sat,Away,L,0,1,Leicester City,1.3,0.5,44,31983,Conor Coady,3-4-3,4-2-3-1,Craig Pawson,Match Report,,17,3,17.9,0.0,0,0,Wolverhampton Wanderers,2022
+2021-08-22,14:00,Premier League,Matchweek 2,Sun,Home,L,0,1,Tottenham,1.7,1.7,58,30368,Conor Coady,3-4-3,4-3-3,Stuart Attwell,Match Report,,25,6,20.3,0.0,0,0,Wolverhampton Wanderers,2022
+2021-08-29,16:30,Premier League,Matchweek 3,Sun,Home,L,0,1,Manchester Utd,2.1,0.6,44,30621,Conor Coady,3-4-3,4-2-3-1,Mike Dean,Match Report,,15,5,15.9,0.0,0,0,Wolverhampton Wanderers,2022
+2021-09-11,15:00,Premier League,Matchweek 4,Sat,Away,W,2,0,Watford,2.2,0.2,55,20019,Conor Coady,3-4-3,4-1-4-1,Peter Bankes,Match Report,,14,5,16.4,1.0,0,0,Wolverhampton Wanderers,2022
+2021-09-18,12:30,Premier League,Matchweek 5,Sat,Home,L,0,2,Brentford,0.6,2.5,62,30000,Conor Coady,3-4-3,3-5-2,Darren England,Match Report,,11,0,22.8,1.0,0,0,Wolverhampton Wanderers,2022
+2021-09-26,14:00,Premier League,Matchweek 6,Sun,Away,W,1,0,Southampton,1.0,1.0,43,28002,Conor Coady,3-4-3,4-4-2,Andy Madley,Match Report,,5,3,13.5,0.0,0,0,Wolverhampton Wanderers,2022
+2021-10-02,15:00,Premier League,Matchweek 7,Sat,Home,W,2,1,Newcastle Utd,1.0,0.6,52,30483,Conor Coady,3-4-3,4-1-4-1,Graham Scott,Match Report,,7,3,19.7,0.0,0,0,Wolverhampton Wanderers,2022
+2021-10-16,15:00,Premier League,Matchweek 8,Sat,Away,W,3,2,Aston Villa,2.0,1.0,52,41951,Conor Coady,3-4-3,3-4-1-2,Michael Oliver,Match Report,,9,4,14.4,1.0,0,0,Wolverhampton Wanderers,2022
+2021-10-23,15:00,Premier League,Matchweek 9,Sat,Away,D,1,1,Leeds United,0.9,1.6,38,36475,Conor Coady,3-4-3,4-4-1-1,Robert Jones,Match Report,,8,4,16.5,1.0,0,0,Wolverhampton Wanderers,2022
+2021-11-01,20:00,Premier League,Matchweek 10,Mon,Home,W,2,1,Everton,1.7,1.5,61,30617,Conor Coady,3-4-3,4-4-2,Martin Atkinson,Match Report,,10,4,15.6,1.0,0,0,Wolverhampton Wanderers,2022
+2021-11-06,15:00,Premier League,Matchweek 11,Sat,Away,L,0,2,Crystal Palace,0.3,1.9,40,24390,Conor Coady,3-4-3,4-3-3,Graham Scott,Match Report,,4,2,18.8,1.0,0,0,Wolverhampton Wanderers,2022
+2021-11-20,15:00,Premier League,Matchweek 12,Sat,Home,W,1,0,West Ham,1.4,0.4,52,30667,Conor Coady,3-4-3,4-2-3-1,Mike Dean,Match Report,,15,5,19.1,0.0,0,0,Wolverhampton Wanderers,2022
+2021-11-27,15:00,Premier League,Matchweek 13,Sat,Away,D,0,0,Norwich City,0.3,1.6,57,26911,Conor Coady,3-4-3,4-1-4-1,Simon Hooper,Match Report,,5,2,17.0,0.0,0,0,Wolverhampton Wanderers,2022
+2021-12-01,19:30,Premier League,Matchweek 14,Wed,Home,D,0,0,Burnley,0.7,0.2,65,30328,Conor Coady,3-4-3,4-4-2,John Brooks,Match Report,,16,2,20.1,0.0,0,0,Wolverhampton Wanderers,2022
+2021-12-04,15:00,Premier League,Matchweek 15,Sat,Home,L,0,1,Liverpool,0.1,2.7,34,30729,Conor Coady,3-4-3,4-3-3,Chris Kavanagh,Match Report,,3,1,23.7,0.0,0,0,Wolverhampton Wanderers,2022
+2021-12-11,12:30,Premier League,Matchweek 16,Sat,Away,L,0,1,Manchester City,0.2,3.2,29,52613,Conor Coady,3-5-2,4-3-3,Jonathan Moss,Match Report,,2,1,10.2,0.0,0,0,Wolverhampton Wanderers,2022
+2021-12-15,19:30,Premier League,Matchweek 17,Wed,Away,W,1,0,Brighton,1.0,1.2,41,30362,Conor Coady,3-4-3,4-3-3,Tony Harrington,Match Report,,8,5,18.0,1.0,0,0,Wolverhampton Wanderers,2022
+2021-12-19,14:00,Premier League,Matchweek 18,Sun,Home,D,0,0,Chelsea,0.2,0.9,37,30631,Conor Coady,3-5-2,3-4-3,David Coote,Match Report,,4,1,27.4,0.0,0,0,Wolverhampton Wanderers,2022
+2022-01-03,17:30,Premier League,Matchweek 21,Mon,Away,W,1,0,Manchester Utd,0.7,0.8,49,73045,Conor Coady,3-4-3,4-2-2-2,Mike Dean,Match Report,,19,6,20.4,1.0,0,0,Wolverhampton Wanderers,2022
+2022-01-15,15:00,Premier League,Matchweek 22,Sat,Home,W,3,1,Southampton,2.5,0.8,43,30057,Conor Coady,3-4-3,3-5-2,Michael Salisbury,Match Report,,8,4,15.4,0.0,1,1,Wolverhampton Wanderers,2022
+2022-01-22,15:00,Premier League,Matchweek 23,Sat,Away,W,2,1,Brentford,0.2,1.1,50,16982,Conor Coady,3-5-2,3-5-2,Peter Bankes,Match Report,,7,2,21.7,0.0,0,0,Wolverhampton Wanderers,2022
+2022-02-10,19:45,Premier League,Matchweek 24,Thu,Home,L,0,1,Arsenal,0.8,1.8,58,31523,Conor Coady,3-4-3,4-2-3-1,Michael Oliver,Match Report,,15,4,19.1,2.0,0,0,Wolverhampton Wanderers,2022
+2022-02-13,14:00,Premier League,Matchweek 25,Sun,Away,W,2,0,Tottenham,1.3,1.2,42,56452,Conor Coady,3-5-2,3-4-3,Kevin Friend,Match Report,,11,7,15.9,0.0,0,0,Wolverhampton Wanderers,2022
+2022-02-20,16:30,Premier League,Matchweek 26,Sun,Home,W,2,1,Leicester City,0.5,1.7,37,31587,Conor Coady,3-5-2,4-3-3,Craig Pawson,Match Report,,11,3,19.4,1.0,0,0,Wolverhampton Wanderers,2022
+2022-02-24,19:45,Premier League,Matchweek 20,Thu,Away,L,1,2,Arsenal,1.0,3.1,44,59888,Conor Coady,3-4-3,4-2-3-1,Martin Atkinson,Match Report,,6,2,14.8,0.0,0,0,Wolverhampton Wanderers,2022
+2022-02-27,14:00,Premier League,Matchweek 27,Sun,Away,L,0,1,West Ham,0.7,1.8,61,59946,Conor Coady,3-4-3,3-4-3,Anthony Taylor,Match Report,,14,1,21.1,0.0,0,0,Wolverhampton Wanderers,2022
+2022-03-05,15:00,Premier League,Matchweek 28,Sat,Home,L,0,2,Crystal Palace,0.7,2.7,63,31395,Conor Coady,3-4-3,4-2-3-1,Andy Madley,Match Report,,12,5,19.8,0.0,0,0,Wolverhampton Wanderers,2022
+2022-03-10,19:30,Premier League,Matchweek 19,Thu,Home,W,4,0,Watford,0.7,0.6,66,29658,Conor Coady,3-4-3,4-3-3,Darren England,Match Report,,10,5,18.9,0.0,0,0,Wolverhampton Wanderers,2022
+2022-03-13,14:00,Premier League,Matchweek 29,Sun,Away,W,1,0,Everton,0.8,0.4,61,39112,Conor Coady,3-5-2,3-4-3,Michael Oliver,Match Report,,14,3,21.7,0.0,0,0,Wolverhampton Wanderers,2022
+2022-03-18,20:00,Premier League,Matchweek 30,Fri,Home,L,2,3,Leeds United,1.2,2.0,48,31842,Conor Coady,3-4-3,4-2-3-1,Kevin Friend,Match Report,,14,8,20.9,0.0,0,0,Wolverhampton Wanderers,2022
+2022-04-02,15:00,Premier League,Matchweek 31,Sat,Home,W,2,1,Aston Villa,1.3,2.1,49,31012,Conor Coady,3-4-3,4-3-1-2,Darren England,Match Report,,11,4,15.0,0.0,0,0,Wolverhampton Wanderers,2022
+2022-04-08,20:00,Premier League,Matchweek 32,Fri,Away,L,0,1,Newcastle Utd,0.4,1.5,58,52164,Conor Coady,3-4-3,4-3-3,Peter Bankes,Match Report,,5,2,18.2,0.0,0,0,Wolverhampton Wanderers,2022
+2022-04-24,14:00,Premier League,Matchweek 34,Sun,Away,L,0,1,Burnley,0.6,1.4,64,19246,Conor Coady,3-4-3,4-4-2,Anthony Taylor,Match Report,,10,4,19.0,0.0,0,0,Wolverhampton Wanderers,2022
+2022-04-30,15:00,Premier League,Matchweek 35,Sat,Home,L,0,3,Brighton,0.7,2.6,49,31243,Conor Coady,3-5-2,3-4-3,Simon Hooper,Match Report,,11,1,18.7,1.0,0,0,Wolverhampton Wanderers,2022
+2022-05-07,15:00,Premier League,Matchweek 36,Sat,Away,D,2,2,Chelsea,2.0,1.7,41,32190,Conor Coady,3-5-2,3-4-1-2,Peter Bankes,Match Report,,14,4,15.6,0.0,0,0,Wolverhampton Wanderers,2022
+2022-05-11,20:15,Premier League,Matchweek 33,Wed,Home,L,1,5,Manchester City,0.5,2.3,34,32000,Conor Coady,3-5-2,4-2-3-1,Martin Atkinson,Match Report,,7,3,16.9,0.0,0,0,Wolverhampton Wanderers,2022
+2022-05-15,14:00,Premier League,Matchweek 37,Sun,Home,D,1,1,Norwich City,0.9,1.1,64,31219,Conor Coady,3-4-3,3-4-3,Tony Harrington,Match Report,,17,4,20.8,1.0,0,0,Wolverhampton Wanderers,2022
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Away,L,1,3,Liverpool,1.3,2.7,37,53097,Conor Coady,3-5-2,4-3-3,Anthony Taylor,Match Report,,7,5,14.7,0.0,0,0,Wolverhampton Wanderers,2022

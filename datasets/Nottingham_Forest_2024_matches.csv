@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2023-08-12,12:30,Premier League,Matchweek 1,Sat,Away,L,1,2,Arsenal,1.2,0.8,22,59984,Joe Worrall,3-4-3,4-3-3,Michael Oliver,Match Report,,6,2,17.3,0.0,0,0,Nottingham Forest,2024
+2023-08-18,19:45,Premier League,Matchweek 2,Fri,Home,W,2,1,Sheffield Utd,1.4,0.5,50,29432,Joe Worrall,3-4-3,3-4-3,Peter Bankes,Match Report,,16,4,15.6,0.0,0,0,Nottingham Forest,2024
+2023-08-26,15:00,Premier League,Matchweek 3,Sat,Away,L,2,3,Manchester Utd,1.2,2.8,34,73595,Joe Worrall,3-4-3,4-2-3-1,Stuart Attwell,Match Report,,9,4,14.7,0.0,0,0,Nottingham Forest,2024
+2023-09-02,15:00,Premier League,Matchweek 4,Sat,Away,W,1,0,Chelsea,0.8,2.3,25,39820,Joe Worrall,3-4-3,3-4-3,Tim Robinson,Match Report,,7,3,19.0,0.0,0,0,Nottingham Forest,2024
+2023-09-18,19:45,Premier League,Matchweek 5,Mon,Home,D,1,1,Burnley,0.7,0.5,46,28958,Joe Worrall,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,14,4,18.8,0.0,0,0,Nottingham Forest,2024
+2023-09-23,15:00,Premier League,Matchweek 6,Sat,Away,L,0,2,Manchester City,1.0,1.3,43,53413,Serge Aurier,5-4-1,4-2-3-1,Anthony Taylor,Match Report,,10,3,17.8,1.0,0,0,Nottingham Forest,2024
+2023-10-01,14:00,Premier League,Matchweek 7,Sun,Home,D,1,1,Brentford,0.5,1.6,41,29004,Serge Aurier,4-3-3,4-3-3,Paul Tierney,Match Report,,6,1,15.4,0.0,0,0,Nottingham Forest,2024
+2023-10-07,17:30,Premier League,Matchweek 8,Sat,Away,D,0,0,Crystal Palace,1.0,0.8,48,25017,Serge Aurier,4-3-3,4-3-3,Craig Pawson,Match Report,,16,5,18.4,0.0,0,0,Nottingham Forest,2024
+2023-10-21,15:00,Premier League,Matchweek 9,Sat,Home,D,2,2,Luton Town,2.9,1.7,57,29361,Serge Aurier,4-3-3,4-4-2,Samuel Barrott,Match Report,,19,8,11.1,0.0,0,0,Nottingham Forest,2024
+2023-10-29,14:00,Premier League,Matchweek 10,Sun,Away,L,0,3,Liverpool,0.4,3.2,28,50143,Serge Aurier,5-4-1,4-3-3,Chris Kavanagh,Match Report,,9,1,15.6,0.0,0,0,Nottingham Forest,2024
+2023-11-05,14:00,Premier League,Matchweek 11,Sun,Home,W,2,0,Aston Villa,0.4,1.2,27,29313,Morgan Gibbs-White,4-3-3,4-4-2,Jarred Gillett,Match Report,,5,3,21.1,0.0,0,0,Nottingham Forest,2024
+2023-11-12,14:00,Premier League,Matchweek 12,Sun,Away,L,2,3,West Ham,1.7,1.8,46,62470,Morgan Gibbs-White,4-3-3,4-2-3-1,Michael Salisbury,Match Report,,10,5,15.6,0.0,0,0,Nottingham Forest,2024
+2023-11-25,15:00,Premier League,Matchweek 13,Sat,Home,L,2,3,Brighton,1.9,1.3,47,29404,Morgan Gibbs-White,4-1-4-1,4-2-3-1,Anthony Taylor,Match Report,,17,4,14.7,0.0,1,1,Nottingham Forest,2024
+2023-12-02,17:30,Premier League,Matchweek 14,Sat,Home,L,0,1,Everton,0.7,0.7,61,29404,Ryan Yates,4-3-3,4-4-1-1,Paul Tierney,Match Report,,13,2,16.1,0.0,0,0,Nottingham Forest,2024
+2023-12-06,19:30,Premier League,Matchweek 15,Wed,Away,L,0,5,Fulham,0.3,2.5,37,24105,Felipe,4-2-3-1,4-2-3-1,Joshua Smith,Match Report,,4,1,15.3,0.0,0,0,Nottingham Forest,2024
+2023-12-09,15:00,Premier League,Matchweek 16,Sat,Away,D,1,1,Wolves,1.3,1.2,32,31543,Ryan Yates,3-5-2,3-4-3,Samuel Barrott,Match Report,,8,2,12.7,0.0,0,0,Nottingham Forest,2024
+2023-12-15,20:00,Premier League,Matchweek 17,Fri,Home,L,0,2,Tottenham,1.3,1.5,34,29296,Ryan Yates,3-5-2,4-2-3-1,Jarred Gillett,Match Report,,15,1,16.1,0.0,0,0,Nottingham Forest,2024
+2023-12-23,15:00,Premier League,Matchweek 18,Sat,Home,L,2,3,Bournemouth,1.0,1.6,34,29188,Ryan Yates,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,11,4,14.5,0.0,0,0,Nottingham Forest,2024
+2023-12-26,12:30,Premier League,Matchweek 19,Tue,Away,W,3,1,Newcastle Utd,3.5,2.4,38,52207,Morgan Gibbs-White,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,15,6,15.8,0.0,0,0,Nottingham Forest,2024
+2023-12-30,17:30,Premier League,Matchweek 20,Sat,Home,W,2,1,Manchester Utd,0.7,0.8,44,29529,Ryan Yates,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,,8,2,18.3,0.0,0,0,Nottingham Forest,2024
+2024-01-20,17:30,Premier League,Matchweek 21,Sat,Away,L,2,3,Brentford,1.2,1.2,52,17077,Ryan Yates,4-2-3-1,3-5-2,Darren England,Match Report,,12,3,20.5,0.0,0,0,Nottingham Forest,2024
+2024-01-30,19:30,Premier League,Matchweek 22,Tue,Home,L,1,2,Arsenal,0.5,1.2,27,29387,Morgan Gibbs-White,4-2-3-1,4-3-3,Simon Hooper,Match Report,,9,3,18.7,0.0,0,0,Nottingham Forest,2024
+2024-02-04,14:00,Premier League,Matchweek 23,Sun,Away,D,1,1,Bournemouth,0.5,1.3,55,11200,Ryan Yates,4-2-3-1,4-2-3-1,Rebecca Welch,Match Report,,8,6,19.9,0.0,0,0,Nottingham Forest,2024
+2024-02-10,17:30,Premier League,Matchweek 24,Sat,Home,L,2,3,Newcastle Utd,1.5,0.5,39,29451,Ryan Yates,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,13,3,21.8,0.0,0,0,Nottingham Forest,2024
+2024-02-17,15:00,Premier League,Matchweek 25,Sat,Home,W,2,0,West Ham,2.8,0.5,49,29490,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Thomas Bramall,Match Report,,19,8,16.5,0.0,0,0,Nottingham Forest,2024
+2024-02-24,15:00,Premier League,Matchweek 26,Sat,Away,L,2,4,Aston Villa,2.6,3.6,42,42131,Morgan Gibbs-White,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,,10,3,16.4,0.0,0,0,Nottingham Forest,2024
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Home,L,0,1,Liverpool,1.0,2.0,31,29603,Ryan Yates,4-2-3-1,4-3-3,Paul Tierney,Match Report,,8,2,19.3,0.0,0,0,Nottingham Forest,2024
+2024-03-10,14:00,Premier League,Matchweek 28,Sun,Away,L,0,1,Brighton,0.7,0.4,37,31505,Ryan Yates,4-3-3,4-2-3-1,Michael Salisbury,Match Report,,9,4,19.3,2.0,0,0,Nottingham Forest,2024
+2024-03-16,15:00,Premier League,Matchweek 29,Sat,Away,D,1,1,Luton Town,2.0,0.6,40,11630,Ryan Yates,4-2-3-1,3-4-3,Darren England,Match Report,,16,3,22.0,2.0,0,0,Nottingham Forest,2024
+2024-03-30,15:00,Premier League,Matchweek 30,Sat,Home,D,1,1,Crystal Palace,0.9,1.2,59,29520,Ryan Yates,4-2-3-1,3-4-3,Chris Kavanagh,Match Report,,12,5,20.5,0.0,0,0,Nottingham Forest,2024
+2024-04-02,19:30,Premier League,Matchweek 31,Tue,Home,W,3,1,Fulham,1.5,1.5,34,28997,Ryan Yates,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,16,4,18.5,0.0,0,0,Nottingham Forest,2024
+2024-04-07,18:00,Premier League,Matchweek 32,Sun,Away,L,1,3,Tottenham,1.5,1.5,37,61098,Ryan Yates,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,13,6,22.9,1.0,0,0,Nottingham Forest,2024
+2024-04-13,15:00,Premier League,Matchweek 33,Sat,Home,D,2,2,Wolves,1.9,1.0,46,29604,Ryan Yates,4-2-3-1,3-4-1-2,Craig Pawson,Match Report,,18,9,17.0,0.0,0,0,Nottingham Forest,2024
+2024-04-21,13:30,Premier League,Matchweek 34,Sun,Away,L,0,2,Everton,0.9,0.3,59,39239,Morgan Gibbs-White,4-2-3-1,4-1-4-1,Anthony Taylor,Match Report,,8,3,13.7,0.0,0,0,Nottingham Forest,2024
+2024-04-28,16:30,Premier League,Matchweek 35,Sun,Home,L,0,2,Manchester City,1.9,0.9,34,29677,Morgan Gibbs-White,5-4-1,4-1-4-1,Simon Hooper,Match Report,,14,2,15.0,1.0,0,0,Nottingham Forest,2024
+2024-05-04,15:00,Premier League,Matchweek 36,Sat,Away,W,3,1,Sheffield Utd,1.4,2.2,46,28516,Ryan Yates,4-2-3-1,3-5-2,Chris Kavanagh,Match Report,,15,4,17.2,0.0,0,0,Nottingham Forest,2024
+2024-05-11,17:30,Premier League,Matchweek 37,Sat,Home,L,2,3,Chelsea,1.5,1.6,33,29708,Ryan Yates,5-4-1,4-2-3-1,Tony Harrington,Match Report,,20,4,17.2,0.0,0,0,Nottingham Forest,2024
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Away,W,2,1,Burnley,1.7,1.2,28,21109,Ryan Yates,4-2-3-1,4-4-2,Graham Scott,Match Report,,12,6,17.2,0.0,0,0,Nottingham Forest,2024

@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2020-09-13,16:30,Premier League,Matchweek 1,Sun,Away,W,1,0,Tottenham,1.2,1.1,48,,Séamus Coleman,4-3-3,4-2-3-1,Martin Atkinson,Match Report,,15,4,17.8,0.0,0,0,Everton,2021
+2020-09-19,12:30,Premier League,Matchweek 2,Sat,Home,W,5,2,West Brom,3.9,0.3,71,,Séamus Coleman,4-3-3,5-4-1,Mike Dean,Match Report,,17,7,12.0,1.0,0,0,Everton,2021
+2020-09-26,15:00,Premier League,Matchweek 3,Sat,Away,W,2,1,Crystal Palace,1.9,0.4,58,,Séamus Coleman,4-3-3,4-4-2,Kevin Friend,Match Report,,9,4,17.2,1.0,1,1,Everton,2021
+2020-10-03,15:00,Premier League,Matchweek 4,Sat,Home,W,4,2,Brighton,1.6,1.3,43,,Séamus Coleman,4-3-3,3-4-3,Simon Hooper,Match Report,,11,6,16.3,0.0,0,0,Everton,2021
+2020-10-17,12:30,Premier League,Matchweek 5,Sat,Home,D,2,2,Liverpool,1.2,2.6,42,,Séamus Coleman,4-3-3,4-3-3,Michael Oliver,Match Report,,11,5,17.4,0.0,0,0,Everton,2021
+2020-10-25,14:00,Premier League,Matchweek 6,Sun,Away,L,0,2,Southampton,0.4,0.7,46,,Gylfi Sigurðsson,4-3-3,4-4-2,Kevin Friend,Match Report,,6,2,20.3,1.0,0,0,Everton,2021
+2020-11-01,14:00,Premier League,Matchweek 7,Sun,Away,L,1,2,Newcastle Utd,1.5,2.9,61,,Gylfi Sigurðsson,4-3-2-1,5-3-2,Stuart Attwell,Match Report,,15,4,19.1,0.0,0,0,Everton,2021
+2020-11-07,12:30,Premier League,Matchweek 8,Sat,Home,L,1,3,Manchester Utd,0.4,1.5,55,,Séamus Coleman,4-3-3,4-2-3-1,Paul Tierney,Match Report,,7,1,16.2,0.0,0,0,Everton,2021
+2020-11-22,12:00,Premier League,Matchweek 9,Sun,Away,W,3,2,Fulham,2.0,1.9,46,,Lucas Digne,3-4-3,4-2-3-1,Andy Madley,Match Report,,9,7,15.1,0.0,0,0,Everton,2021
+2020-11-28,17:30,Premier League,Matchweek 10,Sat,Home,L,0,1,Leeds United,1.2,2.9,41,,Mason Holgate,3-4-3,4-4-1-1,Chris Kavanagh,Match Report,,15,8,17.7,0.0,0,0,Everton,2021
+2020-12-05,12:30,Premier League,Matchweek 11,Sat,Away,D,1,1,Burnley,2.2,0.8,58,,Michael Keane,3-4-3,4-4-2,Anthony Taylor,Match Report,,13,6,17.8,0.0,0,0,Everton,2021
+2020-12-12,20:00,Premier League,Matchweek 12,Sat,Home,W,1,0,Chelsea,1.2,0.7,29,2000.0,Gylfi Sigurðsson,4-3-3,4-3-3,Jonathan Moss,Match Report,,8,3,17.1,1.0,1,1,Everton,2021
+2020-12-16,18:00,Premier League,Matchweek 13,Wed,Away,W,2,0,Leicester City,1.4,0.8,39,,Gylfi Sigurðsson,4-3-3,4-2-3-1,Lee Mason,Match Report,,11,6,13.0,0.0,0,0,Everton,2021
+2020-12-19,17:30,Premier League,Matchweek 14,Sat,Home,W,2,1,Arsenal,0.6,1.4,43,,Gylfi Sigurðsson,4-2-3-1,3-4-3,Andre Marriner,Match Report,,9,2,19.7,1.0,0,0,Everton,2021
+2020-12-26,20:00,Premier League,Matchweek 15,Sat,Away,W,1,0,Sheffield Utd,0.7,1.4,56,,Gylfi Sigurðsson,4-2-3-1,3-4-3,David Coote,Match Report,,7,3,19.9,0.0,0,0,Everton,2021
+2021-01-01,17:30,Premier League,Matchweek 17,Fri,Home,L,0,1,West Ham,0.4,1.3,60,,Séamus Coleman,4-2-3-1,4-2-3-1,Kevin Friend,Match Report,,10,2,21.0,0.0,0,0,Everton,2021
+2021-01-12,20:15,Premier League,Matchweek 18,Tue,Away,W,2,1,Wolves,0.6,0.7,48,,Gylfi Sigurðsson,4-4-2,4-3-3,Martin Atkinson,Match Report,,5,3,11.7,0.0,0,0,Everton,2021
+2021-01-27,20:15,Premier League,Matchweek 20,Wed,Home,D,1,1,Leicester City,0.5,1.2,35,,Lucas Digne,4-4-2,4-2-3-1,Mike Dean,Match Report,,8,2,15.0,0.0,0,0,Everton,2021
+2021-01-30,12:30,Premier League,Matchweek 21,Sat,Home,L,0,2,Newcastle Utd,0.8,1.7,60,,Séamus Coleman,4-2-3-1,4-3-1-2,Stuart Attwell,Match Report,,11,3,17.5,0.0,0,0,Everton,2021
+2021-02-03,19:30,Premier League,Matchweek 22,Wed,Away,W,2,1,Leeds United,1.6,1.3,37,,Gylfi Sigurðsson,4-2-3-1,4-1-4-1,Michael Oliver,Match Report,,10,6,15.9,0.0,0,0,Everton,2021
+2021-02-06,20:00,Premier League,Matchweek 23,Sat,Away,D,3,3,Manchester Utd,1.5,1.8,39,,Lucas Digne,4-3-1-2,4-2-3-1,Jonathan Moss,Match Report,,6,3,13.7,0.0,0,0,Everton,2021
+2021-02-14,19:00,Premier League,Matchweek 24,Sun,Home,L,0,2,Fulham,0.3,2.5,50,,Séamus Coleman,4-3-1-2,4-4-2,Andy Madley,Match Report,,7,2,18.7,0.0,0,0,Everton,2021
+2021-02-17,20:15,Premier League,Matchweek 16,Wed,Home,L,1,3,Manchester City,1.0,1.0,29,,Gylfi Sigurðsson,4-4-1-1,4-3-3,Andre Marriner,Match Report,,3,2,9.4,0.0,0,0,Everton,2021
+2021-02-20,17:30,Premier League,Matchweek 25,Sat,Away,W,2,0,Liverpool,1.6,1.4,29,,Séamus Coleman,5-3-2,4-3-3,Chris Kavanagh,Match Report,,8,5,22.8,1.0,1,1,Everton,2021
+2021-03-01,20:00,Premier League,Matchweek 26,Mon,Home,W,1,0,Southampton,1.2,0.6,47,,Gylfi Sigurðsson,4-3-1-2,4-4-2,Martin Atkinson,Match Report,,7,1,13.8,1.0,0,0,Everton,2021
+2021-03-04,18:00,Premier League,Matchweek 29,Thu,Away,W,1,0,West Brom,1.0,1.0,51,,Lucas Digne,4-4-2,4-1-4-1,Darren England,Match Report,,11,3,20.8,0.0,0,0,Everton,2021
+2021-03-08,18:00,Premier League,Matchweek 27,Mon,Away,L,0,2,Chelsea,0.3,2.4,35,,Gylfi Sigurðsson,3-4-1-2,3-4-3,David Coote,Match Report,,7,1,24.0,1.0,0,0,Everton,2021
+2021-03-13,17:30,Premier League,Matchweek 28,Sat,Home,L,1,2,Burnley,1.5,0.8,65,,Lucas Digne,4-1-2-1-2◆,4-4-2,Jonathan Moss,Match Report,,14,4,16.6,0.0,0,0,Everton,2021
+2021-04-05,18:00,Premier League,Matchweek 30,Mon,Home,D,1,1,Crystal Palace,2.5,0.7,48,,Séamus Coleman,3-4-1-2,4-4-2,Kevin Friend,Match Report,,15,7,15.1,1.0,0,0,Everton,2021
+2021-04-12,20:15,Premier League,Matchweek 31,Mon,Away,D,0,0,Brighton,0.4,1.2,45,,Séamus Coleman,5-3-2,3-4-3,Darren England,Match Report,,8,1,22.0,1.0,0,0,Everton,2021
+2021-04-16,20:00,Premier League,Matchweek 32,Fri,Home,D,2,2,Tottenham,1.8,1.4,53,,Gylfi Sigurðsson,4-4-2,3-4-1-2,Michael Oliver,Match Report,,17,6,18.5,1.0,1,1,Everton,2021
+2021-04-23,20:00,Premier League,Matchweek 33,Fri,Away,W,1,0,Arsenal,0.5,0.8,41,,Séamus Coleman,4-2-3-1,4-2-3-1,Jonathan Moss,Match Report,,8,1,20.8,2.0,0,0,Everton,2021
+2021-05-01,20:00,Premier League,Matchweek 34,Sat,Home,L,1,2,Aston Villa,1.0,1.6,47,,Séamus Coleman,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,16,3,19.6,0.0,0,0,Everton,2021
+2021-05-09,16:30,Premier League,Matchweek 35,Sun,Away,W,1,0,West Ham,1.5,1.3,32,,Séamus Coleman,4-4-2,4-2-3-1,Stuart Attwell,Match Report,,9,3,12.5,1.0,0,0,Everton,2021
+2021-05-13,18:00,Premier League,Matchweek 19,Thu,Away,D,0,0,Aston Villa,1.0,0.6,42,,Séamus Coleman,4-4-2,4-2-3-1,Martin Atkinson,Match Report,,15,5,14.6,1.0,0,0,Everton,2021
+2021-05-16,19:00,Premier League,Matchweek 36,Sun,Home,L,0,1,Sheffield Utd,1.4,1.2,62,,Séamus Coleman,4-2-3-1,3-4-3,Jonathan Moss,Match Report,,16,6,15.9,0.0,0,0,Everton,2021
+2021-05-19,18:00,Premier League,Matchweek 37,Wed,Home,W,1,0,Wolves,0.7,0.3,41,4988.0,Séamus Coleman,4-4-2,3-4-1-2,Andy Madley,Match Report,,14,4,15.9,0.0,0,0,Everton,2021
+2021-05-23,16:00,Premier League,Matchweek 38,Sun,Away,L,0,5,Manchester City,1.1,2.5,33,10000.0,Gylfi Sigurðsson,4-3-1-2,4-3-3,Michael Oliver,Match Report,,7,2,23.1,0.0,0,1,Everton,2021

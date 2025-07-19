@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2020-09-12,15:00,Premier League,Matchweek 1,Sat,Home,W,1,0,Southampton,1.1,0.9,31,,Scott Dann,4-4-2,4-4-2,Jonathan Moss,Match Report,,5,3,10.6,0.0,0,0,Crystal Palace,2021
+2020-09-19,17:30,Premier League,Matchweek 2,Sat,Away,W,3,1,Manchester Utd,1.6,1.2,25,,Wilfried Zaha,4-4-2,4-2-3-1,Martin Atkinson,Match Report,,13,4,18.6,0.0,1,1,Crystal Palace,2021
+2020-09-26,15:00,Premier League,Matchweek 3,Sat,Home,L,1,2,Everton,0.4,1.9,42,,Wilfried Zaha,4-4-2,4-3-3,Kevin Friend,Match Report,,8,1,18.3,0.0,0,0,Crystal Palace,2021
+2020-10-03,12:30,Premier League,Matchweek 4,Sat,Away,L,0,4,Chelsea,0.2,2.7,30,,Wilfried Zaha,4-4-2,4-2-3-1,Michael Oliver,Match Report,,4,0,22.5,0.0,0,0,Crystal Palace,2021
+2020-10-18,14:00,Premier League,Matchweek 5,Sun,Home,D,1,1,Brighton,0.8,1.7,34,,Gary Cahill,4-4-2,3-4-3,Stuart Attwell,Match Report,,0,0,,0.0,1,1,Crystal Palace,2021
+2020-10-24,15:00,Premier League,Matchweek 6,Sat,Away,W,2,1,Fulham,2.5,1.1,36,,Luka Milivojević,4-4-2,4-3-2-1,Graham Scott,Match Report,,14,10,11.9,1.0,0,0,Crystal Palace,2021
+2020-10-30,20:00,Premier League,Matchweek 7,Fri,Away,L,0,2,Wolves,0.7,1.3,55,,Luka Milivojević,4-3-3,3-4-3,Martin Atkinson,Match Report,,11,2,19.3,2.0,0,0,Crystal Palace,2021
+2020-11-07,15:00,Premier League,Matchweek 8,Sat,Home,W,4,1,Leeds United,0.9,0.8,36,,Scott Dann,4-4-2,3-3-3-1,Chris Kavanagh,Match Report,,10,6,17.2,1.0,0,0,Crystal Palace,2021
+2020-11-23,17:30,Premier League,Matchweek 9,Mon,Away,L,0,1,Burnley,1.5,1.5,54,,Scott Dann,4-4-2,4-4-2,Kevin Friend,Match Report,,15,5,19.5,0.0,0,0,Crystal Palace,2021
+2020-11-27,20:00,Premier League,Matchweek 10,Fri,Home,L,0,2,Newcastle Utd,0.6,1.3,57,,Scott Dann,4-4-2,4-4-2,Graham Scott,Match Report,,12,3,17.0,1.0,0,0,Crystal Palace,2021
+2020-12-06,12:00,Premier League,Matchweek 11,Sun,Away,W,5,1,West Brom,1.6,0.7,50,,Luka Milivojević,4-4-2,3-4-1-2,Paul Tierney,Match Report,,18,6,16.0,0.0,0,0,Crystal Palace,2021
+2020-12-13,14:15,Premier League,Matchweek 12,Sun,Home,D,1,1,Tottenham,1.6,0.9,44,2000.0,Luka Milivojević,4-4-2,4-2-3-1,Kevin Friend,Match Report,,16,5,16.0,2.0,0,0,Crystal Palace,2021
+2020-12-16,20:00,Premier League,Matchweek 13,Wed,Away,D,1,1,West Ham,1.1,0.4,48,,Luka Milivojević,4-4-2,4-2-3-1,David Coote,Match Report,,8,2,13.2,0.0,0,0,Crystal Palace,2021
+2020-12-19,12:30,Premier League,Matchweek 14,Sat,Home,L,0,7,Liverpool,0.3,2.5,36,,Luka Milivojević,4-4-2,4-3-3,Jonathan Moss,Match Report,,5,3,20.8,0.0,0,0,Crystal Palace,2021
+2020-12-26,15:00,Premier League,Matchweek 15,Sat,Away,L,0,3,Aston Villa,0.9,3.9,61,,Luka Milivojević,4-4-2,4-2-3-1,Anthony Taylor,Match Report,,13,6,20.2,2.0,0,0,Crystal Palace,2021
+2020-12-28,15:00,Premier League,Matchweek 16,Mon,Home,D,1,1,Leicester City,0.5,1.9,34,,Luka Milivojević,4-4-2,4-2-3-1,Graham Scott,Match Report,,4,1,10.1,0.0,0,0,Crystal Palace,2021
+2021-01-02,15:00,Premier League,Matchweek 17,Sat,Home,W,2,0,Sheffield Utd,0.6,0.4,44,,Luka Milivojević,4-4-2,3-5-2,Stuart Attwell,Match Report,,9,4,17.9,0.0,0,0,Crystal Palace,2021
+2021-01-14,20:00,Premier League,Matchweek 18,Thu,Away,D,0,0,Arsenal,0.8,0.4,33,,Luka Milivojević,4-4-2,4-2-3-1,Andre Marriner,Match Report,,12,2,18.2,1.0,0,0,Crystal Palace,2021
+2021-01-17,19:15,Premier League,Matchweek 19,Sun,Away,L,0,4,Manchester City,0.1,0.7,29,,Luka Milivojević,4-1-4-1,4-3-3,Lee Mason,Match Report,,2,0,28.2,0.0,0,0,Crystal Palace,2021
+2021-01-26,18:00,Premier League,Matchweek 20,Tue,Home,L,2,3,West Ham,0.7,2.8,54,,Luka Milivojević,4-4-2,4-2-3-1,Stuart Attwell,Match Report,,6,3,21.8,0.0,0,0,Crystal Palace,2021
+2021-01-30,15:00,Premier League,Matchweek 21,Sat,Home,W,1,0,Wolves,1.4,0.4,48,,Luka Milivojević,4-2-3-1,3-4-3,Simon Hooper,Match Report,,11,2,20.0,2.0,0,0,Crystal Palace,2021
+2021-02-02,20:15,Premier League,Matchweek 22,Tue,Away,W,2,1,Newcastle Utd,0.7,1.9,39,,Luka Milivojević,4-4-2,4-3-1-2,Darren England,Match Report,,6,3,18.6,0.0,0,0,Crystal Palace,2021
+2021-02-08,20:00,Premier League,Matchweek 23,Mon,Away,L,0,2,Leeds United,0.4,1.9,33,,Luka Milivojević,4-4-2,4-1-4-1,Andre Marriner,Match Report,,8,3,19.3,0.0,0,0,Crystal Palace,2021
+2021-02-13,15:00,Premier League,Matchweek 24,Sat,Home,L,0,3,Burnley,0.5,1.4,54,,Luka Milivojević,4-4-2,4-4-2,Michael Oliver,Match Report,,13,3,18.6,0.0,0,0,Crystal Palace,2021
+2021-02-22,20:00,Premier League,Matchweek 25,Mon,Away,W,2,1,Brighton,0.2,2.4,26,,Luka Milivojević,4-3-3,4-4-2,Kevin Friend,Match Report,,3,2,15.0,0.0,0,0,Crystal Palace,2021
+2021-02-28,12:00,Premier League,Matchweek 26,Sun,Home,D,0,0,Fulham,0.1,1.4,40,,Luka Milivojević,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,3,0,15.8,0.0,0,0,Crystal Palace,2021
+2021-03-03,20:15,Premier League,Matchweek 29,Wed,Home,D,0,0,Manchester Utd,0.9,0.9,37,,Luka Milivojević,4-4-2,4-2-3-1,Andre Marriner,Match Report,,8,2,18.3,1.0,0,0,Crystal Palace,2021
+2021-03-07,19:15,Premier League,Matchweek 27,Sun,Away,L,1,4,Tottenham,0.5,2.7,37,,Luka Milivojević,4-4-2,4-2-3-1,Stuart Attwell,Match Report,,5,1,14.9,0.0,0,0,Crystal Palace,2021
+2021-03-13,15:00,Premier League,Matchweek 28,Sat,Home,W,1,0,West Brom,1.2,0.8,45,,Luka Milivojević,4-4-2,4-1-4-1,Simon Hooper,Match Report,,5,3,23.0,0.0,1,1,Crystal Palace,2021
+2021-04-05,18:00,Premier League,Matchweek 30,Mon,Away,D,1,1,Everton,0.7,2.5,52,,Luka Milivojević,4-4-2,3-4-1-2,Kevin Friend,Match Report,,13,6,20.1,0.0,0,0,Crystal Palace,2021
+2021-04-10,17:30,Premier League,Matchweek 31,Sat,Home,L,1,4,Chelsea,0.4,3.1,36,,Luka Milivojević,4-4-2,3-4-3,Michael Oliver,Match Report,,1,1,5.9,0.0,0,0,Crystal Palace,2021
+2021-04-26,20:00,Premier League,Matchweek 33,Mon,Away,L,1,2,Leicester City,0.7,1.5,34,,Luka Milivojević,4-3-3,3-4-1-2,Graham Scott,Match Report,,4,2,14.6,0.0,0,0,Crystal Palace,2021
+2021-05-01,12:30,Premier League,Matchweek 34,Sat,Home,L,0,2,Manchester City,0.9,1.7,32,,Luka Milivojević,4-3-3,4-4-1-1,David Coote,Match Report,,9,4,19.6,0.0,0,0,Crystal Palace,2021
+2021-05-08,15:00,Premier League,Matchweek 35,Sat,Away,W,2,0,Sheffield Utd,2.0,0.7,50,,Luka Milivojević,4-3-3,3-5-2,Simon Hooper,Match Report,,21,8,16.1,1.0,0,0,Crystal Palace,2021
+2021-05-11,20:15,Premier League,Matchweek 32,Tue,Away,L,1,3,Southampton,1.5,1.2,38,,Luka Milivojević,4-3-3,4-4-2,Andy Madley,Match Report,,10,3,18.9,1.0,0,1,Crystal Palace,2021
+2021-05-16,12:00,Premier League,Matchweek 36,Sun,Home,W,3,2,Aston Villa,1.9,1.4,45,,Gary Cahill,4-3-3,4-3-3,David Coote,Match Report,,23,8,18.0,2.0,0,0,Crystal Palace,2021
+2021-05-19,19:00,Premier League,Matchweek 37,Wed,Home,L,1,3,Arsenal,1.0,1.8,32,6500.0,Gary Cahill,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,12,6,13.6,0.0,0,0,Crystal Palace,2021
+2021-05-23,16:00,Premier League,Matchweek 38,Sun,Away,L,0,2,Liverpool,0.6,1.6,31,9901.0,Gary Cahill,4-3-3,4-3-3,Craig Pawson,Match Report,,5,4,19.4,1.0,0,0,Crystal Palace,2021

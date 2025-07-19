@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2022-08-06,12:30,Premier League,Matchweek 1,Sat,Home,D,2,2,Liverpool,1.2,1.2,33,22207,Tim Ream,4-2-3-1,4-3-3,Andy Madley,Match Report,,8,2,18.4,0.0,1,1,Fulham,2023
+2022-08-13,15:00,Premier League,Matchweek 2,Sat,Away,D,0,0,Wolves,1.5,0.9,41,31178,Tim Ream,4-2-3-1,4-2-3-1,John Brooks,Match Report,,8,2,15.7,0.0,0,1,Fulham,2023
+2022-08-20,15:00,Premier League,Matchweek 3,Sat,Home,W,3,2,Brentford,2.4,1.8,43,21798,Tim Ream,4-2-3-1,4-3-3,Peter Bankes,Match Report,,18,9,15.5,1.0,0,0,Fulham,2023
+2022-08-27,17:30,Premier League,Matchweek 4,Sat,Away,L,1,2,Arsenal,0.8,2.6,29,60164,Tim Ream,4-2-3-1,4-3-3,Jarred Gillett,Match Report,,11,3,13.7,0.0,0,0,Fulham,2023
+2022-08-30,19:30,Premier League,Matchweek 5,Tue,Home,W,2,1,Brighton,0.7,1.4,39,22224,Tim Ream,4-2-3-1,3-5-2,Thomas Bramall,Match Report,,10,3,15.3,1.0,0,0,Fulham,2023
+2022-09-03,15:00,Premier League,Matchweek 6,Sat,Away,L,1,2,Tottenham,0.7,2.9,48,61641,Tim Ream,4-2-3-1,3-4-3,Stuart Attwell,Match Report,,9,3,17.1,0.0,0,0,Fulham,2023
+2022-09-16,20:00,Premier League,Matchweek 8,Fri,Away,W,3,2,Nott'ham Forest,0.9,1.4,59,28654,Tim Ream,4-2-3-1,3-4-1-2,Jarred Gillett,Match Report,,15,7,17.3,2.0,0,0,Fulham,2023
+2022-10-01,15:00,Premier League,Matchweek 9,Sat,Home,L,1,4,Newcastle Utd,0.5,3.3,33,22913,Tim Ream,4-2-3-1,4-3-3,Darren England,Match Report,,3,1,16.2,0.0,0,0,Fulham,2023
+2022-10-09,14:00,Premier League,Matchweek 10,Sun,Away,L,1,3,West Ham,0.7,2.4,50,62407,Tim Ream,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,8,2,16.6,1.0,0,0,Fulham,2023
+2022-10-15,15:00,Premier League,Matchweek 11,Sat,Home,D,2,2,Bournemouth,2.1,1.0,69,22541,Tim Ream,4-2-3-1,4-2-3-1,Graham Scott,Match Report,,18,3,18.9,0.0,1,1,Fulham,2023
+2022-10-20,19:30,Premier League,Matchweek 12,Thu,Home,W,3,0,Aston Villa,2.1,1.2,60,23508,Tim Ream,4-2-3-1,4-3-2-1,Michael Oliver,Match Report,,17,6,16.7,1.0,1,1,Fulham,2023
+2022-10-23,14:00,Premier League,Matchweek 13,Sun,Away,W,3,2,Leeds United,1.8,1.6,43,36447,Tim Ream,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,11,4,11.9,0.0,0,0,Fulham,2023
+2022-10-29,17:30,Premier League,Matchweek 14,Sat,Home,D,0,0,Everton,1.9,0.9,56,23534,Tim Ream,4-2-3-1,4-2-3-1,John Brooks,Match Report,,24,6,16.4,0.0,0,0,Fulham,2023
+2022-11-05,15:00,Premier League,Matchweek 15,Sat,Away,L,1,2,Manchester City,1.0,2.1,30,52395,Tim Ream,4-2-3-1,4-3-3,Darren England,Match Report,,3,1,26.2,0.0,1,1,Fulham,2023
+2022-11-13,16:30,Premier League,Matchweek 16,Sun,Home,L,1,2,Manchester Utd,1.4,2.5,53,24246,Tom Cairney,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,14,7,14.0,0.0,0,0,Fulham,2023
+2022-12-26,15:00,Premier League,Matchweek 17,Mon,Away,W,3,0,Crystal Palace,2.5,0.4,64,25176,Tim Ream,4-2-3-1,4-3-3,Andy Madley,Match Report,,23,10,13.4,1.0,0,0,Fulham,2023
+2022-12-31,15:00,Premier League,Matchweek 18,Sat,Home,W,2,1,Southampton,1.5,0.8,62,24344,Tim Ream,4-2-3-1,3-4-3,Graham Scott,Match Report,,7,1,18.8,0.0,0,1,Fulham,2023
+2023-01-03,19:45,Premier League,Matchweek 19,Tue,Away,W,1,0,Leicester City,1.7,1.7,39,30813,Tim Ream,4-2-3-1,4-2-3-1,Darren Bond,Match Report,,11,2,19.4,0.0,0,0,Fulham,2023
+2023-01-12,20:00,Premier League,Matchweek 7,Thu,Home,W,2,1,Chelsea,1.0,2.1,48,24460,Tim Ream,4-2-3-1,3-5-2,David Coote,Match Report,,8,3,15.3,0.0,0,0,Fulham,2023
+2023-01-15,14:00,Premier League,Matchweek 20,Sun,Away,L,0,1,Newcastle Utd,1.1,2.2,38,52247,Tim Ream,4-2-3-1,4-3-3,Robert Jones,Match Report,,4,0,18.9,0.0,0,1,Fulham,2023
+2023-01-23,20:00,Premier League,Matchweek 21,Mon,Home,L,0,1,Tottenham,1.0,0.9,54,24190,Tim Ream,4-2-3-1,3-4-3,Paul Tierney,Match Report,,10,5,17.3,1.0,0,0,Fulham,2023
+2023-02-03,20:00,Premier League,Matchweek 22,Fri,Away,D,0,0,Chelsea,0.6,1.3,34,40041,Tim Ream,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,10,4,23.0,0.0,0,0,Fulham,2023
+2023-02-11,15:00,Premier League,Matchweek 23,Sat,Home,W,2,0,Nott'ham Forest,1.5,0.7,50,24244,Tim Ream,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,16,3,15.0,1.0,0,0,Fulham,2023
+2023-02-18,15:00,Premier League,Matchweek 24,Sat,Away,W,1,0,Brighton,0.3,2.2,35,31619,Tim Ream,4-2-3-1,4-2-3-1,Darren England,Match Report,,5,2,16.0,0.0,0,0,Fulham,2023
+2023-02-24,20:00,Premier League,Matchweek 25,Fri,Home,D,1,1,Wolves,0.5,0.8,51,24399,Tim Ream,4-2-3-1,4-4-2,Michael Oliver,Match Report,,10,5,24.2,1.0,0,0,Fulham,2023
+2023-03-06,20:00,Premier League,Matchweek 26,Mon,Away,L,2,3,Brentford,1.4,2.1,63,17025,Tim Ream,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,9,5,17.4,1.0,0,0,Fulham,2023
+2023-03-12,14:00,Premier League,Matchweek 27,Sun,Home,L,0,3,Arsenal,0.8,2.3,45,24426,Tim Ream,4-2-3-1,4-3-3,David Coote,Match Report,,12,2,17.4,0.0,0,0,Fulham,2023
+2023-04-01,15:00,Premier League,Matchweek 29,Sat,Away,L,1,2,Bournemouth,0.8,2.6,57,10305,Tim Ream,4-2-3-1,4-4-1-1,Peter Bankes,Match Report,,10,2,16.5,0.0,0,0,Fulham,2023
+2023-04-08,15:00,Premier League,Matchweek 30,Sat,Home,L,0,1,West Ham,0.7,1.1,76,24491,Tim Ream,4-2-3-1,4-4-2,Jarred Gillett,Match Report,,16,3,20.5,0.0,0,0,Fulham,2023
+2023-04-15,15:00,Premier League,Matchweek 31,Sat,Away,W,3,1,Everton,1.8,1.4,54,39241,Tim Ream,4-2-3-1,4-4-2,Anthony Taylor,Match Report,,21,7,17.9,0.0,0,0,Fulham,2023
+2023-04-22,12:30,Premier League,Matchweek 32,Sat,Home,W,2,1,Leeds United,1.7,0.8,50,24356,Tim Ream,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,12,5,24.4,3.0,0,0,Fulham,2023
+2023-04-25,19:45,Premier League,Matchweek 33,Tue,Away,L,0,1,Aston Villa,0.1,1.0,49,41046,Tim Ream,4-2-3-1,4-2-3-1,Thomas Bramall,Match Report,,1,0,14.7,0.0,0,0,Fulham,2023
+2023-04-30,14:00,Premier League,Matchweek 34,Sun,Home,L,1,2,Manchester City,0.2,2.5,38,24498,Tim Ream,4-2-3-1,3-2-4-1,Simon Hooper,Match Report,,4,1,22.4,0.0,0,0,Fulham,2023
+2023-05-03,20:00,Premier League,Matchweek 28,Wed,Away,L,0,1,Liverpool,0.9,1.8,43,52602,Tom Cairney,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,9,3,16.8,0.0,0,0,Fulham,2023
+2023-05-08,15:00,Premier League,Matchweek 35,Mon,Home,W,5,3,Leicester City,1.6,2.8,57,24442,Tom Cairney,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,17,7,17.5,1.0,0,0,Fulham,2023
+2023-05-13,15:00,Premier League,Matchweek 36,Sat,Away,W,2,0,Southampton,1.4,0.4,64,28978,Tom Cairney,4-2-3-1,4-2-3-1,Thomas Bramall,Match Report,,9,3,17.5,0.0,0,0,Fulham,2023
+2023-05-20,15:00,Premier League,Matchweek 37,Sat,Home,D,2,2,Crystal Palace,1.7,1.6,49,24356,Tom Cairney,4-2-3-1,4-2-3-1,Joshua Smith,Match Report,,10,3,19.0,1.0,1,1,Fulham,2023
+2023-05-28,16:30,Premier League,Matchweek 38,Sun,Away,L,1,2,Manchester Utd,1.8,2.9,47,73465,Tom Cairney,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,9,2,17.6,1.0,0,1,Fulham,2023

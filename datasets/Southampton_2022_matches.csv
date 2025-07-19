@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2021-08-14,15:00,Premier League,Matchweek 1,Sat,Away,L,1,3,Everton,0.8,2.4,52,38487.0,James Ward-Prowse,4-4-2,4-2-3-1,Andy Madley,Match Report,,6,3,15.5,0.0,0,0,Southampton,2022
+2021-08-22,14:00,Premier League,Matchweek 2,Sun,Home,D,1,1,Manchester Utd,0.7,1.8,37,32000.0,James Ward-Prowse,4-4-2,4-2-3-1,Craig Pawson,Match Report,,8,3,21.5,2.0,0,0,Southampton,2022
+2021-08-28,15:00,Premier League,Matchweek 3,Sat,Away,D,2,2,Newcastle Utd,3.6,1.0,63,44017.0,James Ward-Prowse,4-4-2,3-5-2,Paul Tierney,Match Report,,21,5,19.2,1.0,1,1,Southampton,2022
+2021-09-11,15:00,Premier League,Matchweek 4,Sat,Home,D,0,0,West Ham,0.7,0.7,42,30000.0,James Ward-Prowse,4-1-4-1,4-2-3-1,David Coote,Match Report,,11,2,14.2,0.0,0,0,Southampton,2022
+2021-09-18,15:00,Premier League,Matchweek 5,Sat,Away,D,0,0,Manchester City,0.4,1.0,36,52698.0,James Ward-Prowse,4-4-2,4-3-3,Jonathan Moss,Match Report,,10,2,19.8,0.0,0,0,Southampton,2022
+2021-09-26,14:00,Premier League,Matchweek 6,Sun,Home,L,0,1,Wolves,1.0,1.0,57,28002.0,James Ward-Prowse,4-4-2,3-4-3,Andy Madley,Match Report,,18,6,20.7,1.0,0,0,Southampton,2022
+2021-10-02,15:00,Premier League,Matchweek 7,Sat,Away,L,1,3,Chelsea,1.3,3.3,38,40109.0,James Ward-Prowse,4-4-2,3-4-3,Martin Atkinson,Match Report,,5,1,24.0,0.0,1,1,Southampton,2022
+2021-10-16,15:00,Premier League,Matchweek 8,Sat,Home,W,1,0,Leeds United,1.9,0.2,46,30506.0,Oriol Romeu,4-4-2,3-3-3-1,David Coote,Match Report,,19,4,18.7,1.0,0,0,Southampton,2022
+2021-10-23,15:00,Premier League,Matchweek 9,Sat,Home,D,2,2,Burnley,1.6,0.7,61,29145.0,Oriol Romeu,4-4-2,4-4-2,Chris Kavanagh,Match Report,,16,4,16.9,0.0,0,0,Southampton,2022
+2021-10-30,15:00,Premier League,Matchweek 10,Sat,Away,W,1,0,Watford,1.8,1.0,60,20869.0,James Ward-Prowse,4-4-2,4-4-1-1,Peter Bankes,Match Report,,12,1,15.0,0.0,0,0,Southampton,2022
+2021-11-05,20:00,Premier League,Matchweek 11,Fri,Home,W,1,0,Aston Villa,0.6,0.6,56,30178.0,James Ward-Prowse,4-4-2,4-2-3-1,Andy Madley,Match Report,,9,3,15.6,0.0,0,0,Southampton,2022
+2021-11-20,15:00,Premier League,Matchweek 12,Sat,Away,L,1,2,Norwich City,1.0,0.5,62,26885.0,James Ward-Prowse,4-4-2,4-3-3,Martin Atkinson,Match Report,,17,5,18.8,0.0,0,0,Southampton,2022
+2021-11-27,15:00,Premier League,Matchweek 13,Sat,Away,L,0,4,Liverpool,1.0,2.9,36,53040.0,James Ward-Prowse,3-4-3,4-3-3,Andre Marriner,Match Report,,7,3,10.5,0.0,0,0,Southampton,2022
+2021-12-01,19:30,Premier League,Matchweek 14,Wed,Home,D,2,2,Leicester City,1.5,1.5,45,26951.0,James Ward-Prowse,4-4-2,4-2-3-1,Robert Jones,Match Report,,15,7,14.9,0.0,0,0,Southampton,2022
+2021-12-04,15:00,Premier League,Matchweek 15,Sat,Home,D,1,1,Brighton,1.6,1.6,44,28706.0,James Ward-Prowse,4-4-2,3-5-2,Anthony Taylor,Match Report,,14,4,17.6,1.0,0,0,Southampton,2022
+2021-12-11,15:00,Premier League,Matchweek 16,Sat,Away,L,0,3,Arsenal,0.6,1.8,39,59653.0,James Ward-Prowse,4-4-2,4-4-1-1,Jarred Gillett,Match Report,,11,6,22.1,3.0,0,0,Southampton,2022
+2021-12-15,19:30,Premier League,Matchweek 17,Wed,Away,D,2,2,Crystal Palace,0.6,1.2,41,22861.0,James Ward-Prowse,4-4-2,4-3-3,Simon Hooper,Match Report,,15,4,21.3,1.0,0,0,Southampton,2022
+2021-12-26,15:00,Premier League,Matchweek 19,Sun,Away,W,3,2,West Ham,1.2,1.6,44,41027.0,James Ward-Prowse,4-1-4-1,4-2-3-1,Kevin Friend,Match Report,,10,5,22.8,0.0,1,1,Southampton,2022
+2021-12-28,15:00,Premier League,Matchweek 20,Tue,Home,D,1,1,Tottenham,0.4,2.3,35,31304.0,James Ward-Prowse,5-3-2,3-4-3,Anthony Taylor,Match Report,,9,2,20.7,0.0,0,0,Southampton,2022
+2022-01-11,19:45,Premier League,Matchweek 18,Tue,Home,W,4,1,Brentford,1.4,0.5,48,27383.0,James Ward-Prowse,3-5-2,3-5-2,Stuart Attwell,Match Report,,12,6,17.9,0.0,0,0,Southampton,2022
+2022-01-15,15:00,Premier League,Matchweek 22,Sat,Away,L,1,3,Wolves,0.8,2.5,57,30057.0,James Ward-Prowse,3-5-2,3-4-3,Michael Salisbury,Match Report,,13,10,20.4,2.0,0,0,Southampton,2022
+2022-01-22,17:30,Premier League,Matchweek 23,Sat,Home,D,1,1,Manchester City,0.8,1.8,26,31178.0,James Ward-Prowse,4-4-2,4-3-3,Simon Hooper,Match Report,,7,3,11.0,0.0,0,0,Southampton,2022
+2022-02-09,19:45,Premier League,Matchweek 24,Wed,Away,W,3,2,Tottenham,2.2,1.4,52,54012.0,James Ward-Prowse,4-4-2,3-4-3,David Coote,Match Report,,23,9,16.8,0.0,0,0,Southampton,2022
+2022-02-12,12:30,Premier League,Matchweek 25,Sat,Away,D,1,1,Manchester Utd,0.8,2.1,47,73084.0,James Ward-Prowse,4-4-2,4-2-3-1,Stuart Attwell,Match Report,,13,4,21.1,0.0,0,0,Southampton,2022
+2022-02-19,15:00,Premier League,Matchweek 26,Sat,Home,W,2,0,Everton,2.5,0.3,55,31312.0,James Ward-Prowse,4-4-2,4-4-2,Andy Madley,Match Report,,19,11,15.4,1.0,0,0,Southampton,2022
+2022-02-25,20:00,Premier League,Matchweek 27,Fri,Home,W,2,0,Norwich City,2.6,0.6,58,31182.0,James Ward-Prowse,4-4-2,4-1-4-1,Simon Hooper,Match Report,,27,9,15.9,1.0,0,0,Southampton,2022
+2022-03-05,15:00,Premier League,Matchweek 28,Sat,Away,L,0,4,Aston Villa,1.1,2.5,62,41855.0,James Ward-Prowse,4-4-2,4-3-1-2,Peter Bankes,Match Report,,11,1,19.1,1.0,0,0,Southampton,2022
+2022-03-10,19:30,Premier League,Matchweek 21,Thu,Home,L,1,2,Newcastle Utd,1.1,0.6,67,30056.0,James Ward-Prowse,4-4-2,4-3-3,Kevin Friend,Match Report,,14,5,13.9,0.0,0,0,Southampton,2022
+2022-03-13,14:00,Premier League,Matchweek 29,Sun,Home,L,1,2,Watford,1.4,1.7,63,28863.0,James Ward-Prowse,4-4-2,4-3-3,Graham Scott,Match Report,,13,6,12.8,1.0,0,0,Southampton,2022
+2022-04-02,15:00,Premier League,Matchweek 31,Sat,Away,D,1,1,Leeds United,1.4,1.2,44,36580.0,James Ward-Prowse,4-3-1-2,4-2-3-1,Anthony Taylor,Match Report,,14,5,16.4,1.0,0,0,Southampton,2022
+2022-04-09,15:00,Premier League,Matchweek 32,Sat,Home,L,0,6,Chelsea,0.5,4.2,30,31359.0,James Ward-Prowse,4-4-2,3-4-1-2,Kevin Friend,Match Report,,4,1,17.0,0.0,0,0,Southampton,2022
+2022-04-16,15:00,Premier League,Matchweek 33,Sat,Home,W,1,0,Arsenal,0.8,1.7,25,31465.0,James Ward-Prowse,3-4-3,4-2-3-1,Peter Bankes,Match Report,,9,3,15.9,1.0,0,0,Southampton,2022
+2022-04-21,19:45,Premier League,Matchweek 30,Thu,Away,L,0,2,Burnley,0.9,1.5,56,17384.0,James Ward-Prowse,3-1-4-2,4-4-2,Stuart Attwell,Match Report,,11,3,15.1,1.0,0,0,Southampton,2022
+2022-04-24,14:00,Premier League,Matchweek 34,Sun,Away,D,2,2,Brighton,0.9,1.7,52,31335.0,James Ward-Prowse,4-4-2,4-3-1-2,Robert Jones,Match Report,,18,5,20.4,1.0,0,0,Southampton,2022
+2022-04-30,15:00,Premier League,Matchweek 35,Sat,Home,L,1,2,Crystal Palace,0.6,1.1,38,31359.0,James Ward-Prowse,4-4-2,4-3-3,Jarred Gillett,Match Report,,8,3,16.4,0.0,0,0,Southampton,2022
+2022-05-07,15:00,Premier League,Matchweek 36,Sat,Away,L,0,3,Brentford,1.4,2.6,59,17051.0,James Ward-Prowse,4-4-2,4-3-3,Michael Salisbury,Match Report,,19,4,18.8,2.0,0,0,Southampton,2022
+2022-05-17,19:45,Premier League,Matchweek 37,Tue,Home,L,1,2,Liverpool,0.1,1.3,30,31588.0,James Ward-Prowse,5-4-1,4-3-3,Martin Atkinson,Match Report,,4,2,25.2,1.0,0,0,Southampton,2022
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Away,L,1,4,Leicester City,1.1,3.4,49,32003.0,James Ward-Prowse,4-4-2,4-2-3-1,Jonathan Moss,Match Report,,6,1,18.9,1.0,1,1,Southampton,2022

@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2021-08-14,15:00,Premier League,Matchweek 1,Sat,Home,W,3,1,Southampton,2.4,0.8,48,38487,Séamus Coleman,4-2-3-1,4-4-2,Andy Madley,Match Report,,14,6,12.5,1.0,0,0,Everton,2022
+2021-08-21,15:00,Premier League,Matchweek 2,Sat,Away,D,2,2,Leeds United,1.8,1.2,31,36293,Séamus Coleman,4-4-1-1,3-3-3-1,Darren England,Match Report,,16,7,20.9,0.0,1,1,Everton,2022
+2021-08-28,15:00,Premier League,Matchweek 3,Sat,Away,W,2,0,Brighton,1.4,0.7,35,30548,Séamus Coleman,4-4-1-1,3-4-3,Jonathan Moss,Match Report,,13,4,21.2,0.0,1,1,Everton,2022
+2021-09-13,20:00,Premier League,Matchweek 4,Mon,Home,W,3,1,Burnley,1.4,1.0,52,30000,Séamus Coleman,3-4-3,4-4-2,Martin Atkinson,Match Report,,14,6,19.5,1.0,0,0,Everton,2022
+2021-09-18,17:30,Premier League,Matchweek 5,Sat,Away,L,0,3,Aston Villa,0.7,0.8,45,41888,Lucas Digne,4-4-1-1,5-3-2,Craig Pawson,Match Report,,11,1,16.2,1.0,0,0,Everton,2022
+2021-09-25,15:00,Premier League,Matchweek 6,Sat,Home,W,2,0,Norwich City,1.9,0.5,47,38821,Lucas Digne,4-4-1-1,5-3-2,David Coote,Match Report,,10,3,18.8,0.0,1,1,Everton,2022
+2021-10-02,12:30,Premier League,Matchweek 7,Sat,Away,D,1,1,Manchester Utd,1.3,1.0,28,73128,Lucas Digne,4-4-1-1,4-2-3-1,Michael Oliver,Match Report,,12,2,14.5,0.0,0,0,Everton,2022
+2021-10-17,14:00,Premier League,Matchweek 8,Sun,Home,L,0,1,West Ham,0.9,1.2,39,39132,Séamus Coleman,4-4-1-1,4-2-3-1,Stuart Attwell,Match Report,,15,2,14.7,0.0,0,0,Everton,2022
+2021-10-23,15:00,Premier League,Matchweek 9,Sat,Home,L,2,5,Watford,1.5,3.7,49,38834,Séamus Coleman,4-4-1-1,4-1-4-1,Graham Scott,Match Report,,15,4,15.7,0.0,0,0,Everton,2022
+2021-11-01,20:00,Premier League,Matchweek 10,Mon,Away,L,1,2,Wolves,1.5,1.7,39,30617,Séamus Coleman,4-4-2,3-4-3,Martin Atkinson,Match Report,,14,5,15.7,0.0,0,0,Everton,2022
+2021-11-07,14:00,Premier League,Matchweek 11,Sun,Home,D,0,0,Tottenham,0.6,0.7,45,39059,Séamus Coleman,4-4-1-1,3-4-3,Chris Kavanagh,Match Report,,12,2,18.3,0.0,0,0,Everton,2022
+2021-11-21,14:00,Premier League,Matchweek 12,Sun,Away,L,0,3,Manchester City,0.2,2.5,23,52571,Séamus Coleman,4-4-1-1,4-3-3,Stuart Attwell,Match Report,,4,1,15.5,1.0,0,0,Everton,2022
+2021-11-28,14:00,Premier League,Matchweek 13,Sun,Away,L,0,1,Brentford,1.0,1.2,60,16957,Séamus Coleman,4-4-1-1,3-5-2,Darren England,Match Report,,14,5,16.6,1.0,0,0,Everton,2022
+2021-12-01,20:15,Premier League,Matchweek 14,Wed,Home,L,1,4,Liverpool,0.7,2.4,33,39641,Séamus Coleman,4-4-2,4-3-3,Paul Tierney,Match Report,,8,2,20.8,1.0,0,0,Everton,2022
+2021-12-06,20:00,Premier League,Matchweek 15,Mon,Home,W,2,1,Arsenal,0.9,1.0,37,38906,Séamus Coleman,4-4-1-1,4-2-3-1,Mike Dean,Match Report,,11,5,17.1,0.0,0,0,Everton,2022
+2021-12-12,16:30,Premier League,Matchweek 16,Sun,Away,L,1,3,Crystal Palace,1.0,1.8,39,24066,Séamus Coleman,4-1-4-1,4-3-3,Andy Madley,Match Report,,12,6,20.5,1.0,0,0,Everton,2022
+2021-12-16,19:45,Premier League,Matchweek 17,Thu,Away,D,1,1,Chelsea,0.6,2.9,20,13933,Michael Keane,5-4-1,3-4-3,Michael Oliver,Match Report,,5,3,21.1,0.0,0,0,Everton,2022
+2022-01-02,14:00,Premier League,Matchweek 21,Sun,Home,L,2,3,Brighton,1.6,1.7,50,38203,Séamus Coleman,5-4-1,4-4-2,John Brooks,Match Report,,16,6,17.9,0.0,0,1,Everton,2022
+2022-01-15,15:00,Premier League,Matchweek 22,Sat,Away,L,1,2,Norwich City,0.6,1.0,59,26629,Séamus Coleman,4-4-2,4-4-2,Andy Madley,Match Report,,12,5,17.0,1.0,0,0,Everton,2022
+2022-01-22,12:30,Premier League,Matchweek 23,Sat,Home,L,0,1,Aston Villa,1.6,0.8,50,38203,Yerry Mina,4-4-2,4-3-3,Craig Pawson,Match Report,,15,0,14.1,2.0,0,0,Everton,2022
+2022-02-08,19:45,Premier League,Matchweek 24,Tue,Away,L,1,3,Newcastle Utd,0.7,1.9,60,52186,Séamus Coleman,3-4-3,4-3-3,Anthony Taylor,Match Report,,11,2,19.1,1.0,0,0,Everton,2022
+2022-02-12,15:00,Premier League,Matchweek 25,Sat,Home,W,3,0,Leeds United,2.7,0.3,42,39150,Séamus Coleman,4-4-2,3-3-3-1,Graham Scott,Match Report,,21,10,18.2,0.0,0,0,Everton,2022
+2022-02-19,15:00,Premier League,Matchweek 26,Sat,Away,L,0,2,Southampton,0.3,2.5,45,31312,Séamus Coleman,4-4-2,4-4-2,Andy Madley,Match Report,,9,0,23.4,0.0,0,0,Everton,2022
+2022-02-26,17:30,Premier League,Matchweek 27,Sat,Home,L,0,1,Manchester City,0.5,1.8,33,39105,Séamus Coleman,4-3-3,4-3-3,Paul Tierney,Match Report,,6,2,19.1,1.0,0,0,Everton,2022
+2022-03-07,20:00,Premier League,Matchweek 28,Mon,Away,L,0,5,Tottenham,0.2,2.5,45,59647,Séamus Coleman,4-2-3-1,3-4-3,Stuart Attwell,Match Report,,6,0,22.5,1.0,0,0,Everton,2022
+2022-03-13,14:00,Premier League,Matchweek 29,Sun,Home,L,0,1,Wolves,0.4,0.8,39,39112,Séamus Coleman,3-4-3,3-5-2,Michael Oliver,Match Report,,7,2,20.5,1.0,0,0,Everton,2022
+2022-03-17,19:45,Premier League,Matchweek 20,Thu,Home,W,1,0,Newcastle Utd,0.7,0.9,39,39068,Séamus Coleman,4-2-3-1,4-3-3,Craig Pawson,Match Report,,9,3,17.2,1.0,0,0,Everton,2022
+2022-04-03,14:00,Premier League,Matchweek 31,Sun,Away,L,1,2,West Ham,0.7,1.2,45,59953,Michael Keane,4-3-3,4-2-3-1,Michael Oliver,Match Report,,13,2,18.7,0.0,0,0,Everton,2022
+2022-04-06,19:30,Premier League,Matchweek 19,Wed,Away,L,2,3,Burnley,2.4,2.0,48,19830,Jordan Pickford,4-3-3,4-4-2,Mike Dean,Match Report,,14,2,19.5,0.0,2,2,Everton,2022
+2022-04-09,12:30,Premier League,Matchweek 32,Sat,Home,W,1,0,Manchester Utd,0.4,0.8,33,39080,Séamus Coleman,4-3-3,4-2-3-1,Jonathan Moss,Match Report,,7,3,18.3,0.0,0,0,Everton,2022
+2022-04-20,19:45,Premier League,Matchweek 18,Wed,Home,D,1,1,Leicester City,1.8,0.9,37,39153,Séamus Coleman,4-3-3,4-2-3-1,David Coote,Match Report,,13,3,14.7,0.0,0,0,Everton,2022
+2022-04-24,16:30,Premier League,Matchweek 34,Sun,Away,L,0,2,Liverpool,0.4,1.7,18,53213,Séamus Coleman,4-3-3,4-3-3,Stuart Attwell,Match Report,,9,1,19.1,1.0,0,0,Everton,2022
+2022-05-01,14:00,Premier League,Matchweek 35,Sun,Home,W,1,0,Chelsea,0.8,0.8,23,39256,Séamus Coleman,5-4-1,3-4-1-2,Kevin Friend,Match Report,,9,4,17.8,1.0,0,0,Everton,2022
+2022-05-08,14:00,Premier League,Matchweek 36,Sun,Away,W,2,1,Leicester City,1.1,1.5,34,32001,Séamus Coleman,5-4-1,3-1-4-2,Craig Pawson,Match Report,,10,4,13.8,0.0,0,0,Everton,2022
+2022-05-11,19:45,Premier League,Matchweek 30,Wed,Away,D,0,0,Watford,0.7,0.3,52,20653,Séamus Coleman,5-4-1,4-3-3,Mike Dean,Match Report,,16,5,16.8,0.0,0,0,Everton,2022
+2022-05-15,16:30,Premier League,Matchweek 37,Sun,Home,L,2,3,Brentford,2.1,1.4,28,38819,Séamus Coleman,3-4-3,4-3-3,Michael Oliver,Match Report,,9,4,17.4,0.0,1,1,Everton,2022
+2022-05-19,19:45,Premier League,Matchweek 33,Thu,Home,W,3,2,Crystal Palace,0.8,1.1,43,38448,Séamus Coleman,3-4-3,4-3-3,Anthony Taylor,Match Report,,12,6,18.5,1.0,0,0,Everton,2022
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Away,L,1,5,Arsenal,1.1,4.2,27,60201,Asmir Begović,5-4-1,4-2-3-1,Andre Marriner,Match Report,,6,2,17.7,0.0,0,0,Everton,2022

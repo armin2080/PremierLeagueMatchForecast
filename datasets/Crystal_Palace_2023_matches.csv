@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2022-08-05,20:00,Premier League,Matchweek 1,Fri,Home,L,0,2,Arsenal,1.2,1.0,56,25286,Marc Guéhi,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,10,2,14.2,0.0,0,0,Crystal Palace,2023
+2022-08-15,20:00,Premier League,Matchweek 2,Mon,Away,D,1,1,Liverpool,1.0,2.0,28,52970,Joel Ward,5-4-1,4-3-3,Paul Tierney,Match Report,,7,3,14.7,0.0,0,0,Crystal Palace,2023
+2022-08-20,15:00,Premier League,Matchweek 3,Sat,Home,W,3,1,Aston Villa,2.6,0.9,51,22012,Joel Ward,4-3-3,4-3-3,Andy Madley,Match Report,,16,8,15.6,1.0,0,1,Crystal Palace,2023
+2022-08-27,15:00,Premier League,Matchweek 4,Sat,Away,L,2,4,Manchester City,0.1,2.2,26,53112,Joel Ward,5-4-1,4-2-3-1,Darren England,Match Report,,2,2,20.6,0.0,0,0,Crystal Palace,2023
+2022-08-30,19:30,Premier League,Matchweek 5,Tue,Home,D,1,1,Brentford,1.0,1.4,49,25043,Joel Ward,4-1-4-1,4-3-3,Simon Hooper,Match Report,,13,4,19.2,0.0,0,0,Crystal Palace,2023
+2022-09-03,15:00,Premier League,Matchweek 6,Sat,Away,D,0,0,Newcastle Utd,1.0,2.8,48,51863,Joel Ward,4-3-3,4-3-3,Michael Salisbury,Match Report,,19,9,20.0,0.0,0,0,Crystal Palace,2023
+2022-10-01,15:00,Premier League,Matchweek 9,Sat,Home,L,1,2,Chelsea,0.4,1.1,36,25198,Joel Ward,4-3-3,4-2-2-2,Chris Kavanagh,Match Report,,7,3,20.1,0.0,0,0,Crystal Palace,2023
+2022-10-09,14:00,Premier League,Matchweek 10,Sun,Home,W,2,1,Leeds United,1.1,1.0,54,25042,Joel Ward,4-3-3,4-2-3-1,Paul Tierney,Match Report,,13,5,17.7,2.0,0,0,Crystal Palace,2023
+2022-10-15,12:30,Premier League,Matchweek 11,Sat,Away,D,0,0,Leicester City,0.4,1.0,46,31298,Joel Ward,4-3-3,4-1-4-1,Andy Madley,Match Report,,8,1,21.2,0.0,0,0,Crystal Palace,2023
+2022-10-18,20:15,Premier League,Matchweek 12,Tue,Home,W,2,1,Wolves,1.2,0.8,51,25125,Joel Ward,4-3-3,4-2-3-1,David Coote,Match Report,,14,4,17.3,1.0,0,0,Crystal Palace,2023
+2022-10-22,15:00,Premier League,Matchweek 13,Sat,Away,L,0,3,Everton,0.9,1.4,54,38939,Luka Milivojević,4-1-4-1,4-2-3-1,Simon Hooper,Match Report,,9,2,17.1,2.0,0,0,Crystal Palace,2023
+2022-10-29,15:00,Premier League,Matchweek 14,Sat,Home,W,1,0,Southampton,0.9,1.3,44,25130,Luka Milivojević,4-3-3,3-5-2,Michael Salisbury,Match Report,,12,3,20.0,1.0,0,0,Crystal Palace,2023
+2022-11-06,14:00,Premier League,Matchweek 15,Sun,Away,W,2,1,West Ham,1.0,0.3,58,62451,Marc Guéhi,4-3-3,4-2-3-1,Paul Tierney,Match Report,,15,6,20.5,2.0,0,0,Crystal Palace,2023
+2022-11-12,15:00,Premier League,Matchweek 16,Sat,Away,L,0,1,Nott'ham Forest,1.2,1.1,68,29045,Marc Guéhi,4-3-3,4-3-3,John Brooks,Match Report,,7,0,16.9,0.0,0,1,Crystal Palace,2023
+2022-12-26,15:00,Premier League,Matchweek 17,Mon,Home,L,0,3,Fulham,0.4,2.5,36,25176,Joachim Andersen,4-3-3,4-2-3-1,Andy Madley,Match Report,,4,0,13.0,0.0,0,0,Crystal Palace,2023
+2022-12-31,15:00,Premier League,Matchweek 18,Sat,Away,W,2,0,Bournemouth,1.6,0.6,41,9972,Joel Ward,4-2-3-1,4-4-2,Andre Marriner,Match Report,,15,6,18.9,1.0,0,0,Crystal Palace,2023
+2023-01-04,20:00,Premier League,Matchweek 19,Wed,Home,L,0,4,Tottenham,0.8,1.4,47,25132,Joel Ward,4-2-3-1,3-4-3,Michael Oliver,Match Report,,19,4,20.1,0.0,0,0,Crystal Palace,2023
+2023-01-15,14:00,Premier League,Matchweek 20,Sun,Away,L,0,1,Chelsea,0.7,1.5,39,40075,Marc Guéhi,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,10,5,17.9,0.0,0,0,Crystal Palace,2023
+2023-01-18,20:00,Premier League,Matchweek 7,Wed,Home,D,1,1,Manchester Utd,0.5,2.1,40,23343,Marc Guéhi,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,10,5,18.2,2.0,0,0,Crystal Palace,2023
+2023-01-21,17:30,Premier League,Matchweek 21,Sat,Home,D,0,0,Newcastle Utd,0.3,1.2,40,25350,Joel Ward,4-2-3-1,4-3-3,Craig Pawson,Match Report,,6,1,19.9,0.0,0,0,Crystal Palace,2023
+2023-02-04,15:00,Premier League,Matchweek 22,Sat,Away,L,1,2,Manchester Utd,1.3,2.0,48,73420,Marc Guéhi,4-2-3-1,4-2-3-1,Andre Marriner,Match Report,,10,3,12.8,0.0,0,0,Crystal Palace,2023
+2023-02-11,15:00,Premier League,Matchweek 23,Sat,Home,D,1,1,Brighton,1.1,2.5,27,24827,Marc Guéhi,4-4-2,4-2-3-1,Michael Oliver,Match Report,,6,1,12.4,0.0,0,0,Crystal Palace,2023
+2023-02-18,15:00,Premier League,Matchweek 24,Sat,Away,D,1,1,Brentford,1.1,0.9,41,17122,Marc Guéhi,4-2-3-1,4-3-3,Paul Tierney,Match Report,,10,4,14.4,0.0,0,0,Crystal Palace,2023
+2023-02-25,19:45,Premier League,Matchweek 25,Sat,Home,D,0,0,Liverpool,0.7,0.9,37,25842,Marc Guéhi,4-2-3-1,4-3-3,Darren England,Match Report,,6,0,15.0,0.0,0,0,Crystal Palace,2023
+2023-03-04,15:00,Premier League,Matchweek 26,Sat,Away,L,0,1,Aston Villa,0.2,1.2,42,41893,Marc Guéhi,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,3,0,16.9,0.0,0,0,Crystal Palace,2023
+2023-03-11,17:30,Premier League,Matchweek 27,Sat,Home,L,0,1,Manchester City,0.2,2.1,33,25844,Luka Milivojević,4-3-3,4-2-3-1,Robert Jones,Match Report,,4,0,17.5,0.0,0,0,Crystal Palace,2023
+2023-03-15,19:30,Premier League,Matchweek 8,Wed,Away,L,0,1,Brighton,1.1,0.6,43,30933,Marc Guéhi,4-3-3,4-2-3-1,Peter Bankes,Match Report,,11,3,17.3,1.0,0,0,Crystal Palace,2023
+2023-03-19,14:00,Premier League,Matchweek 28,Sun,Away,L,1,4,Arsenal,0.8,1.6,38,60247,Luka Milivojević,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,9,5,14.6,1.0,0,0,Crystal Palace,2023
+2023-04-01,15:00,Premier League,Matchweek 29,Sat,Home,W,2,1,Leicester City,2.3,0.2,52,25147,Wilfried Zaha,4-3-3,4-2-3-1,Tim Robinson,Match Report,,31,9,19.0,2.0,0,0,Crystal Palace,2023
+2023-04-09,14:00,Premier League,Matchweek 30,Sun,Away,W,5,1,Leeds United,3.0,0.9,52,36427,Joel Ward,4-3-3,4-2-3-1,Simon Hooper,Match Report,,16,7,12.3,1.0,0,0,Crystal Palace,2023
+2023-04-15,15:00,Premier League,Matchweek 31,Sat,Away,W,2,0,Southampton,0.9,0.8,42,30309,Joel Ward,4-3-3,4-4-2,Michael Oliver,Match Report,,10,2,23.7,2.0,0,0,Crystal Palace,2023
+2023-04-22,15:00,Premier League,Matchweek 32,Sat,Home,D,0,0,Everton,0.5,0.4,56,25202,Joel Ward,4-3-3,4-2-3-1,John Brooks,Match Report,,12,2,19.8,0.0,0,0,Crystal Palace,2023
+2023-04-25,19:30,Premier League,Matchweek 33,Tue,Away,L,0,2,Wolves,0.8,1.4,59,30294,Luka Milivojević,4-3-3,4-4-2,Robert Jones,Match Report,,14,4,18.3,0.0,0,0,Crystal Palace,2023
+2023-04-29,12:30,Premier League,Matchweek 34,Sat,Home,W,4,3,West Ham,2.1,1.7,59,25148,Wilfried Zaha,4-3-3,4-2-3-1,Craig Pawson,Match Report,,15,5,18.1,1.0,1,1,Crystal Palace,2023
+2023-05-06,15:00,Premier League,Matchweek 35,Sat,Away,L,0,1,Tottenham,0.4,0.9,44,61093,Wilfried Zaha,4-3-3,3-4-3,Darren England,Match Report,,7,2,17.6,1.0,0,0,Crystal Palace,2023
+2023-05-13,15:00,Premier League,Matchweek 36,Sat,Home,W,2,0,Bournemouth,1.5,0.3,59,25034,Wilfried Zaha,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,,17,5,15.2,0.0,0,0,Crystal Palace,2023
+2023-05-20,15:00,Premier League,Matchweek 37,Sat,Away,D,2,2,Fulham,1.6,1.7,51,24356,Joel Ward,4-2-3-1,4-2-3-1,Joshua Smith,Match Report,,11,5,16.9,1.0,0,0,Crystal Palace,2023
+2023-05-28,16:30,Premier League,Matchweek 38,Sun,Home,D,1,1,Nott'ham Forest,1.4,0.5,66,25198,Joel Ward,4-2-3-1,3-4-3,Thomas Bramall,Match Report,,15,3,17.3,1.0,0,0,Crystal Palace,2023

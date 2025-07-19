@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2022-08-07,14:00,Premier League,Matchweek 1,Sun,Away,W,2,1,Manchester Utd,1.5,1.4,38,73711.0,Lewis Dunk,3-3-3-1,4-3-3,Paul Tierney,Match Report,,15,4,17.4,0.0,0,0,Brighton And Hove Albion,2023
+2022-08-13,15:00,Premier League,Matchweek 2,Sat,Home,D,0,0,Newcastle Utd,1.5,0.2,54,31552.0,Lewis Dunk,3-4-1-2,4-3-3,Graham Scott,Match Report,,13,5,17.3,0.0,0,0,Brighton And Hove Albion,2023
+2022-08-21,14:00,Premier League,Matchweek 3,Sun,Away,W,2,0,West Ham,1.7,0.8,50,62449.0,Lewis Dunk,3-5-1-1,4-2-3-1,Anthony Taylor,Match Report,,10,1,18.8,0.0,1,1,Brighton And Hove Albion,2023
+2022-08-27,15:00,Premier League,Matchweek 4,Sat,Home,W,1,0,Leeds United,2.0,1.8,44,30953.0,Lewis Dunk,4-4-2,4-2-3-1,Michael Salisbury,Match Report,,13,4,13.6,0.0,0,0,Brighton And Hove Albion,2023
+2022-08-30,19:30,Premier League,Matchweek 5,Tue,Away,L,1,2,Fulham,1.4,0.7,61,22224.0,Lewis Dunk,3-5-2,4-2-3-1,Thomas Bramall,Match Report,,6,2,15.3,0.0,1,1,Brighton And Hove Albion,2023
+2022-09-04,14:00,Premier League,Matchweek 6,Sun,Home,W,5,2,Leicester City,2.6,1.4,53,31185.0,Lewis Dunk,3-5-2,4-4-2,Tony Harrington,Match Report,,22,10,19.6,2.0,1,1,Brighton And Hove Albion,2023
+2022-10-01,15:00,Premier League,Matchweek 9,Sat,Away,D,3,3,Liverpool,1.4,1.5,46,53320.0,Lewis Dunk,3-4-3,4-3-3,Andy Madley,Match Report,,6,6,10.0,0.0,0,0,Brighton And Hove Albion,2023
+2022-10-08,17:30,Premier League,Matchweek 10,Sat,Home,L,0,1,Tottenham,0.7,0.8,59,31498.0,Lewis Dunk,3-4-3,3-5-2,Tony Harrington,Match Report,,14,4,18.5,0.0,0,0,Brighton And Hove Albion,2023
+2022-10-14,20:00,Premier League,Matchweek 11,Fri,Away,L,0,2,Brentford,1.9,1.5,72,17016.0,Lewis Dunk,4-4-2,4-3-3,Michael Salisbury,Match Report,,21,7,17.2,0.0,0,0,Brighton And Hove Albion,2023
+2022-10-18,19:30,Premier League,Matchweek 12,Tue,Home,D,0,0,Nott'ham Forest,1.7,0.1,70,31463.0,Lewis Dunk,3-4-3,4-3-3,Darren England,Match Report,,19,7,15.7,0.0,0,0,Brighton And Hove Albion,2023
+2022-10-22,15:00,Premier League,Matchweek 13,Sat,Away,L,1,3,Manchester City,0.5,1.6,52,53223.0,Lewis Dunk,3-4-1-2,4-3-3,Craig Pawson,Match Report,,8,2,19.8,0.0,0,0,Brighton And Hove Albion,2023
+2022-10-29,15:00,Premier League,Matchweek 14,Sat,Home,W,4,1,Chelsea,2.4,1.4,41,31746.0,Lewis Dunk,4-2-3-1,3-4-3,Andy Madley,Match Report,,19,7,15.9,0.0,0,0,Brighton And Hove Albion,2023
+2022-11-05,15:00,Premier League,Matchweek 15,Sat,Away,W,3,2,Wolves,1.5,1.2,71,30732.0,Lewis Dunk,4-2-3-1,4-3-3,Graham Scott,Match Report,,19,8,17.2,3.0,0,0,Brighton And Hove Albion,2023
+2022-11-13,14:00,Premier League,Matchweek 16,Sun,Home,L,1,2,Aston Villa,0.6,1.5,65,31581.0,Lewis Dunk,4-2-3-1,4-4-2,Chris Kavanagh,Match Report,,7,2,18.2,0.0,0,0,Brighton And Hove Albion,2023
+2022-12-26,15:00,Premier League,Matchweek 17,Mon,Away,W,3,1,Southampton,0.6,1.9,66,31010.0,Lewis Dunk,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,7,4,13.7,0.0,0,0,Brighton And Hove Albion,2023
+2022-12-31,17:30,Premier League,Matchweek 18,Sat,Home,L,2,4,Arsenal,1.2,2.9,68,31647.0,Lewis Dunk,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,9,5,13.5,0.0,0,0,Brighton And Hove Albion,2023
+2023-01-03,19:45,Premier League,Matchweek 19,Tue,Away,W,4,1,Everton,2.2,1.3,51,39103.0,Lewis Dunk,4-2-3-1,4-3-3,Andre Marriner,Match Report,,19,8,18.9,1.0,0,0,Brighton And Hove Albion,2023
+2023-01-14,15:00,Premier League,Matchweek 20,Sat,Home,W,3,0,Liverpool,1.9,1.0,61,31645.0,Lewis Dunk,4-2-3-1,4-1-2-1-2,Darren England,Match Report,,16,8,16.3,0.0,0,0,Brighton And Hove Albion,2023
+2023-01-21,15:00,Premier League,Matchweek 21,Sat,Away,D,2,2,Leicester City,1.7,0.9,63,32056.0,Lewis Dunk,4-2-3-1,4-4-2,Thomas Bramall,Match Report,,13,4,17.0,0.0,0,0,Brighton And Hove Albion,2023
+2023-02-04,15:00,Premier League,Matchweek 22,Sat,Home,W,1,0,Bournemouth,2.2,1.1,71,31600.0,Lewis Dunk,3-4-3,4-4-1-1,Craig Pawson,Match Report,,20,6,16.3,0.0,0,0,Brighton And Hove Albion,2023
+2023-02-11,15:00,Premier League,Matchweek 23,Sat,Away,D,1,1,Crystal Palace,2.5,1.1,73,24827.0,Lewis Dunk,4-2-3-1,4-4-2,Michael Oliver,Match Report,,17,7,13.6,1.0,0,0,Brighton And Hove Albion,2023
+2023-02-18,15:00,Premier League,Matchweek 24,Sat,Home,L,0,1,Fulham,2.2,0.3,65,31619.0,Lewis Dunk,4-2-3-1,4-2-3-1,Darren England,Match Report,,21,7,15.6,1.0,0,0,Brighton And Hove Albion,2023
+2023-03-04,15:00,Premier League,Matchweek 26,Sat,Home,W,4,0,West Ham,3.5,0.3,65,31523.0,Lewis Dunk,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,19,8,16.3,0.0,1,1,Brighton And Hove Albion,2023
+2023-03-11,15:00,Premier League,Matchweek 27,Sat,Away,D,2,2,Leeds United,2.7,0.9,62,36471.0,Lewis Dunk,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,15,3,16.0,0.0,0,0,Brighton And Hove Albion,2023
+2023-03-15,19:30,Premier League,Matchweek 8,Wed,Home,W,1,0,Crystal Palace,0.6,1.1,57,30933.0,Lewis Dunk,4-2-3-1,4-3-3,Peter Bankes,Match Report,,11,5,20.5,1.0,0,0,Brighton And Hove Albion,2023
+2023-04-01,15:00,Premier League,Matchweek 29,Sat,Home,D,3,3,Brentford,4.2,1.6,72,31493.0,Lewis Dunk,4-2-3-1,5-3-2,Michael Oliver,Match Report,,32,13,16.7,1.0,1,1,Brighton And Hove Albion,2023
+2023-04-04,19:45,Premier League,Matchweek 7,Tue,Away,W,2,0,Bournemouth,2.7,1.7,63,10266.0,Lewis Dunk,4-2-3-1,4-4-1-1,Darren Bond,Match Report,,16,6,16.9,0.0,0,0,Brighton And Hove Albion,2023
+2023-04-08,15:00,Premier League,Matchweek 30,Sat,Away,L,1,2,Tottenham,1.4,0.8,65,61405.0,Lewis Dunk,4-2-3-1,3-4-3,Stuart Attwell,Match Report,,17,4,16.4,0.0,0,0,Brighton And Hove Albion,2023
+2023-04-15,15:00,Premier League,Matchweek 31,Sat,Away,W,2,1,Chelsea,2.9,0.5,57,40126.0,Lewis Dunk,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,26,10,17.2,0.0,0,0,Brighton And Hove Albion,2023
+2023-04-26,19:30,Premier League,Matchweek 33,Wed,Away,L,1,3,Nott'ham Forest,2.3,2.4,74,28808.0,Lewis Dunk,4-2-3-1,3-4-3,Jarred Gillett,Match Report,,17,7,17.2,0.0,0,0,Brighton And Hove Albion,2023
+2023-04-29,15:00,Premier League,Matchweek 34,Sat,Home,W,6,0,Wolves,3.3,0.8,57,31584.0,Lewis Dunk,4-2-3-1,4-4-2,David Coote,Match Report,,22,8,16.5,0.0,0,0,Brighton And Hove Albion,2023
+2023-05-04,20:00,Premier League,Matchweek 28,Thu,Home,W,1,0,Manchester Utd,2.3,1.4,59,31577.0,Lewis Dunk,4-2-3-1,4-3-3,Andre Marriner,Match Report,,21,5,19.3,0.0,1,1,Brighton And Hove Albion,2023
+2023-05-08,17:30,Premier League,Matchweek 35,Mon,Home,L,1,5,Everton,3.2,2.3,78,31567.0,Lewis Dunk,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,23,5,13.3,0.0,0,0,Brighton And Hove Albion,2023
+2023-05-14,16:30,Premier League,Matchweek 36,Sun,Away,W,3,0,Arsenal,1.7,0.9,59,60139.0,Lewis Dunk,4-2-3-1,4-3-3,Andy Madley,Match Report,,12,6,18.3,0.0,0,0,Brighton And Hove Albion,2023
+2023-05-18,19:30,Premier League,Matchweek 25,Thu,Away,L,1,4,Newcastle Utd,0.5,3.6,65,52122.0,Lewis Dunk,4-2-3-1,4-3-3,Robert Jones,Match Report,,8,2,17.2,0.0,0,0,Brighton And Hove Albion,2023
+2023-05-21,14:00,Premier League,Matchweek 37,Sun,Home,W,3,1,Southampton,2.5,0.6,63,31507.0,Lewis Dunk,4-2-3-1,4-1-4-1,Paul Tierney,Match Report,,26,8,17.4,0.0,0,0,Brighton And Hove Albion,2023
+2023-05-24,20:00,Premier League,Matchweek 32,Wed,Home,D,1,1,Manchester City,2.2,1.8,40,31388.0,Pascal Groß,4-2-3-1,4-3-3,Simon Hooper,Match Report,,20,7,17.4,2.0,0,0,Brighton And Hove Albion,2023
+2023-05-28,16:30,Premier League,Matchweek 38,Sun,Away,L,1,2,Aston Villa,1.4,2.8,59,,Pascal Groß,4-4-2,4-2-3-1,David Coote,Match Report,,8,4,18.2,0.0,0,0,Brighton And Hove Albion,2023

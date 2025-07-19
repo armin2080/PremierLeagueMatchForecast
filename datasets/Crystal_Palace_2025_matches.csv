@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2024-08-18,14:00,Premier League,Matchweek 1,Sun,Away,L,1,2,Brentford,1.2,1.6,54.0,16988.0,Marc Guéhi,3-4-3,4-3-3,Samuel Barrott,Match Report,,14.0,6.0,19.2,1.0,0,0,Crystal Palace,2025
+2024-08-24,15:00,Premier League,Matchweek 2,Sat,Home,L,0,2,West Ham,1.3,1.4,58.0,25099.0,Marc Guéhi,3-4-3,4-1-4-1,Robert Jones,Match Report,,14.0,2.0,19.5,0.0,0,0,Crystal Palace,2025
+2024-09-01,13:30,Premier League,Matchweek 3,Sun,Away,D,1,1,Chelsea,0.5,2.4,38.0,39298.0,Marc Guéhi,3-4-3,4-2-3-1,Jarred Gillett,Match Report,,9.0,3.0,20.6,1.0,0,0,Crystal Palace,2025
+2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,D,2,2,Leicester City,2.5,1.2,66.0,25147.0,Marc Guéhi,3-4-3,4-2-3-1,Tony Harrington,Match Report,,19.0,3.0,15.4,1.0,1,1,Crystal Palace,2025
+2024-09-21,17:30,Premier League,Matchweek 5,Sat,Home,D,0,0,Manchester Utd,1.0,1.6,33.0,25172.0,Marc Guéhi,3-4-3,4-2-3-1,David Coote,Match Report,,9.0,4.0,14.6,0.0,0,0,Crystal Palace,2025
+2024-09-28,15:00,Premier League,Matchweek 6,Sat,Away,L,1,2,Everton,0.9,0.9,59.0,38954.0,Marc Guéhi,3-4-3,4-2-3-1,Andy Madley,Match Report,,17.0,4.0,17.3,1.0,0,0,Crystal Palace,2025
+2024-10-05,12:30,Premier League,Matchweek 7,Sat,Home,L,0,1,Liverpool,0.6,1.4,32.0,25185.0,Marc Guéhi,3-4-3,4-2-3-1,Simon Hooper,Match Report,,9.0,5.0,21.9,0.0,0,0,Crystal Palace,2025
+2024-10-21,20:00,Premier League,Matchweek 8,Mon,Away,L,0,1,Nott'ham Forest,1.0,1.7,49.0,29443.0,Marc Guéhi,3-1-4-2,4-2-3-1,Tim Robinson,Match Report,,20.0,7.0,21.1,0.0,0,0,Crystal Palace,2025
+2024-10-27,14:00,Premier League,Matchweek 9,Sun,Home,W,1,0,Tottenham,0.8,0.7,34.0,25108.0,Marc Guéhi,3-4-3,4-3-3,Darren Bond,Match Report,,14.0,6.0,19.6,1.0,0,0,Crystal Palace,2025
+2024-11-02,17:30,Premier League,Matchweek 10,Sat,Away,D,2,2,Wolves,2.4,1.5,43.0,31124.0,Marc Guéhi,3-4-3,3-4-3,Anthony Taylor,Match Report,,19.0,6.0,13.3,0.0,0,0,Crystal Palace,2025
+2024-11-09,15:00,Premier League,Matchweek 11,Sat,Home,L,0,2,Fulham,1.5,1.8,36.0,25142.0,Marc Guéhi,3-4-3,4-2-3-1,Michael Salisbury,Match Report,,13.0,4.0,17.1,0.0,0,0,Crystal Palace,2025
+2024-11-23,15:00,Premier League,Matchweek 12,Sat,Away,D,2,2,Aston Villa,1.3,3.0,31.0,42175.0,Marc Guéhi,3-4-3,4-2-3-1,Tim Robinson,Match Report,,13.0,6.0,18.3,1.0,0,0,Crystal Palace,2025
+2024-11-30,15:00,Premier League,Matchweek 13,Sat,Home,D,1,1,Newcastle Utd,1.7,0.0,49.0,25101.0,Marc Guéhi,3-4-3,4-3-3,Darren England,Match Report,,16.0,3.0,13.6,0.0,0,0,Crystal Palace,2025
+2024-12-03,19:30,Premier League,Matchweek 14,Tue,Away,W,1,0,Ipswich Town,1.6,0.5,46.0,29533.0,Marc Guéhi,3-4-3,4-2-3-1,Craig Pawson,Match Report,,13.0,3.0,15.2,0.0,0,0,Crystal Palace,2025
+2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,D,2,2,Manchester City,1.3,1.4,32.0,25142.0,Marc Guéhi,3-4-3,4-2-3-1,Robert Jones,Match Report,,12.0,3.0,19.1,0.0,0,0,Crystal Palace,2025
+2024-12-15,14:00,Premier League,Matchweek 16,Sun,Away,W,3,1,Brighton,2.2,1.0,36.0,30893.0,Marc Guéhi,3-4-3,4-2-3-1,Michael Oliver,Match Report,,13.0,5.0,12.6,0.0,0,0,Crystal Palace,2025
+2024-12-21,17:30,Premier League,Matchweek 17,Sat,Home,L,1,5,Arsenal,1.6,2.5,42.0,25167.0,Marc Guéhi,3-4-3,4-3-3,Simon Hooper,Match Report,,15.0,6.0,16.3,0.0,0,0,Crystal Palace,2025
+2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,D,0,0,Bournemouth,0.4,1.4,48.0,11129.0,Marc Guéhi,3-4-3,4-2-3-1,Thomas Bramall,Match Report,,10.0,4.0,19.4,0.0,0,0,Crystal Palace,2025
+2024-12-29,15:00,Premier League,Matchweek 19,Sun,Home,W,2,1,Southampton,2.0,0.9,47.0,25130.0,Will Hughes,3-4-3,3-4-3,Michael Salisbury,Match Report,,19.0,9.0,17.4,2.0,0,0,Crystal Palace,2025
+2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,D,1,1,Chelsea,1.1,1.2,39.0,25179.0,Marc Guéhi,3-4-3,4-2-3-1,Tim Robinson,Match Report,,13.0,6.0,17.0,1.0,0,0,Crystal Palace,2025
+2025-01-15,19:30,Premier League,Matchweek 21,Wed,Away,W,2,0,Leicester City,1.8,1.7,43.0,29766.0,Marc Guéhi,3-4-3,4-2-3-1,Andy Madley,Match Report,,9.0,4.0,13.3,0.0,0,0,Crystal Palace,2025
+2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,W,2,0,West Ham,1.3,0.3,47.0,62469.0,Marc Guéhi,3-4-3,3-4-3,Thomas Bramall,Match Report,,11.0,6.0,21.9,0.0,1,1,Crystal Palace,2025
+2025-01-26,14:00,Premier League,Matchweek 23,Sun,Home,L,1,2,Brentford,1.1,1.3,47.0,25066.0,Marc Guéhi,3-4-3,4-2-3-1,Tony Harrington,Match Report,,16.0,5.0,19.5,2.0,0,0,Crystal Palace,2025
+2025-02-02,14:00,Premier League,Matchweek 24,Sun,Away,W,2,0,Manchester Utd,2.6,1.1,34.0,73751.0,Marc Guéhi,3-4-3,3-4-3,John Brooks,Match Report,,11.0,3.0,14.4,0.0,0,0,Crystal Palace,2025
+2025-02-15,17:30,Premier League,Matchweek 25,Sat,Home,L,1,2,Everton,1.6,0.9,58.0,25108.0,Marc Guéhi,3-4-3,4-2-3-1,Anthony Taylor,Match Report,,17.0,6.0,18.0,0.0,0,0,Crystal Palace,2025
+2025-02-22,15:00,Premier League,Matchweek 26,Sat,Away,W,2,0,Fulham,1.3,0.2,38.0,26777.0,Marc Guéhi,3-4-3,4-2-3-1,Robert Jones,Match Report,,10.0,5.0,16.5,1.0,0,0,Crystal Palace,2025
+2025-02-25,19:30,Premier League,Matchweek 27,Tue,Home,W,4,1,Aston Villa,4.3,0.4,36.0,24712.0,Marc Guéhi,3-4-3,3-4-3,Samuel Barrott,Match Report,,19.0,6.0,14.6,1.0,0,0,Crystal Palace,2025
+2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,W,1,0,Ipswich Town,3.2,1.5,55.0,25155.0,Marc Guéhi,3-4-3,4-2-3-1,Simon Hooper,Match Report,,19.0,4.0,14.6,1.0,0,0,Crystal Palace,2025
+2025-04-02,19:45,Premier League,Matchweek 30,Wed,Away,D,1,1,Southampton,0.7,0.7,57.0,30158.0,Marc Guéhi,3-4-3,3-4-3,Andy Madley,Match Report,,9.0,3.0,17.8,1.0,0,0,Crystal Palace,2025
+2025-04-05,15:00,Premier League,Matchweek 31,Sat,Home,W,2,1,Brighton,0.6,1.0,38.0,24564.0,Marc Guéhi,3-4-3,4-2-3-1,Anthony Taylor,Match Report,,8.0,3.0,18.5,1.0,0,0,Crystal Palace,2025
+2025-04-12,12:30,Premier League,Matchweek 32,Sat,Away,L,2,5,Manchester City,1.8,3.7,33.0,52489.0,Dean Henderson,3-4-3,4-2-3-1,Jarred Gillett,Match Report,,8.0,3.0,18.2,1.0,0,0,Crystal Palace,2025
+2025-04-16,19:30,Premier League,Matchweek 29,Wed,Away,L,0,5,Newcastle Utd,2.0,1.5,41.0,52197.0,Marc Guéhi,3-4-3,4-3-3,Darren England,Match Report,,10.0,2.0,14.8,0.0,0,1,Crystal Palace,2025
+2025-04-19,15:00,Premier League,Matchweek 33,Sat,Home,D,0,0,Bournemouth,0.4,0.7,29.0,25185.0,Marc Guéhi,3-4-3,4-2-3-1,Samuel Barrott,Match Report,,5.0,0.0,17.7,1.0,0,0,Crystal Palace,2025
+2025-04-23,20:00,Premier League,Matchweek 34,Wed,Away,D,2,2,Arsenal,1.7,1.2,33.0,60167.0,Marc Guéhi,3-4-3,4-3-3,Michael Salisbury,Match Report,,15.0,4.0,15.0,0.0,0,0,Crystal Palace,2025
+2025-05-05,20:00,Premier League,Matchweek 35,Mon,Home,D,1,1,Nott'ham Forest,2.3,0.7,50.0,25096.0,Marc Guéhi,3-4-3,4-2-3-1,Andy Madley,Match Report,,19.0,2.0,15.2,0.0,1,1,Crystal Palace,2025
+2025-05-11,14:15,Premier League,Matchweek 36,Sun,Away,W,2,0,Tottenham,3.3,0.7,52.0,60254.0,Marc Guéhi,3-4-3,4-3-3,Chris Kavanagh,Match Report,,23.0,9.0,15.2,0.0,0,0,Crystal Palace,2025
+2025-05-20,20:00,Premier League,Matchweek 37,Tue,Home,W,4,2,Wolves,1.7,1.4,31.0,24766.0,Joel Ward,3-4-3,3-4-3,David Webb,Match Report,,14.0,10.0,17.0,1.0,0,0,Crystal Palace,2025
+2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,D,1,1,Liverpool,1.8,2.1,31.0,60382.0,Dean Henderson,3-4-3,4-2-3-1,Darren England,Match Report,,8.0,5.0,16.1,0.0,0,0,Crystal Palace,2025

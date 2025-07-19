@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2021-08-13,20:00,Premier League,Matchweek 1,Fri,Home,W,2,0,Arsenal,1.2,1.3,36,16479,Pontus Jansson,3-5-2,4-2-3-1,Michael Oliver,Match Report,,8,3,12.1,0.0,0,0,Brentford,2022
+2021-08-21,15:00,Premier League,Matchweek 2,Sat,Away,D,0,0,Crystal Palace,0.9,0.5,47,23091,Pontus Jansson,3-5-2,4-3-3,Martin Atkinson,Match Report,,14,3,18.0,1.0,0,0,Brentford,2022
+2021-08-28,15:00,Premier League,Matchweek 3,Sat,Away,D,1,1,Aston Villa,0.9,0.7,54,42045,Pontus Jansson,3-4-1-2,4-1-4-1,Peter Bankes,Match Report,,9,2,15.6,0.0,0,0,Brentford,2022
+2021-09-11,15:00,Premier League,Matchweek 4,Sat,Home,L,0,1,Brighton,0.4,0.3,41,16518,Pontus Jansson,3-5-2,3-4-1-2,Graham Scott,Match Report,,7,1,20.3,0.0,0,0,Brentford,2022
+2021-09-18,12:30,Premier League,Matchweek 5,Sat,Away,W,2,0,Wolves,2.5,0.6,38,30000,Pontus Jansson,3-5-2,3-4-3,Darren England,Match Report,,8,2,18.7,0.0,1,1,Brentford,2022
+2021-09-25,17:30,Premier League,Matchweek 6,Sat,Home,D,3,3,Liverpool,2.1,2.8,33,16876,Pontus Jansson,3-5-2,4-3-3,Stuart Attwell,Match Report,,12,3,12.0,0.0,0,0,Brentford,2022
+2021-10-03,14:00,Premier League,Matchweek 7,Sun,Away,W,2,1,West Ham,1.2,1.5,41,49940,Pontus Jansson,3-5-2,4-2-3-1,Peter Bankes,Match Report,,13,6,13.9,1.0,0,0,Brentford,2022
+2021-10-16,17:30,Premier League,Matchweek 8,Sat,Home,L,0,1,Chelsea,1.4,0.3,45,16940,Pontus Jansson,3-5-2,3-5-2,Anthony Taylor,Match Report,,17,6,14.5,0.0,0,0,Brentford,2022
+2021-10-24,14:00,Premier League,Matchweek 9,Sun,Home,L,1,2,Leicester City,1.0,1.5,54,16814,Pontus Jansson,3-5-2,3-4-1-2,Simon Hooper,Match Report,,15,5,16.3,0.0,0,0,Brentford,2022
+2021-10-30,15:00,Premier League,Matchweek 10,Sat,Away,L,1,3,Burnley,0.8,2.3,59,18821,Pontus Jansson,3-5-2,4-4-2,Jonathan Moss,Match Report,,12,4,18.2,1.0,0,0,Brentford,2022
+2021-11-06,15:00,Premier League,Matchweek 11,Sat,Home,L,1,2,Norwich City,2.5,1.2,64,16837,Pontus Jansson,3-5-2,4-2-3-1,Jarred Gillett,Match Report,,19,7,10.8,0.0,0,0,Brentford,2022
+2021-11-20,15:00,Premier League,Matchweek 12,Sat,Away,D,3,3,Newcastle Utd,0.9,1.5,47,52131,Pontus Jansson,3-5-2,3-4-3,Robert Jones,Match Report,,10,3,18.5,1.0,0,0,Brentford,2022
+2021-11-28,14:00,Premier League,Matchweek 13,Sun,Home,W,1,0,Everton,1.2,1.0,40,16957,Pontus Jansson,3-5-2,4-4-1-1,Darren England,Match Report,,5,3,18.9,0.0,1,1,Brentford,2022
+2021-12-02,19:30,Premier League,Matchweek 14,Thu,Away,L,0,2,Tottenham,0.3,1.9,53,54202,Pontus Jansson,3-5-2,3-4-3,Jonathan Moss,Match Report,,6,2,17.1,0.0,0,0,Brentford,2022
+2021-12-05,14:00,Premier League,Matchweek 15,Sun,Away,D,2,2,Leeds United,1.0,1.2,37,35639,Pontus Jansson,3-5-2,3-4-3,David Coote,Match Report,,9,3,16.7,1.0,0,0,Brentford,2022
+2021-12-10,20:00,Premier League,Matchweek 16,Fri,Home,W,2,1,Watford,1.6,0.5,63,16861,Pontus Jansson,3-5-2,4-2-3-1,Michael Oliver,Match Report,,13,4,15.5,0.0,1,1,Brentford,2022
+2021-12-26,20:00,Premier League,Matchweek 19,Sun,Away,L,0,2,Brighton,0.7,0.8,50,30141,Pontus Jansson,3-5-2,4-1-2-1-2,Darren England,Match Report,,16,5,17.1,0.0,0,0,Brentford,2022
+2021-12-29,20:15,Premier League,Matchweek 20,Wed,Home,L,0,1,Manchester City,0.4,1.1,24,17009,Pontus Jansson,3-5-2,4-3-3,David Coote,Match Report,,6,2,24.6,0.0,0,0,Brentford,2022
+2022-01-02,14:00,Premier League,Matchweek 21,Sun,Home,W,2,1,Aston Villa,0.6,0.8,45,16876,Pontus Jansson,3-5-2,4-3-3,Craig Pawson,Match Report,,10,4,17.7,0.0,0,0,Brentford,2022
+2022-01-11,19:45,Premier League,Matchweek 18,Tue,Away,L,1,4,Southampton,0.5,1.4,52,27383,Pontus Jansson,3-5-2,3-5-2,Stuart Attwell,Match Report,,5,4,12.8,0.0,0,0,Brentford,2022
+2022-01-16,14:00,Premier League,Matchweek 22,Sun,Away,L,0,3,Liverpool,0.7,2.7,32,52824,Pontus Jansson,3-5-2,4-3-3,Jonathan Moss,Match Report,,6,1,21.2,0.0,0,0,Brentford,2022
+2022-01-19,20:00,Premier League,Matchweek 17,Wed,Home,L,1,3,Manchester Utd,2.3,2.3,44,17094,Pontus Jansson,3-5-2,4-2-3-1,Andre Marriner,Match Report,,18,9,16.7,0.0,0,0,Brentford,2022
+2022-01-22,15:00,Premier League,Matchweek 23,Sat,Home,L,1,2,Wolves,1.1,0.2,50,16982,Pontus Jansson,3-5-2,3-5-2,Peter Bankes,Match Report,,11,1,13.6,1.0,0,0,Brentford,2022
+2022-02-09,19:45,Premier League,Matchweek 24,Wed,Away,L,0,2,Manchester City,0.4,1.9,26,51658,Pontus Jansson,3-5-2,4-3-3,Darren England,Match Report,,6,2,18.3,0.0,0,0,Brentford,2022
+2022-02-12,15:00,Premier League,Matchweek 25,Sat,Home,D,0,0,Crystal Palace,1.6,0.3,42,16958,Pontus Jansson,3-5-2,4-3-3,Simon Hooper,Match Report,,9,2,12.9,0.0,0,0,Brentford,2022
+2022-02-19,15:00,Premier League,Matchweek 26,Sat,Away,L,1,2,Arsenal,0.6,1.7,34,59249,Pontus Jansson,3-5-2,4-2-3-1,Jonathan Moss,Match Report,,6,2,20.7,0.0,0,0,Brentford,2022
+2022-02-26,15:00,Premier League,Matchweek 27,Sat,Home,L,0,2,Newcastle Utd,0.4,2.7,37,17039,Pontus Jansson,4-3-3,4-3-3,Mike Dean,Match Report,,6,1,16.5,0.0,0,0,Brentford,2022
+2022-03-05,15:00,Premier League,Matchweek 28,Sat,Away,W,3,1,Norwich City,2.0,1.0,40,26887,Pontus Jansson,4-5-1,4-2-3-1,Anthony Taylor,Match Report,,8,4,21.4,0.0,2,2,Brentford,2022
+2022-03-12,15:00,Premier League,Matchweek 29,Sat,Home,W,2,0,Burnley,1.9,0.7,55,17088,Pontus Jansson,4-5-1,4-4-2,Paul Tierney,Match Report,,12,2,21.5,0.0,1,1,Brentford,2022
+2022-03-20,14:00,Premier League,Matchweek 30,Sun,Away,L,1,2,Leicester City,1.3,1.0,48,31830,Pontus Jansson,4-5-1,4-2-3-1,Darren England,Match Report,,15,6,14.9,0.0,0,0,Brentford,2022
+2022-04-02,15:00,Premier League,Matchweek 31,Sat,Away,W,4,1,Chelsea,1.8,1.3,30,39061,Pontus Jansson,5-3-2,4-3-3,Andy Madley,Match Report,,17,6,13.5,1.0,0,0,Brentford,2022
+2022-04-10,14:00,Premier League,Matchweek 32,Sun,Home,W,2,0,West Ham,1.4,0.3,47,17032,Christian Nørgaard,4-3-3,4-2-3-1,Martin Atkinson,Match Report,,15,7,15.8,0.0,0,0,Brentford,2022
+2022-04-16,15:00,Premier League,Matchweek 33,Sat,Away,W,2,1,Watford,1.9,1.7,50,21045,Pontus Jansson,4-3-3,4-3-3,Simon Hooper,Match Report,,16,5,19.7,0.0,0,0,Brentford,2022
+2022-04-23,17:30,Premier League,Matchweek 34,Sat,Home,D,0,0,Tottenham,0.9,0.6,44,17072,Pontus Jansson,5-3-2,3-4-3,Martin Atkinson,Match Report,,15,1,15.3,1.0,0,0,Brentford,2022
+2022-05-02,20:00,Premier League,Matchweek 35,Mon,Away,L,0,3,Manchester Utd,0.6,2.0,37,73482,Pontus Jansson,5-3-2,4-2-3-1,Chris Kavanagh,Match Report,,12,4,18.9,1.0,0,0,Brentford,2022
+2022-05-07,15:00,Premier League,Matchweek 36,Sat,Home,W,3,0,Southampton,2.6,1.4,41,17051,Pontus Jansson,4-3-3,4-4-2,Michael Salisbury,Match Report,,18,5,13.9,1.0,0,0,Brentford,2022
+2022-05-15,16:30,Premier League,Matchweek 37,Sun,Away,W,3,2,Everton,1.4,2.1,72,38819,Pontus Jansson,4-3-3,3-4-3,Michael Oliver,Match Report,,18,6,18.1,1.0,0,0,Brentford,2022
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Home,L,1,2,Leeds United,0.8,1.3,49,16957,Pontus Jansson,4-3-3,4-4-1-1,Paul Tierney,Match Report,,14,5,13.7,0.0,0,0,Brentford,2022

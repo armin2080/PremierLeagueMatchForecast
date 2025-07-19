@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2022-08-07,14:00,Premier League,Matchweek 1,Sun,Home,L,1,2,Brighton,1.4,1.5,62,73711,Harry Maguire,4-3-3,3-3-3-1,Paul Tierney,Match Report,,17,5,15.5,0.0,0,0,Manchester United,2023
+2022-08-13,17:30,Premier League,Matchweek 2,Sat,Away,L,0,4,Brentford,0.9,1.6,66,17051,Harry Maguire,4-2-3-1,5-3-2,Stuart Attwell,Match Report,,15,4,19.6,0.0,0,0,Manchester United,2023
+2022-08-22,20:00,Premier League,Matchweek 3,Mon,Home,W,2,1,Liverpool,1.8,1.3,30,74147,Bruno Fernandes,4-2-3-1,4-3-3,Michael Oliver,Match Report,,13,5,19.5,2.0,0,0,Manchester United,2023
+2022-08-27,12:30,Premier League,Matchweek 4,Sat,Away,W,1,0,Southampton,1.1,1.4,51,31196,Bruno Fernandes,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,11,4,15.5,1.0,0,0,Manchester United,2023
+2022-09-01,20:00,Premier League,Matchweek 5,Thu,Away,W,1,0,Leicester City,1.5,0.7,47,32226,Bruno Fernandes,4-2-3-1,4-1-4-1,Craig Pawson,Match Report,,9,2,16.8,0.0,0,0,Manchester United,2023
+2022-09-04,16:30,Premier League,Matchweek 6,Sun,Home,W,3,1,Arsenal,1.5,1.3,40,73431,Bruno Fernandes,4-2-3-1,4-3-3,Paul Tierney,Match Report,,10,6,15.5,0.0,0,0,Manchester United,2023
+2022-10-02,14:00,Premier League,Matchweek 9,Sun,Away,L,3,6,Manchester City,1.7,3.2,47,53475,Bruno Fernandes,4-2-3-1,4-3-3,Michael Oliver,Match Report,,11,7,22.2,0.0,1,1,Manchester United,2023
+2022-10-09,19:00,Premier League,Matchweek 10,Sun,Away,W,2,1,Everton,1.4,0.6,60,39258,Bruno Fernandes,4-2-3-1,4-3-3,David Coote,Match Report,,12,4,18.8,0.0,0,0,Manchester United,2023
+2022-10-16,14:00,Premier League,Matchweek 11,Sun,Home,D,0,0,Newcastle Utd,0.8,0.8,63,73726,Bruno Fernandes,4-2-3-1,4-3-3,Craig Pawson,Match Report,,15,2,19.4,1.0,0,0,Manchester United,2023
+2022-10-19,20:15,Premier League,Matchweek 12,Wed,Home,W,2,0,Tottenham,1.5,0.6,52,73677,Bruno Fernandes,4-2-3-1,3-5-2,Simon Hooper,Match Report,,28,10,21.4,1.0,0,0,Manchester United,2023
+2022-10-22,17:30,Premier League,Matchweek 13,Sat,Away,D,1,1,Chelsea,0.8,1.1,52,39503,Bruno Fernandes,4-1-4-1,3-4-3,Stuart Attwell,Match Report,,13,6,22.1,1.0,0,0,Manchester United,2023
+2022-10-30,16:15,Premier League,Matchweek 14,Sun,Home,W,1,0,West Ham,1.2,1.1,53,73682,Harry Maguire,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,16,3,18.1,0.0,0,0,Manchester United,2023
+2022-11-06,14:00,Premier League,Matchweek 15,Sun,Away,L,1,3,Aston Villa,0.5,0.6,58,42058,Cristiano Ronaldo,4-2-3-1,4-2-2-2,Anthony Taylor,Match Report,,8,3,19.7,1.0,0,0,Manchester United,2023
+2022-11-13,16:30,Premier League,Matchweek 16,Sun,Away,W,2,1,Fulham,2.5,1.4,47,24246,Bruno Fernandes,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,14,9,17.7,0.0,0,0,Manchester United,2023
+2022-12-27,20:00,Premier League,Matchweek 17,Tue,Home,W,3,0,Nott'ham Forest,2.4,0.7,65,73608,Bruno Fernandes,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,17,8,15.9,0.0,0,0,Manchester United,2023
+2022-12-31,12:30,Premier League,Matchweek 18,Sat,Away,W,1,0,Wolves,2.0,0.7,54,31658,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,16,6,14.9,1.0,0,0,Manchester United,2023
+2023-01-03,20:00,Premier League,Matchweek 19,Tue,Home,W,3,0,Bournemouth,2.2,0.6,58,73322,Harry Maguire,4-2-3-1,4-4-2,Michael Salisbury,Match Report,,18,6,16.7,2.0,0,0,Manchester United,2023
+2023-01-14,12:30,Premier League,Matchweek 20,Sat,Home,W,2,1,Manchester City,1.7,0.6,30,75546,Bruno Fernandes,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,8,3,14.8,0.0,0,0,Manchester United,2023
+2023-01-18,20:00,Premier League,Matchweek 7,Wed,Away,D,1,1,Crystal Palace,2.1,0.5,60,23343,Bruno Fernandes,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,15,4,19.5,1.0,0,0,Manchester United,2023
+2023-01-22,16:30,Premier League,Matchweek 21,Sun,Away,L,2,3,Arsenal,0.4,3.1,43,60325,Bruno Fernandes,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,6,4,18.2,0.0,0,0,Manchester United,2023
+2023-02-04,15:00,Premier League,Matchweek 22,Sat,Home,W,2,1,Crystal Palace,2.0,1.3,52,73420,Bruno Fernandes,4-2-3-1,4-2-3-1,Andre Marriner,Match Report,,13,4,16.4,0.0,1,1,Manchester United,2023
+2023-02-08,20:00,Premier League,Matchweek 8,Wed,Home,D,2,2,Leeds United,2.0,0.6,66,73456,Bruno Fernandes,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,24,6,16.7,0.0,0,0,Manchester United,2023
+2023-02-12,14:00,Premier League,Matchweek 23,Sun,Away,W,2,0,Leeds United,1.1,1.8,66,36919,Harry Maguire,4-2-3-1,4-2-3-1,Paul Tierney,Match Report,,11,5,16.4,0.0,0,0,Manchester United,2023
+2023-02-19,14:00,Premier League,Matchweek 24,Sun,Home,W,3,0,Leicester City,4.4,1.6,57,73578,Bruno Fernandes,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,26,8,15.5,1.0,0,0,Manchester United,2023
+2023-03-05,16:30,Premier League,Matchweek 26,Sun,Away,L,0,7,Liverpool,0.8,2.8,41,53001,Bruno Fernandes,4-2-3-1,4-3-3,Andy Madley,Match Report,,8,4,15.4,0.0,0,0,Manchester United,2023
+2023-03-12,14:00,Premier League,Matchweek 27,Sun,Home,D,0,0,Southampton,0.8,1.0,47,73439,Bruno Fernandes,4-1-4-1,4-2-3-1,Anthony Taylor,Match Report,,10,4,15.4,0.0,0,0,Manchester United,2023
+2023-04-02,16:30,Premier League,Matchweek 29,Sun,Away,L,0,2,Newcastle Utd,0.4,3.7,54,52268,Bruno Fernandes,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,6,1,14.2,0.0,0,0,Manchester United,2023
+2023-04-05,20:00,Premier League,Matchweek 25,Wed,Home,W,1,0,Brentford,1.2,0.7,64,73309,Bruno Fernandes,4-2-3-1,5-3-2,John Brooks,Match Report,,18,3,19.9,1.0,0,0,Manchester United,2023
+2023-04-08,12:30,Premier League,Matchweek 30,Sat,Home,W,2,0,Everton,3.4,1.0,63,73509,Harry Maguire,4-2-3-1,4-4-2,Michael Oliver,Match Report,,29,11,16.5,0.0,0,0,Manchester United,2023
+2023-04-16,16:30,Premier League,Matchweek 31,Sun,Away,W,2,0,Nott'ham Forest,3.5,0.7,68,29435,Harry Maguire,4-2-3-1,3-4-1-2,Simon Hooper,Match Report,,22,7,15.4,1.0,0,0,Manchester United,2023
+2023-04-27,20:15,Premier League,Matchweek 33,Thu,Away,D,2,2,Tottenham,2.0,2.5,60,61586,Bruno Fernandes,4-2-3-1,3-4-3,Anthony Taylor,Match Report,,17,7,17.9,2.0,0,0,Manchester United,2023
+2023-04-30,14:00,Premier League,Matchweek 34,Sun,Home,W,1,0,Aston Villa,1.2,0.6,57,73592,Bruno Fernandes,4-1-4-1,4-2-3-1,Jarred Gillett,Match Report,,14,6,19.0,0.0,0,0,Manchester United,2023
+2023-05-04,20:00,Premier League,Matchweek 28,Thu,Away,L,0,1,Brighton,1.4,2.3,41,31577,Bruno Fernandes,4-3-3,4-2-3-1,Andre Marriner,Match Report,,16,5,18.5,1.0,0,0,Manchester United,2023
+2023-05-07,19:00,Premier League,Matchweek 35,Sun,Away,L,0,1,West Ham,1.2,1.3,65,62477,Bruno Fernandes,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,19,4,18.2,0.0,0,0,Manchester United,2023
+2023-05-13,15:00,Premier League,Matchweek 36,Sat,Home,W,2,0,Wolves,3.2,0.3,48,73570,Bruno Fernandes,4-2-3-1,4-4-2,John Brooks,Match Report,,27,9,19.3,2.0,0,0,Manchester United,2023
+2023-05-20,15:00,Premier League,Matchweek 37,Sat,Away,W,1,0,Bournemouth,1.4,1.0,59,10240,Bruno Fernandes,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,20,5,18.7,0.0,0,0,Manchester United,2023
+2023-05-25,20:00,Premier League,Matchweek 32,Thu,Home,W,4,1,Chelsea,5.2,1.9,42,73561,Bruno Fernandes,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,17,8,15.3,0.0,1,1,Manchester United,2023
+2023-05-28,16:30,Premier League,Matchweek 38,Sun,Home,W,2,1,Fulham,2.9,1.8,53,73465,Harry Maguire,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,21,8,20.7,1.0,0,0,Manchester United,2023

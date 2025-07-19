@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2021-08-14,17:30,Premier League,Matchweek 1,Sat,Home,L,0,3,Liverpool,1.4,1.6,50,27023,Grant Hanley,4-3-3,4-3-3,Andre Marriner,Match Report,,14,3,17.1,0.0,0,0,Norwich City,2022
+2021-08-21,15:00,Premier League,Matchweek 2,Sat,Away,L,0,5,Manchester City,0.1,2.6,33,51437,Grant Hanley,4-3-3,4-3-3,Graham Scott,Match Report,,1,0,16.8,0.0,0,0,Norwich City,2022
+2021-08-28,15:00,Premier League,Matchweek 3,Sat,Home,L,1,2,Leicester City,1.5,1.5,45,26765,Grant Hanley,4-3-3,4-4-2,Robert Jones,Match Report,,13,3,22.6,1.0,1,1,Norwich City,2022
+2021-09-11,15:00,Premier League,Matchweek 4,Sat,Away,L,0,1,Arsenal,0.7,2.7,49,58000,Grant Hanley,4-3-3,4-2-3-1,Michael Oliver,Match Report,,10,1,19.9,1.0,0,0,Norwich City,2022
+2021-09-18,15:00,Premier League,Matchweek 5,Sat,Home,L,1,3,Watford,1.0,2.4,49,26649,Grant Hanley,4-3-3,4-2-3-1,Robert Jones,Match Report,,12,5,20.7,1.0,0,0,Norwich City,2022
+2021-09-25,15:00,Premier League,Matchweek 6,Sat,Away,L,0,2,Everton,0.5,1.9,53,38821,Grant Hanley,5-3-2,4-4-1-1,David Coote,Match Report,,10,2,22.3,1.0,0,0,Norwich City,2022
+2021-10-02,15:00,Premier League,Matchweek 7,Sat,Away,D,0,0,Burnley,0.6,1.2,44,17427,Grant Hanley,5-3-2,4-4-2,Kevin Friend,Match Report,,10,2,20.7,2.0,0,0,Norwich City,2022
+2021-10-16,15:00,Premier League,Matchweek 8,Sat,Home,D,0,0,Brighton,1.2,0.8,36,26777,Grant Hanley,5-3-2,3-5-2,Peter Bankes,Match Report,,15,2,21.7,1.0,0,0,Norwich City,2022
+2021-10-23,12:30,Premier League,Matchweek 9,Sat,Away,L,0,7,Chelsea,0.1,3.1,38,40113,Grant Hanley,3-5-2,3-4-3,Andy Madley,Match Report,,3,1,20.8,0.0,0,0,Norwich City,2022
+2021-10-31,14:00,Premier League,Matchweek 10,Sun,Home,L,1,2,Leeds United,0.8,0.7,48,26913,Grant Hanley,4-4-2,3-3-3-1,Anthony Taylor,Match Report,,14,3,21.8,3.0,0,0,Norwich City,2022
+2021-11-06,15:00,Premier League,Matchweek 11,Sat,Away,W,2,1,Brentford,1.2,2.5,36,16837,Ben Gibson,4-2-3-1,3-5-2,Jarred Gillett,Match Report,,8,4,25.6,1.0,1,1,Norwich City,2022
+2021-11-20,15:00,Premier League,Matchweek 12,Sat,Home,W,2,1,Southampton,0.5,1.0,38,26885,Grant Hanley,4-3-3,4-4-2,Martin Atkinson,Match Report,,8,4,16.3,0.0,0,0,Norwich City,2022
+2021-11-27,15:00,Premier League,Matchweek 13,Sat,Home,D,0,0,Wolves,1.6,0.3,43,26911,Grant Hanley,4-1-4-1,3-4-3,Simon Hooper,Match Report,,14,4,18.2,1.0,0,0,Norwich City,2022
+2021-11-30,19:30,Premier League,Matchweek 14,Tue,Away,D,1,1,Newcastle Utd,1.2,1.1,68,50757,Grant Hanley,4-1-4-1,4-4-2,Andy Madley,Match Report,,16,6,16.9,1.0,0,0,Norwich City,2022
+2021-12-05,14:00,Premier League,Matchweek 15,Sun,Away,L,0,3,Tottenham,1.2,1.6,59,57088,Grant Hanley,5-3-2,3-4-3,Jarred Gillett,Match Report,,10,1,16.2,0.0,0,0,Norwich City,2022
+2021-12-11,17:30,Premier League,Matchweek 16,Sat,Home,L,0,1,Manchester Utd,1.2,2.0,48,27606,Grant Hanley,4-3-3,4-2-2-2,Darren England,Match Report,,11,5,14.2,0.0,0,0,Norwich City,2022
+2021-12-14,19:45,Premier League,Matchweek 17,Tue,Home,L,0,2,Aston Villa,0.5,2.0,50,26836,Ben Gibson,4-3-3,4-3-3,David Coote,Match Report,,7,3,14.3,0.0,0,0,Norwich City,2022
+2021-12-26,15:00,Premier League,Matchweek 19,Sun,Home,L,0,5,Arsenal,0.1,2.5,36,26940,Ben Gibson,4-2-3-1,4-2-3-1,Graham Scott,Match Report,,4,2,17.9,0.0,0,0,Norwich City,2022
+2021-12-28,15:00,Premier League,Matchweek 20,Tue,Away,L,0,3,Crystal Palace,0.9,1.9,49,24433,Ben Gibson,4-2-3-1,4-3-3,Paul Tierney,Match Report,,12,2,17.7,0.0,0,0,Norwich City,2022
+2022-01-12,19:45,Premier League,Matchweek 18,Wed,Away,L,0,2,West Ham,0.3,2.5,38,59775,Grant Hanley,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,7,3,21.4,0.0,0,0,Norwich City,2022
+2022-01-15,15:00,Premier League,Matchweek 22,Sat,Home,W,2,1,Everton,1.0,0.6,41,26629,Grant Hanley,4-4-2,4-4-2,Andy Madley,Match Report,,14,3,21.5,0.0,0,0,Norwich City,2022
+2022-01-21,20:00,Premier League,Matchweek 23,Fri,Away,W,3,0,Watford,1.1,1.2,33,20782,Grant Hanley,4-4-2,4-3-3,Mike Dean,Match Report,,7,2,15.7,1.0,0,0,Norwich City,2022
+2022-02-09,19:45,Premier League,Matchweek 24,Wed,Home,D,1,1,Crystal Palace,0.4,1.3,30,26652,Grant Hanley,4-4-2,4-3-3,Paul Tierney,Match Report,,5,1,15.7,0.0,0,0,Norwich City,2022
+2022-02-12,17:30,Premier League,Matchweek 25,Sat,Home,L,0,4,Manchester City,0.4,4.6,29,27010,Grant Hanley,4-3-3,4-3-3,Andre Marriner,Match Report,,8,3,14.4,0.0,0,0,Norwich City,2022
+2022-02-19,15:00,Premier League,Matchweek 26,Sat,Away,L,1,3,Liverpool,0.6,3.6,31,53135,Grant Hanley,4-3-3,4-3-3,Mike Dean,Match Report,,6,1,17.8,0.0,0,0,Norwich City,2022
+2022-02-25,20:00,Premier League,Matchweek 27,Fri,Away,L,0,2,Southampton,0.6,2.6,42,31182,Grant Hanley,4-1-4-1,4-4-2,Simon Hooper,Match Report,,8,1,18.1,0.0,0,0,Norwich City,2022
+2022-03-05,15:00,Premier League,Matchweek 28,Sat,Home,L,1,3,Brentford,1.0,2.0,60,26887,Grant Hanley,4-2-3-1,4-5-1,Anthony Taylor,Match Report,,15,7,18.6,0.0,0,0,Norwich City,2022
+2022-03-10,19:30,Premier League,Matchweek 30,Thu,Home,L,1,3,Chelsea,1.0,1.8,34,26684,Grant Hanley,5-3-2,3-4-3,Martin Atkinson,Match Report,,7,2,25.7,0.0,1,1,Norwich City,2022
+2022-03-13,14:00,Premier League,Matchweek 29,Sun,Away,L,1,2,Leeds United,1.5,2.5,48,36321,Ben Gibson,4-3-3,4-2-3-1,Stuart Attwell,Match Report,,12,4,18.8,1.0,0,0,Norwich City,2022
+2022-04-02,15:00,Premier League,Matchweek 31,Sat,Away,D,0,0,Brighton,0.4,2.8,37,31245,Grant Hanley,4-1-2-1-2◆,3-4-1-2,Simon Hooper,Match Report,,6,0,17.8,0.0,0,0,Norwich City,2022
+2022-04-10,14:00,Premier League,Matchweek 32,Sun,Home,W,2,0,Burnley,1.7,1.7,45,26361,Grant Hanley,4-2-3-1,4-4-2,Michael Oliver,Match Report,,17,6,19.4,0.0,0,0,Norwich City,2022
+2022-04-16,15:00,Premier League,Matchweek 33,Sat,Away,L,2,3,Manchester Utd,1.5,1.9,39,73381,Grant Hanley,4-2-3-1,4-3-3,Andy Madley,Match Report,,15,4,19.9,1.0,0,0,Norwich City,2022
+2022-04-23,15:00,Premier League,Matchweek 34,Sat,Home,L,0,3,Newcastle Utd,0.6,1.9,46,26910,Grant Hanley,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,5,2,15.2,1.0,0,0,Norwich City,2022
+2022-04-30,15:00,Premier League,Matchweek 35,Sat,Away,L,0,2,Aston Villa,0.5,1.8,55,40290,Grant Hanley,4-2-3-1,4-1-4-1,John Brooks,Match Report,,9,3,21.6,0.0,0,0,Norwich City,2022
+2022-05-08,14:00,Premier League,Matchweek 36,Sun,Home,L,0,4,West Ham,0.8,3.0,37,26428,Grant Hanley,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,8,2,22.2,1.0,0,0,Norwich City,2022
+2022-05-11,19:45,Premier League,Matchweek 21,Wed,Away,L,0,3,Leicester City,1.1,2.0,35,38092,Grant Hanley,4-1-4-1,4-2-3-1,Simon Hooper,Match Report,,9,5,17.0,0.0,0,0,Norwich City,2022
+2022-05-15,14:00,Premier League,Matchweek 37,Sun,Away,D,1,1,Wolves,1.1,0.9,36,31219,Grant Hanley,3-4-3,3-4-3,Tony Harrington,Match Report,,11,2,14.4,0.0,0,0,Norwich City,2022
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Home,L,0,5,Tottenham,0.5,3.4,41,27022,Grant Hanley,5-4-1,3-4-3,Chris Kavanagh,Match Report,,9,0,18.6,0.0,0,0,Norwich City,2022

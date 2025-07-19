@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2021-08-14,17:30,Premier League,Matchweek 1,Sat,Away,W,3,0,Norwich City,1.6,1.4,50,27023,James Milner,4-3-3,4-3-3,Andre Marriner,Match Report,,19,6,17.3,1.0,0,0,Liverpool,2022
+2021-08-21,12:30,Premier League,Matchweek 2,Sat,Home,W,2,0,Burnley,2.7,0.9,65,52591,Jordan Henderson,4-3-3,4-4-2,Mike Dean,Match Report,,27,8,16.1,0.0,0,0,Liverpool,2022
+2021-08-28,17:30,Premier League,Matchweek 3,Sat,Home,D,1,1,Chelsea,2.5,0.6,65,54000,Jordan Henderson,4-3-3,3-4-3,Anthony Taylor,Match Report,,23,6,16.2,0.0,1,1,Liverpool,2022
+2021-09-12,16:30,Premier League,Matchweek 4,Sun,Away,W,3,0,Leeds United,4.3,1.2,56,36507,Virgil van Dijk,4-3-3,4-1-4-1,Craig Pawson,Match Report,,30,8,16.1,1.0,0,0,Liverpool,2022
+2021-09-18,15:00,Premier League,Matchweek 5,Sat,Home,W,3,0,Crystal Palace,3.1,0.6,59,52000,Jordan Henderson,4-3-3,4-3-3,Andy Madley,Match Report,,25,10,16.4,1.0,0,0,Liverpool,2022
+2021-09-25,17:30,Premier League,Matchweek 6,Sat,Away,D,3,3,Brentford,2.8,2.1,67,16876,Jordan Henderson,4-3-3,3-5-2,Stuart Attwell,Match Report,,16,5,17.0,1.0,0,0,Liverpool,2022
+2021-10-03,16:30,Premier League,Matchweek 7,Sun,Home,D,2,2,Manchester City,0.9,1.2,49,53102,Jordan Henderson,4-3-3,4-3-3,Paul Tierney,Match Report,,6,3,15.0,1.0,0,0,Liverpool,2022
+2021-10-16,12:30,Premier League,Matchweek 8,Sat,Away,W,5,0,Watford,3.3,0.5,75,21085,Jordan Henderson,4-3-3,5-4-1,Jonathan Moss,Match Report,,19,8,16.0,0.0,0,0,Liverpool,2022
+2021-10-24,16:30,Premier League,Matchweek 9,Sun,Away,W,5,0,Manchester Utd,3.4,1.6,62,73088,Jordan Henderson,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,19,8,16.6,0.0,0,0,Liverpool,2022
+2021-10-30,15:00,Premier League,Matchweek 10,Sat,Home,D,2,2,Brighton,1.5,1.0,58,52598,Jordan Henderson,4-3-3,4-2-3-1,Mike Dean,Match Report,,14,3,20.8,0.0,0,0,Liverpool,2022
+2021-11-07,16:30,Premier League,Matchweek 11,Sun,Away,L,2,3,West Ham,1.2,1.0,69,59909,Jordan Henderson,4-3-3,4-2-3-1,Craig Pawson,Match Report,,16,5,16.7,1.0,0,0,Liverpool,2022
+2021-11-20,17:30,Premier League,Matchweek 12,Sat,Home,W,4,0,Arsenal,4.3,0.4,62,53092,Virgil van Dijk,4-3-3,4-4-1-1,Michael Oliver,Match Report,,19,9,13.4,0.0,0,0,Liverpool,2022
+2021-11-27,15:00,Premier League,Matchweek 13,Sat,Home,W,4,0,Southampton,2.9,1.0,64,53040,Jordan Henderson,4-3-3,3-4-3,Andre Marriner,Match Report,,20,6,15.5,0.0,0,0,Liverpool,2022
+2021-12-01,20:15,Premier League,Matchweek 14,Wed,Away,W,4,1,Everton,2.4,0.7,67,39641,Jordan Henderson,4-3-3,4-4-2,Paul Tierney,Match Report,,16,7,16.5,1.0,0,0,Liverpool,2022
+2021-12-04,15:00,Premier League,Matchweek 15,Sat,Away,W,1,0,Wolves,2.7,0.1,66,30729,Jordan Henderson,4-3-3,3-4-3,Chris Kavanagh,Match Report,,17,4,13.6,0.0,0,0,Liverpool,2022
+2021-12-11,15:00,Premier League,Matchweek 16,Sat,Home,W,1,0,Aston Villa,2.2,0.2,62,53093,Jordan Henderson,4-3-3,4-3-3,Stuart Attwell,Match Report,,19,4,16.1,0.0,1,1,Liverpool,2022
+2021-12-16,20:00,Premier League,Matchweek 17,Thu,Home,W,3,1,Newcastle Utd,2.7,0.3,74,52951,Jordan Henderson,4-3-3,4-5-1,Mike Dean,Match Report,,23,8,16.4,0.0,0,0,Liverpool,2022
+2021-12-19,16:30,Premier League,Matchweek 18,Sun,Away,D,2,2,Tottenham,1.1,3.0,56,45421,James Milner,4-3-3,5-3-2,Paul Tierney,Match Report,,18,6,16.7,0.0,0,0,Liverpool,2022
+2021-12-28,20:00,Premier League,Matchweek 20,Tue,Away,L,0,1,Leicester City,2.3,0.4,63,32230,Jordan Henderson,4-3-3,4-3-1-2,Michael Oliver,Match Report,,20,3,15.0,0.0,0,1,Liverpool,2022
+2022-01-02,16:30,Premier League,Matchweek 21,Sun,Away,D,2,2,Chelsea,1.3,1.2,46,40072,Jordan Henderson,4-3-3,3-4-3,Anthony Taylor,Match Report,,10,6,17.9,0.0,0,0,Liverpool,2022
+2022-01-16,14:00,Premier League,Matchweek 22,Sun,Home,W,3,0,Brentford,2.7,0.7,68,52824,Jordan Henderson,4-3-3,3-5-2,Jonathan Moss,Match Report,,27,13,16.7,0.0,0,0,Liverpool,2022
+2022-01-23,14:00,Premier League,Matchweek 23,Sun,Away,W,3,1,Crystal Palace,1.9,2.2,57,25002,Jordan Henderson,4-3-3,4-3-3,Kevin Friend,Match Report,,13,6,21.6,0.0,1,1,Liverpool,2022
+2022-02-10,19:45,Premier League,Matchweek 24,Thu,Home,W,2,0,Leicester City,1.8,0.5,64,53050,Virgil van Dijk,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,22,11,15.7,0.0,0,0,Liverpool,2022
+2022-02-13,14:00,Premier League,Matchweek 25,Sun,Away,W,1,0,Burnley,1.7,1.5,66,19563,Jordan Henderson,4-3-3,4-4-2,Martin Atkinson,Match Report,,12,4,14.4,0.0,0,0,Liverpool,2022
+2022-02-19,15:00,Premier League,Matchweek 26,Sat,Home,W,3,1,Norwich City,3.6,0.6,69,53135,Jordan Henderson,4-3-3,4-3-3,Mike Dean,Match Report,,29,7,17.8,0.0,0,0,Liverpool,2022
+2022-02-23,19:45,Premier League,Matchweek 19,Wed,Home,W,6,0,Leeds United,5.9,0.2,63,53018,Virgil van Dijk,4-3-3,4-1-4-1,Michael Oliver,Match Report,,21,12,17.7,0.0,2,2,Liverpool,2022
+2022-03-05,17:30,Premier League,Matchweek 28,Sat,Home,W,1,0,West Ham,2.4,1.3,68,59925,Jordan Henderson,4-3-3,4-4-2,Jonathan Moss,Match Report,,22,5,19.1,1.0,0,0,Liverpool,2022
+2022-03-12,12:30,Premier League,Matchweek 29,Sat,Away,W,2,0,Brighton,2.2,0.5,48,31474,Jordan Henderson,4-3-3,4-2-3-1,Mike Dean,Match Report,,17,8,15.2,0.0,1,1,Liverpool,2022
+2022-03-16,20:15,Premier League,Matchweek 27,Wed,Away,W,2,0,Arsenal,0.8,0.5,51,59968,Jordan Henderson,4-3-3,4-2-3-1,Andre Marriner,Match Report,,9,3,14.4,0.0,0,0,Liverpool,2022
+2022-04-02,12:30,Premier League,Matchweek 31,Sat,Home,W,2,0,Watford,2.2,0.6,73,53104,Jordan Henderson,4-3-3,4-1-4-1,Stuart Attwell,Match Report,,19,2,18.7,0.0,1,1,Liverpool,2022
+2022-04-10,16:30,Premier League,Matchweek 32,Sun,Away,D,2,2,Manchester City,1.3,1.3,45,53197,Jordan Henderson,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,6,4,22.9,0.0,0,0,Liverpool,2022
+2022-04-19,20:00,Premier League,Matchweek 30,Tue,Home,W,4,0,Manchester Utd,2.0,0.1,71,52686,Jordan Henderson,4-3-3,3-4-3,Martin Atkinson,Match Report,,14,5,15.5,0.0,0,0,Liverpool,2022
+2022-04-24,16:30,Premier League,Matchweek 34,Sun,Home,W,2,0,Everton,1.7,0.4,82,53213,Virgil van Dijk,4-3-3,4-3-3,Stuart Attwell,Match Report,,18,4,15.3,0.0,0,0,Liverpool,2022
+2022-04-30,12:30,Premier League,Matchweek 35,Sat,Away,W,1,0,Newcastle Utd,2.3,0.2,64,52281,Jordan Henderson,4-3-3,4-3-3,Andre Marriner,Match Report,,24,10,17.7,2.0,0,0,Liverpool,2022
+2022-05-07,19:45,Premier League,Matchweek 36,Sat,Home,D,1,1,Tottenham,1.3,0.9,64,53177,Jordan Henderson,4-3-3,3-4-3,Michael Oliver,Match Report,,22,3,19.6,1.0,0,0,Liverpool,2022
+2022-05-10,20:00,Premier League,Matchweek 33,Tue,Away,W,2,1,Aston Villa,1.8,1.4,60,41919,Virgil van Dijk,4-3-3,4-3-1-2,Jonathan Moss,Match Report,,17,5,17.0,2.0,0,0,Liverpool,2022
+2022-05-17,19:45,Premier League,Matchweek 37,Tue,Away,W,2,1,Southampton,1.3,0.1,70,31588,James Milner,4-3-3,5-4-1,Martin Atkinson,Match Report,,24,5,18.6,0.0,0,0,Liverpool,2022
+2022-05-22,16:00,Premier League,Matchweek 38,Sun,Home,W,3,1,Wolves,2.7,1.3,63,53097,Jordan Henderson,4-3-3,3-5-2,Anthony Taylor,Match Report,,29,7,15.6,0.0,0,0,Liverpool,2022

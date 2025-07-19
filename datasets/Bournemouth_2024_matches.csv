@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2023-08-12,15:00,Premier League,Matchweek 1,Sat,Home,D,1,1,West Ham,1.3,1.1,62,11245,Neto,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,14,5,20.7,1.0,0,0,Bournemouth,2024
+2023-08-19,15:00,Premier League,Matchweek 2,Sat,Away,L,1,3,Liverpool,1.3,3.0,36,53145,Neto,4-2-3-1,4-3-3,Thomas Bramall,Match Report,,13,5,19.7,1.0,0,0,Bournemouth,2024
+2023-08-26,12:30,Premier League,Matchweek 3,Sat,Home,L,0,2,Tottenham,0.7,2.1,44,10567,Neto,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,,11,3,17.8,0.0,0,0,Bournemouth,2024
+2023-09-02,15:00,Premier League,Matchweek 4,Sat,Away,D,2,2,Brentford,2.1,2.9,40,16973,Neto,4-2-3-1,4-3-3,Robert Madley,Match Report,,12,5,15.1,0.0,0,0,Bournemouth,2024
+2023-09-17,14:00,Premier League,Matchweek 5,Sun,Home,D,0,0,Chelsea,1.0,1.8,36,10421,Neto,4-2-3-1,4-2-3-1,David Coote,Match Report,,13,4,16.7,1.0,0,0,Bournemouth,2024
+2023-09-24,14:00,Premier League,Matchweek 6,Sun,Away,L,1,3,Brighton,1.1,1.9,39,31617,Neto,4-2-3-1,4-2-3-1,John Brooks,Match Report,,12,3,17.6,1.0,0,0,Bournemouth,2024
+2023-09-30,15:00,Premier League,Matchweek 7,Sat,Home,L,0,4,Arsenal,0.6,3.4,43,11193,Neto,4-2-3-1,4-3-3,Michael Salisbury,Match Report,,8,1,14.1,0.0,0,0,Bournemouth,2024
+2023-10-07,15:00,Premier League,Matchweek 8,Sat,Away,L,0,3,Everton,0.7,2.4,52,38815,Neto,4-2-3-1,4-4-1-1,David Coote,Match Report,,11,3,16.2,0.0,0,0,Bournemouth,2024
+2023-10-21,15:00,Premier League,Matchweek 9,Sat,Home,L,1,2,Wolves,0.6,2.4,35,11175,Neto,4-2-3-1,3-4-3,Paul Tierney,Match Report,,7,4,17.1,0.0,0,0,Bournemouth,2024
+2023-10-28,15:00,Premier League,Matchweek 10,Sat,Home,W,2,1,Burnley,1.1,0.8,45,11152,Lloyd Kelly,4-2-3-1,4-3-3,Samuel Barrott,Match Report,,13,6,19.5,2.0,0,0,Bournemouth,2024
+2023-11-04,15:00,Premier League,Matchweek 11,Sat,Away,L,1,6,Manchester City,0.9,1.9,35,53358,Lloyd Kelly,5-4-1,3-4-3,Craig Pawson,Match Report,,5,1,11.4,0.0,0,0,Bournemouth,2024
+2023-11-11,17:30,Premier League,Matchweek 12,Sat,Home,W,2,0,Newcastle Utd,2.4,0.5,48,11201,Neto,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,19,10,14.9,0.0,0,0,Bournemouth,2024
+2023-11-25,15:00,Premier League,Matchweek 13,Sat,Away,W,3,1,Sheffield Utd,2.9,0.8,54,30208,Neto,4-2-3-1,3-4-3,Andy Madley,Match Report,,23,11,15.7,0.0,0,0,Bournemouth,2024
+2023-12-03,14:00,Premier League,Matchweek 14,Sun,Home,D,2,2,Aston Villa,2.0,0.7,38,11191,Neto,4-2-3-1,4-4-2,Thomas Bramall,Match Report,,15,7,13.6,0.0,0,0,Bournemouth,2024
+2023-12-06,19:30,Premier League,Matchweek 15,Wed,Away,W,2,0,Crystal Palace,1.8,1.0,41,25078,Neto,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,11,4,11.5,0.0,0,0,Bournemouth,2024
+2023-12-09,15:00,Premier League,Matchweek 16,Sat,Away,W,3,0,Manchester Utd,1.5,1.1,32,73427,Neto,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,10,4,12.7,0.0,0,0,Bournemouth,2024
+2023-12-23,15:00,Premier League,Matchweek 18,Sat,Away,W,3,2,Nott'ham Forest,1.6,1.0,66,29188,Neto,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,18,6,15.9,1.0,0,0,Bournemouth,2024
+2023-12-26,15:00,Premier League,Matchweek 19,Tue,Home,W,3,0,Fulham,1.8,0.3,43,11099,Neto,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,,15,3,18.5,0.0,1,1,Bournemouth,2024
+2023-12-31,14:00,Premier League,Matchweek 20,Sun,Away,L,1,3,Tottenham,1.7,2.3,50,61780,Neto,4-2-3-1,4-3-3,Simon Hooper,Match Report,,24,4,17.2,1.0,0,0,Bournemouth,2024
+2024-01-21,16:30,Premier League,Matchweek 21,Sun,Home,L,0,4,Liverpool,1.4,1.5,40,11228,Neto,4-2-3-1,4-3-3,Andy Madley,Match Report,,11,1,19.8,0.0,0,0,Bournemouth,2024
+2024-02-01,19:30,Premier League,Matchweek 22,Thu,Away,D,1,1,West Ham,1.2,1.4,52,62478,Neto,4-2-3-1,4-3-2-1,Tim Robinson,Match Report,,9,4,17.2,0.0,0,0,Bournemouth,2024
+2024-02-04,14:00,Premier League,Matchweek 23,Sun,Home,D,1,1,Nott'ham Forest,1.3,0.5,45,11200,Neto,4-2-3-1,4-2-3-1,Rebecca Welch,Match Report,,9,1,16.7,1.0,0,0,Bournemouth,2024
+2024-02-10,15:00,Premier League,Matchweek 24,Sat,Away,L,1,3,Fulham,1.8,1.6,51,24271,Neto,4-2-3-1,4-2-3-1,Darren England,Match Report,,25,4,16.7,1.0,0,0,Bournemouth,2024
+2024-02-17,15:00,Premier League,Matchweek 25,Sat,Away,D,2,2,Newcastle Utd,2.2,2.2,38,52224,Neto,4-2-3-1,4-3-3,Michael Salisbury,Match Report,,12,6,20.3,0.0,0,0,Bournemouth,2024
+2024-02-24,17:30,Premier League,Matchweek 26,Sat,Home,L,0,1,Manchester City,0.9,1.6,38,11184,Neto,4-2-3-1,3-2-4-1,Jarred Gillett,Match Report,,13,4,17.1,0.0,0,0,Bournemouth,2024
+2024-03-03,13:00,Premier League,Matchweek 27,Sun,Away,W,2,0,Burnley,1.1,1.5,26,19713,Neto,4-2-3-1,4-4-2,David Coote,Match Report,,10,3,15.1,1.0,0,0,Bournemouth,2024
+2024-03-09,15:00,Premier League,Matchweek 28,Sat,Home,D,2,2,Sheffield Utd,3.3,1.2,69,11074,Neto,4-2-3-1,3-5-2,Anthony Taylor,Match Report,,31,11,16.9,0.0,0,1,Bournemouth,2024
+2024-03-13,19:30,Premier League,Matchweek 17,Wed,Home,W,4,3,Luton Town,2.3,2.0,59,11198,Neto,4-2-3-1,3-4-3,Samuel Allison,Match Report,,24,9,15.5,0.0,0,0,Bournemouth,2024
+2024-03-30,15:00,Premier League,Matchweek 30,Sat,Home,W,2,1,Everton,1.3,1.0,48,11207,Neto,4-2-3-1,4-4-1-1,Samuel Barrott,Match Report,,11,4,15.6,1.0,0,0,Bournemouth,2024
+2024-04-02,19:45,Premier League,Matchweek 31,Tue,Home,W,1,0,Crystal Palace,1.1,0.2,50,11058,Neto,4-3-3,3-4-3,Graham Scott,Match Report,,11,6,18.7,2.0,0,0,Bournemouth,2024
+2024-04-06,15:00,Premier League,Matchweek 32,Sat,Away,L,1,2,Luton Town,0.4,1.5,45,11797,Neto,4-2-3-1,3-4-3,Andy Madley,Match Report,,8,1,19.1,1.0,0,0,Bournemouth,2024
+2024-04-13,17:30,Premier League,Matchweek 33,Sat,Home,D,2,2,Manchester Utd,1.6,1.2,43,11229,Neto,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,,20,5,16.8,1.0,0,0,Bournemouth,2024
+2024-04-21,15:00,Premier League,Matchweek 34,Sun,Away,L,1,3,Aston Villa,1.8,2.4,44,42189,Neto,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,,13,4,16.4,0.0,1,1,Bournemouth,2024
+2024-04-24,19:45,Premier League,Matchweek 29,Wed,Away,W,1,0,Wolves,1.9,0.5,37,25541,Adam Smith,4-2-3-1,4-1-4-1,Stuart Attwell,Match Report,,21,6,16.7,0.0,0,0,Bournemouth,2024
+2024-04-28,14:00,Premier League,Matchweek 35,Sun,Home,W,3,0,Brighton,1.9,0.9,31,11188,Adam Smith,4-4-2,4-2-3-1,Paul Tierney,Match Report,,15,6,14.4,1.0,0,0,Bournemouth,2024
+2024-05-04,12:30,Premier League,Matchweek 36,Sat,Away,L,0,3,Arsenal,0.5,3.3,45,60348,Adam Smith,4-3-3,4-3-3,David Coote,Match Report,,7,2,20.4,1.0,0,0,Bournemouth,2024
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Home,L,1,2,Brentford,0.7,1.1,48,11154,Adam Smith,4-2-3-1,4-3-3,Matt Donohue,Match Report,,13,4,17.1,0.0,0,0,Bournemouth,2024
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Away,L,1,2,Chelsea,2.2,1.1,39,39724,Neto,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,22,5,16.8,0.0,0,0,Bournemouth,2024

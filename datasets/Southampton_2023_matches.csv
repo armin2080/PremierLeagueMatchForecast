@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2022-08-06,15:00,Premier League,Matchweek 1,Sat,Away,L,1,4,Tottenham,0.5,1.5,42,61732,James Ward-Prowse,5-3-2,3-4-3,Andre Marriner,Match Report,,10,2,17.1,0.0,0,0,Southampton,2023
+2022-08-13,15:00,Premier League,Matchweek 2,Sat,Home,D,2,2,Leeds United,1.2,1.8,43,30815,James Ward-Prowse,3-4-3,4-2-3-1,Tony Harrington,Match Report,,14,4,18.1,1.0,0,0,Southampton,2023
+2022-08-20,15:00,Premier League,Matchweek 3,Sat,Away,W,2,1,Leicester City,0.9,0.3,38,30850,James Ward-Prowse,4-2-3-1,4-1-4-1,Michael Salisbury,Match Report,,9,3,15.0,0.0,0,0,Southampton,2023
+2022-08-27,12:30,Premier League,Matchweek 4,Sat,Home,L,0,1,Manchester Utd,1.4,1.1,49,31196,James Ward-Prowse,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,17,4,13.8,0.0,0,0,Southampton,2023
+2022-08-30,19:45,Premier League,Matchweek 5,Tue,Home,W,2,1,Chelsea,1.1,1.1,33,31542,James Ward-Prowse,4-2-3-1,4-2-2-2,Michael Oliver,Match Report,,9,5,17.8,0.0,0,0,Southampton,2023
+2022-09-03,15:00,Premier League,Matchweek 6,Sat,Away,L,0,1,Wolves,1.2,0.8,49,30546,James Ward-Prowse,4-2-3-1,4-3-3,John Brooks,Match Report,,12,1,16.4,1.0,0,0,Southampton,2023
+2022-09-16,20:00,Premier League,Matchweek 8,Fri,Away,L,0,1,Aston Villa,0.3,1.5,47,40758,James Ward-Prowse,4-2-3-1,4-3-2-1,Tony Harrington,Match Report,,7,1,20.2,0.0,0,0,Southampton,2023
+2022-10-01,15:00,Premier League,Matchweek 9,Sat,Home,L,1,2,Everton,1.7,2.0,55,30510,James Ward-Prowse,4-4-2,4-3-3,Andre Marriner,Match Report,,22,6,16.4,1.0,0,0,Southampton,2023
+2022-10-08,15:00,Premier League,Matchweek 10,Sat,Away,L,0,4,Manchester City,0.2,2.4,35,53365,James Ward-Prowse,4-4-2,4-2-3-1,Andy Madley,Match Report,,5,0,28.1,0.0,0,0,Southampton,2023
+2022-10-16,14:00,Premier League,Matchweek 11,Sun,Home,D,1,1,West Ham,0.5,1.7,39,29159,James Ward-Prowse,4-3-3,3-4-3,Peter Bankes,Match Report,,10,8,19.6,0.0,0,0,Southampton,2023
+2022-10-19,19:30,Premier League,Matchweek 12,Wed,Away,W,1,0,Bournemouth,1.0,1.0,46,10405,James Ward-Prowse,4-4-2,3-4-3,John Brooks,Match Report,,9,3,13.0,0.0,0,0,Southampton,2023
+2022-10-23,14:00,Premier League,Matchweek 13,Sun,Home,D,1,1,Arsenal,0.7,1.0,41,31145,James Ward-Prowse,4-4-2,4-3-3,Robert Jones,Match Report,,10,3,19.4,0.0,0,0,Southampton,2023
+2022-10-29,15:00,Premier League,Matchweek 14,Sat,Away,L,0,1,Crystal Palace,1.3,0.9,56,25130,James Ward-Prowse,3-5-2,4-3-3,Michael Salisbury,Match Report,,14,4,18.1,0.0,0,0,Southampton,2023
+2022-11-06,14:00,Premier League,Matchweek 15,Sun,Home,L,1,4,Newcastle Utd,1.7,0.9,55,30402,James Ward-Prowse,4-2-3-1,4-3-3,Stuart Attwell,Match Report,,16,5,17.6,1.0,0,0,Southampton,2023
+2022-11-12,15:00,Premier League,Matchweek 16,Sat,Away,L,1,3,Liverpool,1.1,1.9,40,53331,James Ward-Prowse,5-3-2,4-3-3,Simon Hooper,Match Report,,9,5,11.9,0.0,0,0,Southampton,2023
+2022-12-26,15:00,Premier League,Matchweek 17,Mon,Home,L,1,3,Brighton,1.9,0.6,34,31010,James Ward-Prowse,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,13,3,16.1,1.0,0,1,Southampton,2023
+2022-12-31,15:00,Premier League,Matchweek 18,Sat,Away,L,1,2,Fulham,0.8,1.5,38,24344,James Ward-Prowse,3-4-3,4-2-3-1,Graham Scott,Match Report,,9,3,24.5,1.0,0,0,Southampton,2023
+2023-01-04,19:30,Premier League,Matchweek 19,Wed,Home,L,0,1,Nott'ham Forest,0.5,1.4,63,30150,James Ward-Prowse,3-1-4-2,4-3-1-2,Thomas Bramall,Match Report,,8,0,14.5,1.0,0,0,Southampton,2023
+2023-01-14,15:00,Premier League,Matchweek 20,Sat,Away,W,2,1,Everton,1.2,1.4,48,39305,James Ward-Prowse,4-2-3-1,3-4-3,John Brooks,Match Report,,13,5,20.7,2.0,0,0,Southampton,2023
+2023-01-21,15:00,Premier League,Matchweek 21,Sat,Home,L,0,1,Aston Villa,0.6,1.4,37,30158,James Ward-Prowse,4-2-3-1,4-4-2,Michael Salisbury,Match Report,,8,5,15.8,0.0,0,0,Southampton,2023
+2023-02-04,15:00,Premier League,Matchweek 22,Sat,Away,L,0,3,Brentford,0.7,2.0,51,17051,James Ward-Prowse,4-2-3-1,4-3-3,Darren Bond,Match Report,,14,5,23.5,0.0,0,0,Southampton,2023
+2023-02-11,15:00,Premier League,Matchweek 23,Sat,Home,L,1,2,Wolves,1.1,0.8,41,29751,James Ward-Prowse,5-3-2,4-2-3-1,Jarred Gillett,Match Report,,17,2,17.7,0.0,0,0,Southampton,2023
+2023-02-18,15:00,Premier League,Matchweek 24,Sat,Away,W,1,0,Chelsea,0.6,1.6,38,40152,James Ward-Prowse,4-4-2,4-2-3-1,David Coote,Match Report,,8,4,19.7,1.0,0,0,Southampton,2023
+2023-02-25,15:00,Premier League,Matchweek 25,Sat,Away,L,0,1,Leeds United,0.4,0.9,39,36641,James Ward-Prowse,4-4-2,4-2-3-1,Peter Bankes,Match Report,,8,2,18.8,0.0,0,0,Southampton,2023
+2023-03-04,17:30,Premier League,Matchweek 26,Sat,Home,W,1,0,Leicester City,1.4,1.9,35,30139,James Ward-Prowse,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,10,4,23.6,1.0,0,1,Southampton,2023
+2023-03-12,14:00,Premier League,Matchweek 27,Sun,Away,D,0,0,Manchester Utd,1.0,0.8,53,73439,James Ward-Prowse,4-2-3-1,4-1-4-1,Anthony Taylor,Match Report,,17,4,21.2,2.0,0,0,Southampton,2023
+2023-03-15,19:30,Premier League,Matchweek 7,Wed,Home,L,0,2,Brentford,0.5,1.9,66,30438,James Ward-Prowse,4-2-3-1,4-3-3,Michael Salisbury,Match Report,,7,0,19.2,1.0,0,0,Southampton,2023
+2023-03-18,15:00,Premier League,Matchweek 28,Sat,Home,D,3,3,Tottenham,2.4,2.3,51,30157,James Ward-Prowse,4-4-2,3-4-3,Simon Hooper,Match Report,,18,6,19.6,1.0,1,1,Southampton,2023
+2023-04-02,14:00,Premier League,Matchweek 29,Sun,Away,L,0,1,West Ham,0.3,1.4,57,62498,James Ward-Prowse,4-4-2,4-3-3,Paul Tierney,Match Report,,9,3,21.1,0.0,0,0,Southampton,2023
+2023-04-08,17:30,Premier League,Matchweek 30,Sat,Home,L,1,4,Manchester City,0.4,2.9,27,30963,James Ward-Prowse,4-4-2,3-2-4-1,Robert Jones,Match Report,,4,1,17.0,0.0,0,0,Southampton,2023
+2023-04-15,15:00,Premier League,Matchweek 31,Sat,Home,L,0,2,Crystal Palace,0.8,0.9,58,30309,James Ward-Prowse,4-4-2,4-3-3,Michael Oliver,Match Report,,11,4,18.0,0.0,0,0,Southampton,2023
+2023-04-21,20:00,Premier League,Matchweek 32,Fri,Away,D,3,3,Arsenal,1.3,2.4,26,60175,James Ward-Prowse,4-4-2,4-3-3,Simon Hooper,Match Report,,8,6,12.4,0.0,0,0,Southampton,2023
+2023-04-27,19:45,Premier League,Matchweek 33,Thu,Home,L,0,1,Bournemouth,0.5,0.9,57,30414,James Ward-Prowse,4-4-2,3-4-3,Darren England,Match Report,,11,2,19.9,0.0,0,0,Southampton,2023
+2023-04-30,14:00,Premier League,Matchweek 34,Sun,Away,L,1,3,Newcastle Utd,0.8,4.3,37,52234,James Ward-Prowse,4-4-2,4-3-3,Anthony Taylor,Match Report,,4,3,17.3,0.0,0,0,Southampton,2023
+2023-05-08,20:00,Premier League,Matchweek 35,Mon,Away,L,3,4,Nott'ham Forest,3.1,1.8,64,29154,James Ward-Prowse,4-2-3-1,4-3-3,Michael Oliver,Match Report,,18,4,14.0,0.0,1,1,Southampton,2023
+2023-05-13,15:00,Premier League,Matchweek 36,Sat,Home,L,0,2,Fulham,0.4,1.4,36,28978,James Ward-Prowse,4-2-3-1,4-2-3-1,Thomas Bramall,Match Report,,5,1,24.2,0.0,0,0,Southampton,2023
+2023-05-21,14:00,Premier League,Matchweek 37,Sun,Away,L,1,3,Brighton,0.6,2.5,37,31507,James Ward-Prowse,4-1-4-1,4-2-3-1,Paul Tierney,Match Report,,5,1,13.8,1.0,0,0,Southampton,2023
+2023-05-28,16:30,Premier League,Matchweek 38,Sun,Home,D,4,4,Liverpool,1.8,4.0,31,31129,James Ward-Prowse,4-2-3-1,4-3-3,Darren England,Match Report,,15,10,17.5,1.0,0,0,Southampton,2023

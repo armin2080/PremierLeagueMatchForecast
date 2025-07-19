@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2024-08-17,17:30,Premier League,Matchweek 1,Sat,Away,W,2,1,West Ham,2.0,2.3,48.0,62463.0,John McGinn,4-2-3-1,4-1-4-1,Tony Harrington,Match Report,,15.0,3.0,15.2,0.0,0,0,Aston Villa,2025
+2024-08-24,17:30,Premier League,Matchweek 2,Sat,Home,L,0,2,Arsenal,1.2,0.9,40.0,41587.0,John McGinn,4-4-2,4-3-3,Michael Oliver,Match Report,,11.0,3.0,16.0,0.0,0,0,Aston Villa,2025
+2024-08-31,15:00,Premier League,Matchweek 3,Sat,Away,W,2,1,Leicester City,1.4,0.4,43.0,31725.0,John McGinn,4-4-2,4-2-3-1,David Coote,Match Report,,10.0,5.0,17.9,0.0,0,0,Aston Villa,2025
+2024-09-14,17:30,Premier League,Matchweek 4,Sat,Home,W,3,2,Everton,2.1,0.9,72.0,41573.0,John McGinn,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,17.0,7.0,14.0,0.0,0,0,Aston Villa,2025
+2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,W,3,1,Wolves,1.7,0.5,53.0,39978.0,John McGinn,4-2-3-1,4-1-4-1,Tim Robinson,Match Report,,9.0,3.0,13.7,1.0,0,0,Aston Villa,2025
+2024-09-29,14:00,Premier League,Matchweek 6,Sun,Away,D,2,2,Ipswich Town,0.8,1.2,56.0,29943.0,Emiliano Martínez,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,7.0,3.0,19.0,1.0,0,0,Aston Villa,2025
+2024-10-06,14:00,Premier League,Matchweek 7,Sun,Home,D,0,0,Manchester Utd,0.5,0.6,53.0,42682.0,Emiliano Martínez,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,11.0,1.0,20.3,1.0,0,0,Aston Villa,2025
+2024-10-19,15:00,Premier League,Matchweek 8,Sat,Away,W,3,1,Fulham,1.6,1.8,48.0,26743.0,Emiliano Martínez,4-2-3-1,4-2-3-1,Darren England,Match Report,,14.0,5.0,15.1,1.0,0,0,Aston Villa,2025
+2024-10-26,15:00,Premier League,Matchweek 9,Sat,Home,D,1,1,Bournemouth,1.8,0.3,57.0,42165.0,John McGinn,4-4-1-1,4-2-3-1,Chris Kavanagh,Match Report,,18.0,8.0,15.1,0.0,0,0,Aston Villa,2025
+2024-11-03,14:00,Premier League,Matchweek 10,Sun,Away,L,1,4,Tottenham,1.8,2.4,49.0,61253.0,John McGinn,4-2-3-1,4-3-3,Craig Pawson,Match Report,,12.0,1.0,16.2,0.0,0,0,Aston Villa,2025
+2024-11-09,20:00,Premier League,Matchweek 11,Sat,Away,L,0,2,Liverpool,1.2,2.0,38.0,60292.0,Emiliano Martínez,4-2-3-1,4-2-3-1,David Coote,Match Report,,12.0,2.0,11.6,0.0,0,0,Aston Villa,2025
+2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,D,2,2,Crystal Palace,3.0,1.3,69.0,42175.0,John McGinn,4-2-3-1,3-4-3,Tim Robinson,Match Report,,16.0,4.0,14.9,0.0,0,1,Aston Villa,2025
+2024-12-01,13:30,Premier League,Matchweek 13,Sun,Away,L,0,3,Chelsea,1.2,1.6,36.0,40853.0,John McGinn,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,10.0,3.0,13.4,0.0,0,0,Aston Villa,2025
+2024-12-04,20:15,Premier League,Matchweek 14,Wed,Home,W,3,1,Brentford,2.4,0.9,49.0,42148.0,John McGinn,4-2-3-1,4-3-3,Lewis Smith,Match Report,,19.0,9.0,15.0,0.0,1,1,Aston Villa,2025
+2024-12-07,15:00,Premier League,Matchweek 15,Sat,Home,W,1,0,Southampton,2.3,0.3,47.0,42453.0,John McGinn,4-2-3-1,5-3-2,Darren Bond,Match Report,,18.0,4.0,14.2,0.0,0,0,Aston Villa,2025
+2024-12-14,17:30,Premier League,Matchweek 16,Sat,Away,L,1,2,Nott'ham Forest,0.4,1.7,50.0,30117.0,John McGinn,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,,8.0,2.0,15.6,0.0,0,0,Aston Villa,2025
+2024-12-21,12:30,Premier League,Matchweek 17,Sat,Home,W,2,1,Manchester City,1.6,1.0,44.0,42345.0,John McGinn,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,11.0,6.0,13.9,0.0,0,0,Aston Villa,2025
+2024-12-26,15:00,Premier League,Matchweek 18,Thu,Away,L,0,3,Newcastle Utd,0.3,2.7,38.0,52168.0,John McGinn,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,4.0,1.0,17.0,1.0,0,0,Aston Villa,2025
+2024-12-30,19:45,Premier League,Matchweek 19,Mon,Home,D,2,2,Brighton,1.8,1.1,59.0,41414.0,John McGinn,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,19.0,3.0,17.9,0.0,1,1,Aston Villa,2025
+2025-01-04,15:00,Premier League,Matchweek 20,Sat,Home,W,2,1,Leicester City,1.4,0.4,60.0,42386.0,John McGinn,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,,13.0,5.0,15.9,0.0,0,0,Aston Villa,2025
+2025-01-15,19:30,Premier League,Matchweek 21,Wed,Away,W,1,0,Everton,1.2,1.1,50.0,39085.0,Emiliano Martínez,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,,11.0,3.0,20.5,1.0,0,0,Aston Villa,2025
+2025-01-18,17:30,Premier League,Matchweek 22,Sat,Away,D,2,2,Arsenal,1.0,1.3,34.0,60067.0,Emiliano Martínez,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,8.0,4.0,16.9,0.0,0,0,Aston Villa,2025
+2025-01-26,16:30,Premier League,Matchweek 23,Sun,Home,D,1,1,West Ham,0.9,1.3,46.0,41628.0,Emiliano Martínez,4-2-3-1,3-4-3,Peter Bankes,Match Report,,14.0,4.0,18.0,1.0,0,0,Aston Villa,2025
+2025-02-01,17:30,Premier League,Matchweek 24,Sat,Away,L,0,2,Wolves,0.4,1.6,68.0,31385.0,John McGinn,4-2-3-1,3-4-3,Andy Madley,Match Report,,10.0,3.0,20.9,0.0,0,0,Aston Villa,2025
+2025-02-15,15:00,Premier League,Matchweek 25,Sat,Home,D,1,1,Ipswich Town,2.4,0.4,75.0,42510.0,John McGinn,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,25.0,6.0,18.6,2.0,0,0,Aston Villa,2025
+2025-02-19,19:30,Premier League,Matchweek 29,Wed,Home,D,2,2,Liverpool,0.6,2.5,52.0,41910.0,John McGinn,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,9.0,3.0,18.0,0.0,0,0,Aston Villa,2025
+2025-02-22,17:30,Premier League,Matchweek 26,Sat,Home,W,2,1,Chelsea,2.3,2.3,52.0,42423.0,John McGinn,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,12.0,6.0,13.2,0.0,0,0,Aston Villa,2025
+2025-02-25,19:30,Premier League,Matchweek 27,Tue,Away,L,1,4,Crystal Palace,0.4,4.3,64.0,24712.0,John McGinn,3-4-3,3-4-3,Samuel Barrott,Match Report,,6.0,2.0,10.0,0.0,0,0,Aston Villa,2025
+2025-03-08,17:30,Premier League,Matchweek 28,Sat,Away,W,1,0,Brentford,1.3,0.8,41.0,17171.0,John McGinn,4-2-3-1,4-2-3-1,Jarred Gillett,Match Report,,12.0,4.0,16.9,1.0,0,0,Aston Villa,2025
+2025-04-02,19:45,Premier League,Matchweek 30,Wed,Away,W,3,0,Brighton,1.2,0.9,44.0,27895.0,John McGinn,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,8.0,5.0,14.1,0.0,0,0,Aston Villa,2025
+2025-04-05,17:30,Premier League,Matchweek 31,Sat,Home,W,2,1,Nott'ham Forest,3.0,1.5,52.0,42743.0,Emiliano Martínez,4-2-3-1,3-4-1-2,Simon Hooper,Match Report,,17.0,8.0,16.4,1.0,0,0,Aston Villa,2025
+2025-04-12,15:00,Premier League,Matchweek 32,Sat,Away,W,3,0,Southampton,3.0,0.3,60.0,30199.0,Emiliano Martínez,4-2-3-1,3-4-3,Thomas Bramall,Match Report,,23.0,8.0,21.1,1.0,0,2,Aston Villa,2025
+2025-04-19,17:30,Premier League,Matchweek 33,Sat,Home,W,4,1,Newcastle Utd,2.2,1.0,48.0,42618.0,John McGinn,4-2-3-1,4-3-3,Jarred Gillett,Match Report,,23.0,9.0,14.3,0.0,0,0,Aston Villa,2025
+2025-04-22,20:00,Premier League,Matchweek 34,Tue,Away,L,1,2,Manchester City,1.8,1.3,39.0,51834.0,Emiliano Martínez,4-2-3-1,4-1-4-1,Craig Pawson,Match Report,,6.0,2.0,16.2,0.0,1,1,Aston Villa,2025
+2025-05-03,12:30,Premier League,Matchweek 35,Sat,Home,W,1,0,Fulham,1.0,0.9,52.0,42515.0,John McGinn,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,10.0,3.0,15.8,0.0,0,0,Aston Villa,2025
+2025-05-10,17:30,Premier League,Matchweek 36,Sat,Away,W,1,0,Bournemouth,1.0,0.8,34.0,11187.0,Emiliano Martínez,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,6.0,3.0,14.9,0.0,0,0,Aston Villa,2025
+2025-05-16,19:30,Premier League,Matchweek 37,Fri,Home,W,2,0,Tottenham,1.4,0.5,67.0,42239.0,John McGinn,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,18.0,7.0,17.2,0.0,0,0,Aston Villa,2025
+2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,L,0,2,Manchester Utd,0.4,2.9,33.0,73839.0,John McGinn,4-2-3-1,3-4-3,Thomas Bramall,Match Report,,6.0,1.0,19.5,0.0,0,0,Aston Villa,2025

@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2024-08-17,12:30,Premier League,Matchweek 1,Sat,Away,W,2,0,Ipswich Town,2.6,0.5,62.0,30014.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,,18.0,5.0,14.8,0.0,0,0,Liverpool,2025
+2024-08-25,16:30,Premier League,Matchweek 2,Sun,Home,W,2,0,Brentford,2.5,0.5,62.0,60017.0,Virgil van Dijk,4-2-3-1,4-4-2,Stuart Attwell,Match Report,,19.0,8.0,13.6,1.0,0,0,Liverpool,2025
+2024-09-01,16:00,Premier League,Matchweek 3,Sun,Away,W,3,0,Manchester Utd,1.8,1.4,47.0,73738.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,11.0,3.0,13.4,0.0,0,0,Liverpool,2025
+2024-09-14,15:00,Premier League,Matchweek 4,Sat,Home,L,0,1,Nott'ham Forest,0.9,0.4,68.0,60344.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,14.0,5.0,14.9,0.0,0,0,Liverpool,2025
+2024-09-21,15:00,Premier League,Matchweek 5,Sat,Home,W,3,0,Bournemouth,2.0,1.1,58.0,60347.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Tony Harrington,Match Report,,19.0,12.0,16.6,0.0,0,0,Liverpool,2025
+2024-09-28,17:30,Premier League,Matchweek 6,Sat,Away,W,2,1,Wolves,2.5,0.6,55.0,31413.0,Virgil van Dijk,4-2-3-1,4-1-4-1,Anthony Taylor,Match Report,,9.0,5.0,18.0,1.0,1,1,Liverpool,2025
+2024-10-05,12:30,Premier League,Matchweek 7,Sat,Away,W,1,0,Crystal Palace,1.4,0.6,68.0,25185.0,Virgil van Dijk,4-2-3-1,3-4-3,Simon Hooper,Match Report,,16.0,4.0,18.9,0.0,0,0,Liverpool,2025
+2024-10-20,16:30,Premier League,Matchweek 8,Sun,Home,W,2,1,Chelsea,1.9,1.0,43.0,60277.0,Virgil van Dijk,4-2-3-1,4-2-3-1,John Brooks,Match Report,,8.0,4.0,22.7,1.0,1,1,Liverpool,2025
+2024-10-27,16:30,Premier League,Matchweek 9,Sun,Away,D,2,2,Arsenal,0.8,0.9,55.0,60383.0,Virgil van Dijk,4-2-3-1,4-4-2,Anthony Taylor,Match Report,,9.0,4.0,17.8,0.0,0,0,Liverpool,2025
+2024-11-02,15:00,Premier League,Matchweek 10,Sat,Home,W,2,1,Brighton,1.6,1.0,49.0,60331.0,Virgil van Dijk,4-2-3-1,4-4-2,Tony Harrington,Match Report,,16.0,8.0,14.0,0.0,0,0,Liverpool,2025
+2024-11-09,20:00,Premier League,Matchweek 11,Sat,Home,W,2,0,Aston Villa,2.0,1.2,62.0,60292.0,Virgil van Dijk,4-2-3-1,4-2-3-1,David Coote,Match Report,,14.0,5.0,16.1,0.0,0,0,Liverpool,2025
+2024-11-24,14:00,Premier League,Matchweek 12,Sun,Away,W,3,2,Southampton,3.1,1.3,62.0,31278.0,Virgil van Dijk,4-2-3-1,5-4-1,Samuel Barrott,Match Report,,26.0,10.0,18.2,1.0,1,1,Liverpool,2025
+2024-12-01,16:00,Premier League,Matchweek 13,Sun,Home,W,2,0,Manchester City,3.4,0.8,44.0,60248.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,17.0,6.0,17.5,0.0,1,1,Liverpool,2025
+2024-12-04,19:30,Premier League,Matchweek 14,Wed,Away,D,3,3,Newcastle Utd,1.9,2.1,58.0,52237.0,Virgil van Dijk,4-2-3-1,4-3-3,Andy Madley,Match Report,,16.0,5.0,12.7,0.0,0,0,Liverpool,2025
+2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,D,2,2,Fulham,2.1,1.2,61.0,60333.0,Virgil van Dijk,4-3-3,4-2-3-1,Tony Harrington,Match Report,,16.0,4.0,13.9,0.0,0,0,Liverpool,2025
+2024-12-22,16:30,Premier League,Matchweek 17,Sun,Away,W,6,3,Tottenham,5.6,1.3,48.0,61439.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,,24.0,11.0,13.3,0.0,0,0,Liverpool,2025
+2024-12-26,20:00,Premier League,Matchweek 18,Thu,Home,W,3,1,Leicester City,2.0,0.3,68.0,60300.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Darren Bond,Match Report,,19.0,7.0,15.3,0.0,0,0,Liverpool,2025
+2024-12-29,17:15,Premier League,Matchweek 19,Sun,Away,W,5,0,West Ham,3.1,0.4,54.0,62476.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,22.0,13.0,15.8,0.0,0,0,Liverpool,2025
+2025-01-05,16:30,Premier League,Matchweek 20,Sun,Home,D,2,2,Manchester Utd,2.7,1.0,53.0,60275.0,Virgil van Dijk,4-2-3-1,3-4-3,Michael Oliver,Match Report,,18.0,5.0,16.9,1.0,1,1,Liverpool,2025
+2025-01-14,20:00,Premier League,Matchweek 21,Tue,Away,D,1,1,Nott'ham Forest,2.0,0.3,70.0,30249.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,23.0,6.0,17.0,0.0,0,0,Liverpool,2025
+2025-01-18,15:00,Premier League,Matchweek 22,Sat,Away,W,2,0,Brentford,3.4,0.7,60.0,17215.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,37.0,8.0,15.4,0.0,0,0,Liverpool,2025
+2025-01-25,15:00,Premier League,Matchweek 23,Sat,Home,W,4,1,Ipswich Town,2.0,0.5,70.0,60420.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Michael Salisbury,Match Report,,16.0,6.0,17.8,0.0,0,0,Liverpool,2025
+2025-02-01,15:00,Premier League,Matchweek 24,Sat,Away,W,2,0,Bournemouth,2.5,1.6,51.0,11239.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Darren England,Match Report,,18.0,6.0,18.5,0.0,1,1,Liverpool,2025
+2025-02-12,19:30,Premier League,Matchweek 15,Wed,Away,D,2,2,Everton,0.6,1.0,63.0,39280.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,6.0,4.0,15.4,0.0,0,0,Liverpool,2025
+2025-02-16,14:00,Premier League,Matchweek 25,Sun,Home,W,2,1,Wolves,1.7,1.5,50.0,60248.0,Virgil van Dijk,4-2-3-1,3-4-3,Simon Hooper,Match Report,,9.0,2.0,16.9,0.0,1,1,Liverpool,2025
+2025-02-19,19:30,Premier League,Matchweek 29,Wed,Away,D,2,2,Aston Villa,2.5,0.6,48.0,41910.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,17.0,3.0,14.2,0.0,0,0,Liverpool,2025
+2025-02-23,16:30,Premier League,Matchweek 26,Sun,Away,W,2,0,Manchester City,0.7,0.6,34.0,52803.0,Virgil van Dijk,4-2-2-2,4-1-4-1,Anthony Taylor,Match Report,,8.0,4.0,16.4,0.0,0,0,Liverpool,2025
+2025-02-26,20:15,Premier League,Matchweek 27,Wed,Home,W,2,0,Newcastle Utd,1.7,0.2,61.0,60374.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,12.0,3.0,16.2,0.0,0,0,Liverpool,2025
+2025-03-08,15:00,Premier League,Matchweek 28,Sat,Home,W,3,1,Southampton,3.9,0.4,71.0,60399.0,Virgil van Dijk,4-3-3,4-2-3-1,Lewis Smith,Match Report,,26.0,5.0,16.3,0.0,2,2,Liverpool,2025
+2025-04-02,20:00,Premier League,Matchweek 30,Wed,Home,W,1,0,Everton,1.5,0.9,73.0,60457.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,,17.0,3.0,17.2,1.0,0,0,Liverpool,2025
+2025-04-06,14:00,Premier League,Matchweek 31,Sun,Away,L,2,3,Fulham,1.5,0.7,63.0,27770.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Chris Kavanagh,Match Report,,14.0,6.0,16.4,0.0,0,0,Liverpool,2025
+2025-04-13,14:00,Premier League,Matchweek 32,Sun,Home,W,2,1,West Ham,1.8,1.4,55.0,60376.0,Virgil van Dijk,4-2-3-1,3-5-2,Andy Madley,Match Report,,15.0,6.0,15.5,1.0,0,0,Liverpool,2025
+2025-04-20,16:30,Premier League,Matchweek 33,Sun,Away,W,1,0,Leicester City,2.5,0.3,58.0,30402.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,28.0,8.0,12.6,1.0,0,0,Liverpool,2025
+2025-04-27,16:30,Premier League,Matchweek 34,Sun,Home,W,5,1,Tottenham,2.2,0.5,61.0,60415.0,Virgil van Dijk,4-2-3-1,4-3-3,Thomas Bramall,Match Report,,25.0,6.0,19.3,0.0,0,0,Liverpool,2025
+2025-05-04,16:30,Premier League,Matchweek 35,Sun,Away,L,1,3,Chelsea,1.0,3.1,64.0,39829.0,Virgil van Dijk,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,11.0,2.0,13.5,1.0,0,0,Liverpool,2025
+2025-05-11,16:30,Premier League,Matchweek 36,Sun,Home,D,2,2,Arsenal,2.4,2.6,45.0,60324.0,Virgil van Dijk,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,14.0,5.0,16.6,1.0,0,0,Liverpool,2025
+2025-05-19,20:00,Premier League,Matchweek 37,Mon,Away,L,2,3,Brighton,2.2,2.2,51.0,31611.0,Mohamed Salah,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,18.0,5.0,16.1,1.0,0,0,Liverpool,2025
+2025-05-25,16:00,Premier League,Matchweek 38,Sun,Home,D,1,1,Crystal Palace,2.1,1.8,69.0,60382.0,Virgil van Dijk,4-2-3-1,3-4-3,Darren England,Match Report,,14.0,3.0,14.3,0.0,0,0,Liverpool,2025

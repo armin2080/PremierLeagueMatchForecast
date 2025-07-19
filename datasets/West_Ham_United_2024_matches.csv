@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2023-08-12,15:00,Premier League,Matchweek 1,Sat,Away,D,1,1,Bournemouth,1.1,1.3,38,11245,Kurt Zouma,4-2-3-1,4-2-3-1,Peter Bankes,Match Report,,16,2,16.1,0.0,0,0,West Ham United,2024
+2023-08-20,16:30,Premier League,Matchweek 2,Sun,Home,W,3,1,Chelsea,1.8,2.5,25,62451,Kurt Zouma,4-2-3-1,3-4-3,John Brooks,Match Report,,11,5,19.6,0.0,1,1,West Ham United,2024
+2023-08-26,17:30,Premier League,Matchweek 3,Sat,Away,W,3,1,Brighton,3.0,1.5,22,31508,Kurt Zouma,4-1-4-1,4-2-3-1,Anthony Taylor,Match Report,,12,7,12.3,0.0,0,0,West Ham United,2024
+2023-09-01,20:00,Premier League,Matchweek 4,Fri,Away,W,2,1,Luton Town,1.0,1.4,61,10802,Kurt Zouma,4-2-3-1,5-3-2,Paul Tierney,Match Report,,9,3,16.3,0.0,0,0,West Ham United,2024
+2023-09-16,15:00,Premier League,Matchweek 5,Sat,Home,L,1,3,Manchester City,0.9,3.6,32,62475,Kurt Zouma,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,6,3,12.1,0.0,0,0,West Ham United,2024
+2023-09-24,14:00,Premier League,Matchweek 6,Sun,Away,L,1,3,Liverpool,1.1,3.0,37,50136,Kurt Zouma,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,11,4,13.5,0.0,0,0,West Ham United,2024
+2023-09-30,15:00,Premier League,Matchweek 7,Sat,Home,W,2,0,Sheffield Utd,2.1,1.1,52,62459,Kurt Zouma,4-2-3-1,3-5-2,Graham Scott,Match Report,,20,8,12.6,1.0,0,0,West Ham United,2024
+2023-10-08,14:00,Premier League,Matchweek 8,Sun,Home,D,2,2,Newcastle Utd,1.2,2.0,36,62473,Kurt Zouma,4-2-3-1,4-3-3,Peter Bankes,Match Report,,5,3,14.9,1.0,0,0,West Ham United,2024
+2023-10-22,16:30,Premier League,Matchweek 9,Sun,Away,L,1,4,Aston Villa,1.1,1.9,42,41734,Kurt Zouma,4-2-3-1,4-4-2,David Coote,Match Report,,14,4,15.2,1.0,0,0,West Ham United,2024
+2023-10-29,13:00,Premier League,Matchweek 10,Sun,Home,L,0,1,Everton,0.7,0.8,64,62469,Kurt Zouma,4-2-3-1,4-4-1-1,Stuart Attwell,Match Report,,12,2,17.3,0.0,0,0,West Ham United,2024
+2023-11-04,15:00,Premier League,Matchweek 11,Sat,Away,L,2,3,Brentford,1.8,1.5,42,17103,James Ward-Prowse,4-4-2,4-3-3,Thomas Bramall,Match Report,,12,2,15.3,0.0,0,0,West Ham United,2024
+2023-11-12,14:00,Premier League,Matchweek 12,Sun,Home,W,3,2,Nott'ham Forest,1.8,1.7,54,62470,Kurt Zouma,4-2-3-1,4-3-3,Michael Salisbury,Match Report,,16,6,18.0,1.0,0,0,West Ham United,2024
+2023-11-25,15:00,Premier League,Matchweek 13,Sat,Away,W,2,1,Burnley,0.9,1.3,50,21319,Kurt Zouma,4-2-3-1,4-4-2,Samuel Barrott,Match Report,,11,3,13.2,0.0,0,0,West Ham United,2024
+2023-12-03,14:00,Premier League,Matchweek 14,Sun,Home,D,1,1,Crystal Palace,1.1,0.9,55,62414,Tomáš Souček,4-2-3-1,4-3-3,Michael Oliver,Match Report,,9,3,15.7,1.0,0,0,West Ham United,2024
+2023-12-07,20:15,Premier League,Matchweek 15,Thu,Away,W,2,1,Tottenham,2.2,1.8,26,61171,Kurt Zouma,4-3-3,4-2-3-1,Michael Salisbury,Match Report,,11,5,15.0,0.0,0,0,West Ham United,2024
+2023-12-10,14:00,Premier League,Matchweek 16,Sun,Away,L,0,5,Fulham,1.3,2.3,37,23988,Kurt Zouma,4-4-1-1,4-2-3-1,Paul Tierney,Match Report,,9,5,19.2,1.0,0,0,West Ham United,2024
+2023-12-17,14:00,Premier League,Matchweek 17,Sun,Home,W,3,0,Wolves,1.1,0.7,45,62455,Kurt Zouma,4-2-3-1,3-4-3,Chris Kavanagh,Match Report,,13,4,19.8,2.0,0,0,West Ham United,2024
+2023-12-23,12:30,Premier League,Matchweek 18,Sat,Home,W,2,0,Manchester Utd,1.2,1.0,35,64472,Kurt Zouma,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,12,5,13.8,0.0,0,0,West Ham United,2024
+2023-12-28,20:15,Premier League,Matchweek 19,Thu,Away,W,2,0,Arsenal,1.4,2.7,27,60261,Angelo Ogbonna,4-2-3-1,4-3-3,Michael Oliver,Match Report,,5,2,17.4,0.0,0,1,West Ham United,2024
+2024-01-02,19:30,Premier League,Matchweek 20,Tue,Home,D,0,0,Brighton,0.7,2.3,32,62462,Angelo Ogbonna,4-2-3-1,4-3-1-2,Samuel Barrott,Match Report,,6,2,16.0,0.0,0,0,West Ham United,2024
+2024-01-21,14:00,Premier League,Matchweek 21,Sun,Away,D,2,2,Sheffield Utd,2.3,2.5,43,29164,Kurt Zouma,4-4-1-1,4-1-4-1,Michael Salisbury,Match Report,,15,4,14.9,0.0,1,1,West Ham United,2024
+2024-02-01,19:30,Premier League,Matchweek 22,Thu,Home,D,1,1,Bournemouth,1.4,1.2,48,62478,Kurt Zouma,4-3-2-1,4-2-3-1,Tim Robinson,Match Report,,8,2,17.1,0.0,1,1,West Ham United,2024
+2024-02-04,14:00,Premier League,Matchweek 23,Sun,Away,L,0,3,Manchester Utd,1.4,0.7,49,73612,Kurt Zouma,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,22,3,18.9,1.0,0,0,West Ham United,2024
+2024-02-11,14:00,Premier League,Matchweek 24,Sun,Home,L,0,6,Arsenal,0.2,3.6,30,62475,Kurt Zouma,4-2-3-1,4-3-3,Craig Pawson,Match Report,,5,1,19.9,0.0,0,0,West Ham United,2024
+2024-02-17,15:00,Premier League,Matchweek 25,Sat,Away,L,0,2,Nott'ham Forest,0.5,2.8,51,29490,Kurt Zouma,4-2-3-1,4-2-3-1,Thomas Bramall,Match Report,,10,3,18.9,1.0,0,0,West Ham United,2024
+2024-02-26,20:00,Premier League,Matchweek 26,Mon,Home,W,4,2,Brentford,1.7,0.9,41,62450,Kurt Zouma,4-2-3-1,3-5-2,Simon Hooper,Match Report,,17,6,17.7,0.0,0,0,West Ham United,2024
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Away,W,3,1,Everton,1.9,2.7,45,39262,Kurt Zouma,4-2-3-1,4-4-1-1,Craig Pawson,Match Report,,12,5,14.2,0.0,0,0,West Ham United,2024
+2024-03-10,14:00,Premier League,Matchweek 28,Sun,Home,D,2,2,Burnley,2.1,0.7,52,62441,Tomáš Souček,4-2-3-1,4-4-2,Darren England,Match Report,,22,4,14.8,0.0,0,0,West Ham United,2024
+2024-03-17,14:00,Premier League,Matchweek 29,Sun,Home,D,1,1,Aston Villa,2.0,0.7,31,62461,Kurt Zouma,4-2-3-1,4-4-2,Jarred Gillett,Match Report,,13,4,15.9,1.0,0,0,West Ham United,2024
+2024-03-30,12:30,Premier League,Matchweek 30,Sat,Away,L,3,4,Newcastle Utd,1.4,4.1,40,52199,Kurt Zouma,4-2-3-1,4-3-3,Robert Jones,Match Report,,10,4,14.1,0.0,0,0,West Ham United,2024
+2024-04-02,20:15,Premier League,Matchweek 31,Tue,Home,D,1,1,Tottenham,1.5,1.0,33,62469,Kurt Zouma,4-5-1,4-2-3-1,John Brooks,Match Report,,11,4,16.6,1.0,0,0,West Ham United,2024
+2024-04-06,15:00,Premier League,Matchweek 32,Sat,Away,W,2,1,Wolves,1.2,1.5,42,31504,Kurt Zouma,4-2-3-1,3-4-3,Tony Harrington,Match Report,,10,3,24.6,2.0,1,1,West Ham United,2024
+2024-04-14,14:00,Premier League,Matchweek 33,Sun,Home,L,0,2,Fulham,0.9,3.2,58,62459,Łukasz Fabiański,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,15,4,16.2,0.0,0,0,West Ham United,2024
+2024-04-21,15:00,Premier League,Matchweek 34,Sun,Away,L,2,5,Crystal Palace,1.3,2.4,40,25145,Kurt Zouma,4-2-3-1,3-4-3,Graham Scott,Match Report,,4,1,10.8,0.0,0,0,West Ham United,2024
+2024-04-27,12:30,Premier League,Matchweek 35,Sat,Home,D,2,2,Liverpool,0.7,1.7,29,62474,Kurt Zouma,4-2-3-1,4-3-3,Anthony Taylor,Match Report,,11,8,17.0,0.0,0,0,West Ham United,2024
+2024-05-05,14:00,Premier League,Matchweek 36,Sun,Away,L,0,5,Chelsea,0.9,4.1,31,39295,Kurt Zouma,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,13,2,17.6,2.0,0,0,West Ham United,2024
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Home,W,3,1,Luton Town,3.2,0.3,58,62475,Kurt Zouma,4-2-3-1,3-4-3,Michael Oliver,Match Report,,24,8,16.5,1.0,0,0,West Ham United,2024
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Away,L,1,3,Manchester City,0.4,1.9,29,55097,Kurt Zouma,3-4-3,4-1-4-1,John Brooks,Match Report,,3,2,10.3,0.0,0,0,West Ham United,2024

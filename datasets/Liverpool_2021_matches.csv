@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2020-09-12,17:30,Premier League,Matchweek 1,Sat,Home,W,4,3,Leeds United,2.7,0.3,49,,Jordan Henderson,4-3-3,4-1-4-1,Michael Oliver,Match Report,,20,4,18.4,0.0,2,2,Liverpool,2021
+2020-09-20,16:30,Premier League,Matchweek 2,Sun,Away,W,2,0,Chelsea,2.1,0.9,61,,Jordan Henderson,4-3-3,4-3-3,Paul Tierney,Match Report,,18,5,18.2,1.0,0,0,Liverpool,2021
+2020-09-28,20:00,Premier League,Matchweek 3,Mon,Home,W,3,1,Arsenal,2.7,1.3,66,,Virgil van Dijk,4-3-3,3-4-3,Craig Pawson,Match Report,,21,8,17.9,0.0,0,0,Liverpool,2021
+2020-10-04,19:15,Premier League,Matchweek 4,Sun,Away,L,2,7,Aston Villa,1.8,2.7,69,,Virgil van Dijk,4-3-3,4-2-3-1,Martin Atkinson,Match Report,,14,8,16.3,1.0,0,0,Liverpool,2021
+2020-10-17,12:30,Premier League,Matchweek 5,Sat,Away,D,2,2,Everton,2.6,1.2,58,,Jordan Henderson,4-3-3,4-3-3,Michael Oliver,Match Report,,22,8,16.0,2.0,0,0,Liverpool,2021
+2020-10-24,20:00,Premier League,Matchweek 6,Sat,Home,W,2,1,Sheffield Utd,2.3,1.6,62,,Jordan Henderson,4-2-3-1,3-5-2,Mike Dean,Match Report,,17,5,18.8,1.0,0,0,Liverpool,2021
+2020-10-31,17:30,Premier League,Matchweek 7,Sat,Home,W,2,1,West Ham,1.7,0.3,72,,Jordan Henderson,4-3-3,5-4-1,Kevin Friend,Match Report,,8,4,20.0,1.0,1,1,Liverpool,2021
+2020-11-08,16:30,Premier League,Matchweek 8,Sun,Away,D,1,1,Manchester City,1.2,1.4,46,,Jordan Henderson,4-2-3-1,4-2-3-1,Craig Pawson,Match Report,,9,2,22.1,1.0,1,1,Liverpool,2021
+2020-11-22,19:15,Premier League,Matchweek 9,Sun,Home,W,3,0,Leicester City,3.1,1.6,56,,James Milner,4-3-3,3-4-3,Chris Kavanagh,Match Report,,24,11,12.7,0.0,0,0,Liverpool,2021
+2020-11-28,12:30,Premier League,Matchweek 10,Sat,Away,D,1,1,Brighton,0.2,2.3,60,,James Milner,4-3-3,3-4-1-2,Stuart Attwell,Match Report,,6,2,21.1,0.0,0,0,Liverpool,2021
+2020-12-06,19:15,Premier League,Matchweek 11,Sun,Home,W,4,0,Wolves,1.2,0.4,60,2000.0,Jordan Henderson,4-3-3,4-3-3,Craig Pawson,Match Report,,11,6,17.2,1.0,0,0,Liverpool,2021
+2020-12-13,16:30,Premier League,Matchweek 12,Sun,Away,D,1,1,Fulham,1.8,1.5,74,2000.0,Jordan Henderson,4-3-3,3-4-3,Andre Marriner,Match Report,,11,5,21.7,1.0,1,1,Liverpool,2021
+2020-12-16,20:00,Premier League,Matchweek 13,Wed,Home,W,2,1,Tottenham,1.0,1.1,75,2000.0,Jordan Henderson,4-3-3,4-4-2,Anthony Taylor,Match Report,,17,11,16.4,0.0,0,0,Liverpool,2021
+2020-12-19,12:30,Premier League,Matchweek 14,Sat,Away,W,7,0,Crystal Palace,2.5,0.3,64,,Jordan Henderson,4-3-3,4-4-2,Jonathan Moss,Match Report,,14,7,14.1,1.0,0,0,Liverpool,2021
+2020-12-27,16:30,Premier League,Matchweek 15,Sun,Home,D,1,1,West Brom,1.5,0.6,77,2000.0,Jordan Henderson,4-3-3,4-5-1,Kevin Friend,Match Report,,17,2,19.2,2.0,0,0,Liverpool,2021
+2020-12-30,20:00,Premier League,Matchweek 16,Wed,Away,D,0,0,Newcastle Utd,1.4,0.5,72,,Jordan Henderson,4-3-3,5-4-1,Paul Tierney,Match Report,,11,4,18.3,0.0,0,0,Liverpool,2021
+2021-01-04,20:00,Premier League,Matchweek 17,Mon,Away,L,0,1,Southampton,1.5,0.4,66,,Jordan Henderson,4-3-3,4-4-2,Andre Marriner,Match Report,,17,1,15.7,0.0,0,0,Liverpool,2021
+2021-01-17,16:30,Premier League,Matchweek 19,Sun,Home,D,0,0,Manchester Utd,1.2,1.1,65,,Jordan Henderson,4-3-3,4-2-3-1,Paul Tierney,Match Report,,17,3,17.9,0.0,0,0,Liverpool,2021
+2021-01-21,20:00,Premier League,Matchweek 18,Thu,Home,L,0,1,Burnley,1.6,1.1,72,,Georginio Wijnaldum,4-3-3,4-4-2,Mike Dean,Match Report,,27,6,18.6,0.0,0,0,Liverpool,2021
+2021-01-28,20:00,Premier League,Matchweek 20,Thu,Away,W,3,1,Tottenham,2.5,0.1,50,,Jordan Henderson,4-3-3,3-4-3,Martin Atkinson,Match Report,,14,7,15.5,0.0,0,0,Liverpool,2021
+2021-01-31,16:30,Premier League,Matchweek 21,Sun,Away,W,3,1,West Ham,2.0,0.8,67,,Jordan Henderson,4-3-1-2,4-2-3-1,Jonathan Moss,Match Report,,14,5,15.7,0.0,0,0,Liverpool,2021
+2021-02-03,20:15,Premier League,Matchweek 22,Wed,Home,L,0,1,Brighton,1.0,1.3,63,,Jordan Henderson,4-3-3,3-5-2,Kevin Friend,Match Report,,11,1,20.9,0.0,0,0,Liverpool,2021
+2021-02-07,16:30,Premier League,Matchweek 23,Sun,Home,L,1,4,Manchester City,1.2,3.5,56,,Jordan Henderson,4-3-3,4-3-3,Michael Oliver,Match Report,,7,2,19.4,1.0,1,1,Liverpool,2021
+2021-02-13,12:30,Premier League,Matchweek 24,Sat,Away,L,1,3,Leicester City,1.7,1.9,62,,Jordan Henderson,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,15,4,15.4,2.0,0,0,Liverpool,2021
+2021-02-20,17:30,Premier League,Matchweek 25,Sat,Home,L,0,2,Everton,1.4,1.6,71,,Jordan Henderson,4-3-3,5-3-2,Chris Kavanagh,Match Report,,15,6,17.1,1.0,0,0,Liverpool,2021
+2021-02-28,19:15,Premier League,Matchweek 26,Sun,Away,W,2,0,Sheffield Utd,2.7,0.7,60,,Georginio Wijnaldum,4-3-3,3-5-2,Jonathan Moss,Match Report,,16,8,13.9,0.0,0,0,Liverpool,2021
+2021-03-04,20:15,Premier League,Matchweek 29,Thu,Home,L,0,1,Chelsea,0.3,1.0,54,,Georginio Wijnaldum,4-3-3,3-4-3,Martin Atkinson,Match Report,,7,1,19.7,0.0,0,0,Liverpool,2021
+2021-03-07,14:00,Premier League,Matchweek 27,Sun,Home,L,0,1,Fulham,0.9,1.3,63,,James Milner,4-3-3,4-4-2,Kevin Friend,Match Report,,16,3,17.3,1.0,0,0,Liverpool,2021
+2021-03-15,20:00,Premier League,Matchweek 28,Mon,Away,W,1,0,Wolves,0.9,1.1,47,,Georginio Wijnaldum,4-3-3,3-4-1-2,Craig Pawson,Match Report,,12,4,16.2,0.0,0,0,Liverpool,2021
+2021-04-03,20:00,Premier League,Matchweek 30,Sat,Away,W,3,0,Arsenal,2.4,0.1,64,,James Milner,4-3-3,4-2-3-1,Stuart Attwell,Match Report,,16,7,18.2,0.0,0,0,Liverpool,2021
+2021-04-10,15:00,Premier League,Matchweek 31,Sat,Home,W,2,1,Aston Villa,2.3,0.5,65,,James Milner,4-3-3,4-3-3,Paul Tierney,Match Report,,23,10,16.7,1.0,0,0,Liverpool,2021
+2021-04-19,20:00,Premier League,Matchweek 32,Mon,Away,D,1,1,Leeds United,1.4,2.3,39,,James Milner,4-3-3,4-1-4-1,Anthony Taylor,Match Report,,17,7,17.1,0.0,0,0,Liverpool,2021
+2021-04-24,12:30,Premier League,Matchweek 33,Sat,Home,D,1,1,Newcastle Utd,2.4,1.0,68,,Georginio Wijnaldum,4-4-2,5-3-2,Andre Marriner,Match Report,,22,9,17.6,1.0,0,0,Liverpool,2021
+2021-05-08,20:15,Premier League,Matchweek 35,Sat,Home,W,2,0,Southampton,1.7,1.1,54,,Georginio Wijnaldum,4-3-3,4-4-2,Kevin Friend,Match Report,,14,6,13.6,0.0,0,0,Liverpool,2021
+2021-05-13,20:15,Premier League,Matchweek 34,Thu,Away,W,4,2,Manchester Utd,2.7,1.9,47,,Georginio Wijnaldum,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,17,8,14.9,0.0,0,0,Liverpool,2021
+2021-05-16,16:30,Premier League,Matchweek 36,Sun,Away,W,2,1,West Brom,1.9,1.0,76,,Roberto Firmino,4-3-3,4-4-1-1,Mike Dean,Match Report,,26,6,18.3,1.0,0,0,Liverpool,2021
+2021-05-19,20:15,Premier League,Matchweek 37,Wed,Away,W,3,0,Burnley,2.6,0.8,59,3387.0,Georginio Wijnaldum,4-3-3,4-4-1-1,Chris Kavanagh,Match Report,,20,3,16.2,1.0,0,0,Liverpool,2021
+2021-05-23,16:00,Premier League,Matchweek 38,Sun,Home,W,2,0,Crystal Palace,1.6,0.6,69,9901.0,Georginio Wijnaldum,4-3-3,4-3-3,Craig Pawson,Match Report,,19,5,14.7,1.0,0,0,Liverpool,2021

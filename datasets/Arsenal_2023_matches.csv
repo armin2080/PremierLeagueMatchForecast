@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2022-08-05,20:00,Premier League,Matchweek 1,Fri,Away,W,2,0,Crystal Palace,1.0,1.2,44,25286,Martin Ødegaard,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,10,2,14.6,1.0,0,0,Arsenal,2023
+2022-08-13,15:00,Premier League,Matchweek 2,Sat,Home,W,4,2,Leicester City,2.7,0.5,50,60033,Martin Ødegaard,4-3-3,3-5-1-1,Darren England,Match Report,,19,7,13.0,0.0,0,0,Arsenal,2023
+2022-08-20,17:30,Premier League,Matchweek 3,Sat,Away,W,3,0,Bournemouth,1.3,0.3,57,10423,Martin Ødegaard,4-3-3,3-1-4-2,Craig Pawson,Match Report,,14,6,14.8,0.0,0,0,Arsenal,2023
+2022-08-27,17:30,Premier League,Matchweek 4,Sat,Home,W,2,1,Fulham,2.6,0.8,71,60164,Martin Ødegaard,4-3-3,4-2-3-1,Jarred Gillett,Match Report,,22,8,15.5,1.0,0,0,Arsenal,2023
+2022-08-31,19:30,Premier League,Matchweek 5,Wed,Home,W,2,1,Aston Villa,2.4,0.4,59,60012,Martin Ødegaard,4-3-3,4-3-3,Robert Jones,Match Report,,22,8,16.3,1.0,0,0,Arsenal,2023
+2022-09-04,16:30,Premier League,Matchweek 6,Sun,Away,L,1,3,Manchester Utd,1.3,1.5,60,73431,Martin Ødegaard,4-3-3,4-2-3-1,Paul Tierney,Match Report,,16,3,18.6,1.0,0,0,Arsenal,2023
+2022-09-18,12:00,Premier League,Matchweek 8,Sun,Away,W,3,0,Brentford,1.5,0.5,63,17122,Granit Xhaka,4-3-3,3-5-2,David Coote,Match Report,,13,7,18.2,0.0,0,0,Arsenal,2023
+2022-10-01,12:30,Premier League,Matchweek 9,Sat,Home,W,3,1,Tottenham,2.4,1.6,64,60278,Martin Ødegaard,4-3-3,3-4-3,Anthony Taylor,Match Report,,22,9,18.6,1.0,0,0,Arsenal,2023
+2022-10-09,16:30,Premier League,Matchweek 10,Sun,Home,W,3,2,Liverpool,2.7,1.1,43,60059,Martin Ødegaard,4-3-3,4-2-3-1,Michael Oliver,Match Report,,10,6,14.3,0.0,1,1,Arsenal,2023
+2022-10-16,14:00,Premier League,Matchweek 11,Sun,Away,W,1,0,Leeds United,0.5,1.8,53,36700,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,9,4,16.6,1.0,0,0,Arsenal,2023
+2022-10-23,14:00,Premier League,Matchweek 13,Sun,Away,D,1,1,Southampton,1.0,0.7,59,31145,Martin Ødegaard,4-3-3,4-4-2,Robert Jones,Match Report,,12,3,17.2,0.0,0,0,Arsenal,2023
+2022-10-30,14:00,Premier League,Matchweek 14,Sun,Home,W,5,0,Nott'ham Forest,2.3,0.4,69,60263,Martin Ødegaard,4-3-3,4-3-3,Simon Hooper,Match Report,,24,9,16.0,1.0,0,0,Arsenal,2023
+2022-11-06,12:00,Premier League,Matchweek 15,Sun,Away,W,1,0,Chelsea,2.1,0.3,55,40142,Martin Ødegaard,4-3-3,4-2-3-1,Michael Oliver,Match Report,,14,2,14.5,0.0,0,0,Arsenal,2023
+2022-11-12,19:45,Premier League,Matchweek 16,Sat,Away,W,2,0,Wolves,2.1,0.7,62,34624,Martin Ødegaard,4-3-3,5-3-2,Stuart Attwell,Match Report,,14,3,13.7,0.0,0,0,Arsenal,2023
+2022-12-26,20:00,Premier League,Matchweek 17,Mon,Home,W,3,1,West Ham,2.1,1.0,66,60125,Martin Ødegaard,4-3-3,4-2-3-1,Michael Oliver,Match Report,,16,5,18.2,1.0,0,0,Arsenal,2023
+2022-12-31,17:30,Premier League,Matchweek 18,Sat,Away,W,4,2,Brighton,2.9,1.2,32,31647,Martin Ødegaard,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,14,7,11.2,0.0,0,0,Arsenal,2023
+2023-01-03,19:45,Premier League,Matchweek 19,Tue,Home,D,0,0,Newcastle Utd,1.1,1.0,66,60319,Martin Ødegaard,4-3-3,4-3-3,Andy Madley,Match Report,,17,4,17.0,0.0,0,0,Arsenal,2023
+2023-01-15,16:30,Premier League,Matchweek 20,Sun,Away,W,2,0,Tottenham,1.8,1.6,49,61870,Martin Ødegaard,4-3-3,3-4-3,Craig Pawson,Match Report,,14,5,17.9,2.0,0,0,Arsenal,2023
+2023-01-22,16:30,Premier League,Matchweek 21,Sun,Home,W,3,2,Manchester Utd,3.1,0.4,57,60325,Martin Ødegaard,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,25,5,14.2,0.0,0,0,Arsenal,2023
+2023-02-04,12:30,Premier League,Matchweek 22,Sat,Away,L,0,1,Everton,0.9,1.7,70,39314,Martin Ødegaard,4-3-3,4-5-1,David Coote,Match Report,,15,2,17.6,0.0,0,0,Arsenal,2023
+2023-02-11,15:00,Premier League,Matchweek 23,Sat,Home,D,1,1,Brentford,1.6,2.0,69,60254,Martin Ødegaard,4-3-3,3-5-2,Peter Bankes,Match Report,,23,7,19.6,0.0,0,0,Arsenal,2023
+2023-02-15,19:30,Premier League,Matchweek 12,Wed,Home,L,1,3,Manchester City,1.6,1.8,63,60276,Martin Ødegaard,4-3-3,4-1-4-1,Anthony Taylor,Match Report,,9,0,19.2,0.0,1,1,Arsenal,2023
+2023-02-18,12:30,Premier League,Matchweek 24,Sat,Away,W,4,2,Aston Villa,3.2,0.5,67,42066,Martin Ødegaard,4-3-3,4-4-2,Simon Hooper,Match Report,,20,5,15.7,0.0,0,0,Arsenal,2023
+2023-02-25,15:00,Premier League,Matchweek 25,Sat,Away,W,1,0,Leicester City,0.7,0.0,65,32227,Oleksandr Zinchenko,4-3-3,4-3-3,Craig Pawson,Match Report,,10,2,19.4,1.0,0,0,Arsenal,2023
+2023-03-01,19:45,Premier League,Matchweek 7,Wed,Home,W,4,0,Everton,2.4,1.2,73,60213,Martin Ødegaard,4-3-3,4-5-1,Michael Oliver,Match Report,,15,5,12.9,0.0,0,0,Arsenal,2023
+2023-03-04,15:00,Premier League,Matchweek 26,Sat,Home,W,3,2,Bournemouth,2.1,1.3,79,60222,Martin Ødegaard,4-3-3,5-4-1,Chris Kavanagh,Match Report,,31,9,18.1,2.0,0,0,Arsenal,2023
+2023-03-12,14:00,Premier League,Matchweek 27,Sun,Away,W,3,0,Fulham,2.3,0.8,55,24426,Martin Ødegaard,4-3-3,4-2-3-1,David Coote,Match Report,,15,7,15.2,1.0,0,0,Arsenal,2023
+2023-03-19,14:00,Premier League,Matchweek 28,Sun,Home,W,4,1,Crystal Palace,1.6,0.8,62,60247,Martin Ødegaard,4-3-3,4-2-3-1,Stuart Attwell,Match Report,,15,5,16.4,0.0,0,0,Arsenal,2023
+2023-04-01,15:00,Premier League,Matchweek 29,Sat,Home,W,4,1,Leeds United,3.8,0.7,66,60283,Martin Ødegaard,4-3-3,4-3-3,Darren England,Match Report,,12,4,13.9,0.0,1,1,Arsenal,2023
+2023-04-09,16:30,Premier League,Matchweek 30,Sun,Away,D,2,2,Liverpool,1.4,3.9,41,53267,Martin Ødegaard,4-3-3,4-3-3,Paul Tierney,Match Report,,9,5,15.7,0.0,0,0,Arsenal,2023
+2023-04-16,14:00,Premier League,Matchweek 31,Sun,Away,D,2,2,West Ham,2.7,1.8,70,62481,Martin Ødegaard,4-3-3,4-3-3,David Coote,Match Report,,10,5,13.9,0.0,0,1,Arsenal,2023
+2023-04-21,20:00,Premier League,Matchweek 32,Fri,Home,D,3,3,Southampton,2.4,1.3,74,60175,Martin Ødegaard,4-3-3,4-4-2,Simon Hooper,Match Report,,25,5,15.3,0.0,0,0,Arsenal,2023
+2023-04-26,20:00,Premier League,Matchweek 33,Wed,Away,L,1,4,Manchester City,0.5,2.5,48,53482,Martin Ødegaard,4-3-3,4-3-3,Michael Oliver,Match Report,,8,2,18.0,1.0,0,0,Arsenal,2023
+2023-05-02,20:00,Premier League,Matchweek 34,Tue,Home,W,3,1,Chelsea,1.7,0.8,55,60144,Martin Ødegaard,4-3-3,4-3-3,Robert Jones,Match Report,,16,9,13.0,0.0,0,0,Arsenal,2023
+2023-05-07,16:30,Premier League,Matchweek 35,Sun,Away,W,2,0,Newcastle Utd,1.3,1.3,45,50267,Martin Ødegaard,4-3-3,4-3-3,Chris Kavanagh,Match Report,,10,6,16.6,0.0,0,0,Arsenal,2023
+2023-05-14,16:30,Premier League,Matchweek 36,Sun,Home,L,0,3,Brighton,0.9,1.7,41,60139,Martin Ødegaard,4-3-3,4-2-3-1,Andy Madley,Match Report,,14,2,16.4,0.0,0,0,Arsenal,2023
+2023-05-20,17:30,Premier League,Matchweek 37,Sat,Away,L,0,1,Nott'ham Forest,0.6,0.6,81,29514,Martin Ødegaard,4-3-3,3-4-3,Anthony Taylor,Match Report,,11,3,16.4,0.0,0,0,Arsenal,2023
+2023-05-28,16:30,Premier League,Matchweek 38,Sun,Home,W,5,0,Wolves,2.8,0.5,51,60095,Martin Ødegaard,4-3-3,4-3-3,Andre Marriner,Match Report,,14,8,13.7,1.0,0,0,Arsenal,2023

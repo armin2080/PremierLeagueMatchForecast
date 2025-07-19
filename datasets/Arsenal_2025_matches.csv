@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2024-08-17,15:00,Premier League,Matchweek 1,Sat,Home,W,2,0,Wolves,1.2,0.5,53.0,60261.0,Martin Ødegaard,4-3-3,4-2-3-1,Jarred Gillett,Match Report,,18.0,6.0,17.3,0.0,0,0,Arsenal,2025
+2024-08-24,17:30,Premier League,Matchweek 2,Sat,Away,W,2,0,Aston Villa,0.9,1.2,60.0,41587.0,Martin Ødegaard,4-3-3,4-4-2,Michael Oliver,Match Report,,9.0,4.0,18.8,0.0,0,0,Arsenal,2025
+2024-08-31,12:30,Premier League,Matchweek 3,Sat,Home,D,1,1,Brighton,2.1,1.7,36.0,60326.0,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,11.0,7.0,12.9,0.0,0,0,Arsenal,2025
+2024-09-15,14:00,Premier League,Matchweek 4,Sun,Away,W,1,0,Tottenham,0.7,0.7,37.0,61645.0,Jorginho,4-4-2,4-3-3,Jarred Gillett,Match Report,,7.0,4.0,12.1,0.0,0,0,Arsenal,2025
+2024-09-22,16:30,Premier League,Matchweek 5,Sun,Away,D,2,2,Manchester City,0.7,2.1,23.0,52846.0,Bukayo Saka,4-4-2,4-3-3,Michael Oliver,Match Report,,5.0,3.0,11.3,0.0,0,0,Arsenal,2025
+2024-09-28,15:00,Premier League,Matchweek 6,Sat,Home,W,4,2,Leicester City,4.4,0.3,74.0,60323.0,Bukayo Saka,4-4-2,4-2-3-1,Samuel Barrott,Match Report,,35.0,16.0,14.1,0.0,0,0,Arsenal,2025
+2024-10-05,15:00,Premier League,Matchweek 7,Sat,Home,W,3,1,Southampton,2.8,0.6,59.0,60307.0,Jorginho,4-4-2,5-4-1,Tony Harrington,Match Report,,29.0,6.0,14.6,0.0,0,0,Arsenal,2025
+2024-10-19,17:30,Premier League,Matchweek 8,Sat,Away,L,0,2,Bournemouth,0.7,1.8,51.0,11235.0,Gabriel Magalhães,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,6.0,1.0,15.1,0.0,0,0,Arsenal,2025
+2024-10-27,16:30,Premier League,Matchweek 9,Sun,Home,D,2,2,Liverpool,0.9,0.8,45.0,60383.0,Bukayo Saka,4-4-2,4-2-3-1,Anthony Taylor,Match Report,,9.0,3.0,14.1,0.0,0,0,Arsenal,2025
+2024-11-02,12:30,Premier League,Matchweek 10,Sat,Away,L,0,1,Newcastle Utd,1.1,0.5,63.0,52249.0,Bukayo Saka,4-4-2,4-3-3,John Brooks,Match Report,,10.0,0.0,14.9,0.0,0,0,Arsenal,2025
+2024-11-10,16:30,Premier League,Matchweek 11,Sun,Away,D,1,1,Chelsea,1.5,1.5,51.0,39780.0,Martin Ødegaard,4-3-3,4-2-3-1,Michael Oliver,Match Report,,13.0,3.0,16.3,0.0,0,0,Arsenal,2025
+2024-11-23,15:00,Premier League,Matchweek 12,Sat,Home,W,3,0,Nott'ham Forest,1.2,0.3,66.0,60298.0,Martin Ødegaard,4-3-3,4-2-3-1,Simon Hooper,Match Report,,19.0,6.0,17.7,0.0,0,0,Arsenal,2025
+2024-11-30,17:30,Premier League,Matchweek 13,Sat,Away,W,5,2,West Ham,3.5,1.5,60.0,62475.0,Martin Ødegaard,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,14.0,5.0,15.4,1.0,2,2,Arsenal,2025
+2024-12-04,20:15,Premier League,Matchweek 14,Wed,Home,W,2,0,Manchester Utd,2.1,0.2,51.0,60256.0,Martin Ødegaard,4-3-3,3-4-3,Samuel Barrott,Match Report,,14.0,6.0,11.0,0.0,0,0,Arsenal,2025
+2024-12-08,14:00,Premier League,Matchweek 15,Sun,Away,D,1,1,Fulham,1.8,0.2,66.0,26954.0,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,12.0,4.0,12.2,0.0,0,0,Arsenal,2025
+2024-12-14,15:00,Premier League,Matchweek 16,Sat,Home,D,0,0,Everton,1.2,0.1,76.0,60176.0,Martin Ødegaard,4-3-3,4-3-3,Craig Pawson,Match Report,,13.0,5.0,13.0,0.0,0,0,Arsenal,2025
+2024-12-21,17:30,Premier League,Matchweek 17,Sat,Away,W,5,1,Crystal Palace,2.5,1.6,58.0,25167.0,Martin Ødegaard,4-3-3,3-4-3,Simon Hooper,Match Report,,14.0,6.0,11.5,0.0,0,0,Arsenal,2025
+2024-12-27,20:15,Premier League,Matchweek 18,Fri,Home,W,1,0,Ipswich Town,1.8,0.2,68.0,60271.0,Martin Ødegaard,4-3-3,5-4-1,Darren England,Match Report,,13.0,5.0,15.7,1.0,0,0,Arsenal,2025
+2025-01-01,17:30,Premier League,Matchweek 19,Wed,Away,W,3,1,Brentford,1.9,0.3,50.0,47190.0,Martin Ødegaard,4-3-3,4-3-1-2,Peter Bankes,Match Report,,14.0,4.0,14.7,0.0,0,0,Arsenal,2025
+2025-01-04,17:30,Premier League,Matchweek 20,Sat,Away,D,1,1,Brighton,0.9,1.5,55.0,31714.0,Jorginho,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,9.0,3.0,15.3,0.0,0,0,Arsenal,2025
+2025-01-15,20:00,Premier League,Matchweek 21,Wed,Home,W,2,1,Tottenham,1.4,0.8,53.0,60287.0,Martin Ødegaard,4-3-3,4-3-3,Simon Hooper,Match Report,,14.0,4.0,15.2,0.0,0,0,Arsenal,2025
+2025-01-18,17:30,Premier League,Matchweek 22,Sat,Home,D,2,2,Aston Villa,1.3,1.0,66.0,60067.0,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,18.0,6.0,15.5,0.0,0,0,Arsenal,2025
+2025-01-25,15:00,Premier League,Matchweek 23,Sat,Away,W,1,0,Wolves,1.0,0.7,49.0,31503.0,Gabriel Magalhães,4-3-3,3-4-3,Michael Oliver,Match Report,,9.0,3.0,14.8,1.0,0,0,Arsenal,2025
+2025-02-02,16:30,Premier League,Matchweek 24,Sun,Home,W,5,1,Manchester City,1.0,0.8,46.0,60355.0,Martin Ødegaard,4-3-3,4-2-3-1,Peter Bankes,Match Report,,12.0,7.0,15.8,0.0,0,0,Arsenal,2025
+2025-02-15,12:30,Premier League,Matchweek 25,Sat,Away,W,2,0,Leicester City,1.4,0.2,60.0,31968.0,Martin Ødegaard,4-3-3,4-2-3-1,Samuel Barrott,Match Report,,11.0,5.0,17.1,0.0,0,0,Arsenal,2025
+2025-02-22,15:00,Premier League,Matchweek 26,Sat,Home,L,0,1,West Ham,1.2,1.1,68.0,60262.0,Martin Ødegaard,4-3-3,5-3-2,Craig Pawson,Match Report,,20.0,2.0,16.2,1.0,0,0,Arsenal,2025
+2025-02-26,19:30,Premier League,Matchweek 27,Wed,Away,D,0,0,Nott'ham Forest,1.0,0.4,64.0,30200.0,Martin Ødegaard,4-3-3,4-2-3-1,Andy Madley,Match Report,,13.0,1.0,14.1,0.0,0,0,Arsenal,2025
+2025-03-09,16:30,Premier League,Matchweek 28,Sun,Away,D,1,1,Manchester Utd,1.6,1.5,68.0,73812.0,Martin Ødegaard,4-3-3,3-4-3,Anthony Taylor,Match Report,,17.0,6.0,19.6,1.0,0,0,Arsenal,2025
+2025-03-16,13:30,Premier League,Matchweek 29,Sun,Home,W,1,0,Chelsea,0.7,0.4,42.0,60311.0,Martin Ødegaard,4-3-3,4-2-3-1,Chris Kavanagh,Match Report,,12.0,4.0,16.2,1.0,0,0,Arsenal,2025
+2025-04-01,19:45,Premier League,Matchweek 30,Tue,Home,W,2,1,Fulham,2.2,1.0,51.0,60256.0,Martin Ødegaard,4-3-3,3-4-3,John Brooks,Match Report,,17.0,4.0,12.0,0.0,0,0,Arsenal,2025
+2025-04-05,12:30,Premier League,Matchweek 31,Sat,Away,D,1,1,Everton,1.8,1.1,69.0,39316.0,Jorginho,4-3-3,4-2-3-1,Darren England,Match Report,,14.0,4.0,13.3,2.0,0,0,Arsenal,2025
+2025-04-12,17:30,Premier League,Matchweek 32,Sat,Home,D,1,1,Brentford,1.0,0.2,63.0,60184.0,Jorginho,4-3-3,4-4-2,Simon Hooper,Match Report,,14.0,3.0,18.3,0.0,0,0,Arsenal,2025
+2025-04-20,14:00,Premier League,Matchweek 33,Sun,Away,W,4,0,Ipswich Town,2.4,0.2,75.0,29549.0,Martin Ødegaard,4-3-3,4-4-1-1,Chris Kavanagh,Match Report,,24.0,7.0,15.2,1.0,0,0,Arsenal,2025
+2025-04-23,20:00,Premier League,Matchweek 34,Wed,Home,D,2,2,Crystal Palace,1.2,1.7,67.0,60167.0,Martin Ødegaard,4-3-3,3-4-3,Michael Salisbury,Match Report,,12.0,4.0,15.0,0.0,0,0,Arsenal,2025
+2025-05-03,17:30,Premier League,Matchweek 35,Sat,Home,L,1,2,Bournemouth,1.4,0.9,51.0,60110.0,Martin Ødegaard,4-3-3,4-2-3-1,Jarred Gillett,Match Report,,13.0,4.0,14.1,1.0,0,0,Arsenal,2025
+2025-05-11,16:30,Premier League,Matchweek 36,Sun,Away,D,2,2,Liverpool,2.6,2.4,55.0,60324.0,Martin Ødegaard,4-3-3,4-2-3-1,Anthony Taylor,Match Report,,15.0,6.0,15.5,0.0,0,0,Arsenal,2025
+2025-05-18,16:30,Premier League,Matchweek 37,Sun,Home,W,1,0,Newcastle Utd,0.6,1.5,51.0,60160.0,Martin Ødegaard,4-3-3,3-4-3,Simon Hooper,Match Report,,12.0,4.0,18.1,0.0,0,0,Arsenal,2025
+2025-05-25,16:00,Premier League,Matchweek 38,Sun,Away,W,2,1,Southampton,2.3,0.6,62.0,31289.0,Declan Rice,4-2-3-1,5-4-1,Darren Bond,Match Report,,23.0,7.0,15.9,0.0,0,0,Arsenal,2025

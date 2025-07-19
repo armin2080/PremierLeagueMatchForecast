@@ -1,0 +1,39 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Opp Formation,Referee,Match Report,Notes,Sh,SoT,Dist,FK,PK,PKatt,Team,Season
+2023-08-13,14:00,Premier League,Matchweek 1,Sun,Away,D,2,2,Brentford,1.3,2.2,69,17066,Son Heung-min,4-2-3-1,5-3-2,Robert Jones,Match Report,,18,6,19.6,0.0,0,0,Tottenham Hotspur,2024
+2023-08-19,17:30,Premier League,Matchweek 2,Sat,Home,W,2,0,Manchester Utd,1.7,2.1,55,61910,Son Heung-min,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,17,6,13.8,0.0,0,0,Tottenham Hotspur,2024
+2023-08-26,12:30,Premier League,Matchweek 3,Sat,Away,W,2,0,Bournemouth,2.1,0.7,56,10567,Son Heung-min,4-2-3-1,4-2-3-1,Tim Robinson,Match Report,,17,6,16.6,1.0,0,0,Tottenham Hotspur,2024
+2023-09-02,15:00,Premier League,Matchweek 4,Sat,Away,W,5,2,Burnley,2.2,1.3,53,21750,Son Heung-min,4-2-3-1,4-4-2,Darren England,Match Report,,21,11,19.3,0.0,0,0,Tottenham Hotspur,2024
+2023-09-16,15:00,Premier League,Matchweek 5,Sat,Home,W,2,1,Sheffield Utd,2.1,0.7,70,61706,Son Heung-min,4-2-3-1,3-5-2,Peter Bankes,Match Report,,28,10,16.4,0.0,0,0,Tottenham Hotspur,2024
+2023-09-24,14:00,Premier League,Matchweek 6,Sun,Away,D,2,2,Arsenal,1.4,1.8,53,60156,Son Heung-min,4-2-3-1,4-3-3,Robert Jones,Match Report,,13,5,16.0,0.0,0,0,Tottenham Hotspur,2024
+2023-09-30,17:30,Premier League,Matchweek 7,Sat,Home,W,2,1,Liverpool,2.2,1.3,64,62001,Son Heung-min,4-2-3-1,4-3-3,Simon Hooper,Match Report,,24,8,19.8,0.0,0,0,Tottenham Hotspur,2024
+2023-10-07,12:30,Premier League,Matchweek 8,Sat,Away,W,1,0,Luton Town,1.9,0.8,66,10290,Son Heung-min,4-2-3-1,4-4-2,John Brooks,Match Report,,15,4,16.9,1.0,0,0,Tottenham Hotspur,2024
+2023-10-23,20:00,Premier League,Matchweek 9,Mon,Home,W,2,0,Fulham,1.5,1.0,55,61286,Son Heung-min,4-2-3-1,4-2-3-1,Anthony Taylor,Match Report,,15,5,17.2,0.0,0,0,Tottenham Hotspur,2024
+2023-10-27,20:00,Premier League,Matchweek 10,Fri,Away,W,2,1,Crystal Palace,1.1,0.6,75,25074,Son Heung-min,4-2-3-1,4-2-3-1,Andy Madley,Match Report,,10,1,19.5,1.0,0,0,Tottenham Hotspur,2024
+2023-11-06,20:00,Premier League,Matchweek 11,Mon,Home,L,1,4,Chelsea,0.9,4.1,40,61726,Son Heung-min,4-2-3-1,4-2-3-1,Michael Oliver,Match Report,,8,5,23.5,1.0,0,0,Tottenham Hotspur,2024
+2023-11-11,12:30,Premier League,Matchweek 12,Sat,Away,L,1,2,Wolves,0.7,2.1,58,31642,Son Heung-min,4-3-3,3-5-2,Tim Robinson,Match Report,,6,2,17.5,0.0,0,0,Tottenham Hotspur,2024
+2023-11-26,14:00,Premier League,Matchweek 13,Sun,Home,L,1,2,Aston Villa,2.3,1.7,62,61679,Son Heung-min,4-2-3-1,4-4-2,Robert Jones,Match Report,,18,7,14.0,0.0,0,0,Tottenham Hotspur,2024
+2023-12-03,16:30,Premier League,Matchweek 14,Sun,Away,D,3,3,Manchester City,0.5,2.6,45,53473,Son Heung-min,4-2-3-1,3-2-4-1,Simon Hooper,Match Report,,8,4,20.7,0.0,0,0,Tottenham Hotspur,2024
+2023-12-07,20:15,Premier League,Matchweek 15,Thu,Home,L,1,2,West Ham,1.8,2.2,74,61171,Son Heung-min,4-2-3-1,4-3-3,Michael Salisbury,Match Report,,23,6,17.1,1.0,0,0,Tottenham Hotspur,2024
+2023-12-10,16:30,Premier League,Matchweek 16,Sun,Home,W,4,1,Newcastle Utd,3.8,1.7,56,61171,Son Heung-min,4-2-3-1,4-3-3,Chris Kavanagh,Match Report,,22,10,15.5,0.0,1,1,Tottenham Hotspur,2024
+2023-12-15,20:00,Premier League,Matchweek 17,Fri,Away,W,2,0,Nott'ham Forest,1.5,1.3,66,29296,Son Heung-min,4-2-3-1,3-5-2,Jarred Gillett,Match Report,,12,6,12.5,0.0,0,0,Tottenham Hotspur,2024
+2023-12-23,15:00,Premier League,Matchweek 18,Sat,Home,W,2,1,Everton,1.5,1.8,61,61808,Son Heung-min,4-2-3-1,4-2-3-1,Stuart Attwell,Match Report,,13,6,15.1,0.0,0,0,Tottenham Hotspur,2024
+2023-12-28,19:30,Premier League,Matchweek 19,Thu,Away,L,2,4,Brighton,2.3,3.2,55,31675,Son Heung-min,4-2-3-1,4-1-2-1-2,Jarred Gillett,Match Report,,19,3,15.2,1.0,0,0,Tottenham Hotspur,2024
+2023-12-31,14:00,Premier League,Matchweek 20,Sun,Home,W,3,1,Bournemouth,2.3,1.7,50,61780,Son Heung-min,4-3-3,4-2-3-1,Simon Hooper,Match Report,,12,6,14.7,0.0,0,0,Tottenham Hotspur,2024
+2024-01-14,16:30,Premier League,Matchweek 21,Sun,Away,D,2,2,Manchester Utd,1.2,0.8,63,73489,Cristian Romero,4-3-3,4-2-3-1,John Brooks,Match Report,,16,5,14.4,0.0,0,0,Tottenham Hotspur,2024
+2024-01-31,19:30,Premier League,Matchweek 22,Wed,Home,W,3,2,Brentford,2.9,1.6,67,61210,Cristian Romero,4-2-3-1,3-5-2,David Coote,Match Report,,19,5,14.3,0.0,0,0,Tottenham Hotspur,2024
+2024-02-03,12:30,Premier League,Matchweek 23,Sat,Away,D,2,2,Everton,1.0,2.6,57,39321,Cristian Romero,4-2-3-1,4-4-1-1,Michael Oliver,Match Report,,9,6,17.8,0.0,0,0,Tottenham Hotspur,2024
+2024-02-10,15:00,Premier League,Matchweek 24,Sat,Home,W,2,1,Brighton,1.6,1.2,52,61445,Cristian Romero,4-2-3-1,4-2-3-1,Samuel Barrott,Match Report,,16,6,17.1,1.0,0,0,Tottenham Hotspur,2024
+2024-02-17,15:00,Premier League,Matchweek 25,Sat,Home,L,1,2,Wolves,1.6,1.8,71,61532,Son Heung-min,4-2-3-1,3-4-3,Anthony Taylor,Match Report,,15,4,14.3,0.0,0,0,Tottenham Hotspur,2024
+2024-03-02,15:00,Premier League,Matchweek 27,Sat,Home,W,3,1,Crystal Palace,1.9,0.3,78,61339,Son Heung-min,4-2-3-1,3-4-3,John Brooks,Match Report,,14,6,13.5,0.0,0,0,Tottenham Hotspur,2024
+2024-03-10,13:00,Premier League,Matchweek 28,Sun,Away,W,4,0,Aston Villa,1.5,0.8,68,42310,Son Heung-min,4-2-3-1,5-3-2,Chris Kavanagh,Match Report,,9,5,14.9,0.0,0,0,Tottenham Hotspur,2024
+2024-03-16,17:30,Premier League,Matchweek 29,Sat,Away,L,0,3,Fulham,2.4,2.6,57,24410,Son Heung-min,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,14,5,14.0,0.0,0,0,Tottenham Hotspur,2024
+2024-03-30,15:00,Premier League,Matchweek 30,Sat,Home,W,2,1,Luton Town,2.9,0.5,70,61534,Son Heung-min,4-2-3-1,4-3-3,Jarred Gillett,Match Report,,17,2,14.5,1.0,0,0,Tottenham Hotspur,2024
+2024-04-02,20:15,Premier League,Matchweek 31,Tue,Away,D,1,1,West Ham,1.0,1.5,67,62469,Son Heung-min,4-2-3-1,4-5-1,John Brooks,Match Report,,13,4,17.4,0.0,0,0,Tottenham Hotspur,2024
+2024-04-07,18:00,Premier League,Matchweek 32,Sun,Home,W,3,1,Nott'ham Forest,1.5,1.5,63,61098,Son Heung-min,4-2-3-1,4-2-3-1,Simon Hooper,Match Report,,17,7,20.2,1.0,0,0,Tottenham Hotspur,2024
+2024-04-13,12:30,Premier League,Matchweek 33,Sat,Away,L,0,4,Newcastle Utd,0.8,2.8,72,52147,Son Heung-min,4-2-3-1,4-3-3,Tim Robinson,Match Report,,11,2,19.0,0.0,0,0,Tottenham Hotspur,2024
+2024-04-28,14:00,Premier League,Matchweek 35,Sun,Home,L,2,3,Arsenal,2.3,1.0,62,61554,Son Heung-min,4-2-3-1,4-3-3,Michael Oliver,Match Report,,14,1,16.8,0.0,1,1,Tottenham Hotspur,2024
+2024-05-02,19:30,Premier League,Matchweek 26,Thu,Away,L,0,2,Chelsea,1.6,2.2,63,39086,Son Heung-min,4-2-3-1,4-2-3-1,Robert Jones,Match Report,,19,3,16.9,0.0,0,0,Tottenham Hotspur,2024
+2024-05-05,16:30,Premier League,Matchweek 36,Sun,Away,L,2,4,Liverpool,1.2,3.3,56,60075,Son Heung-min,4-3-3,4-3-3,Paul Tierney,Match Report,,11,6,21.6,1.0,0,0,Tottenham Hotspur,2024
+2024-05-11,15:00,Premier League,Matchweek 37,Sat,Home,W,2,1,Burnley,2.7,0.7,63,61148,Son Heung-min,4-3-3,4-4-2,Jarred Gillett,Match Report,,21,9,16.0,0.0,0,0,Tottenham Hotspur,2024
+2024-05-14,20:00,Premier League,Matchweek 34,Tue,Home,L,0,2,Manchester City,1.7,2.4,53,61065,Son Heung-min,4-3-1-2,4-2-3-1,Chris Kavanagh,Match Report,,10,5,15.0,0.0,0,0,Tottenham Hotspur,2024
+2024-05-19,16:00,Premier League,Matchweek 38,Sun,Away,W,3,0,Sheffield Utd,3.1,1.0,75,29116,Son Heung-min,4-2-3-1,5-3-2,Andy Madley,Match Report,,18,9,14.4,1.0,0,0,Tottenham Hotspur,2024
